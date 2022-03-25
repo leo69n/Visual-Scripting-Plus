@@ -7,7 +7,7 @@
 + Macro-Visible : <br /> 
 <span>     </span>. Be renamed from Macro-Invisible , and added events Visible-isInScreen ( is Object in working visible screen of Camera ).  <br />
 <span>     </span>. Fixed name input into object input ( objects with same name but differnt unique ID still work particularly).  <br />
-<span>     </span>. Support to check Character (fbx) in screen ( Parent has Macro-Visible and dont have Mesh Render or Skinned Mesh Render,but its child has it. If its child in screen, parent will be in screen, same at not in screen ).  <br />
+<span>     </span>. Support to check Character (fbx) in screen ( Parent has Macro-Visible and dont have Mesh Render or Skinned Mesh Render,but its child has it. If its child in screen, parent will be in screen, same as not in screen, Object To Invisible , Object to Visible ).  <br />
 + Macro-Character : <br /> 
 <span>     </span>. Fixed to work on multi objects now ( Must add Macro-Character into using Object ).  <br />
 + Macro-Pin : <br /> 
