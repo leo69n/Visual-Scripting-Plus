@@ -8,5 +8,5 @@
 <span>     </span>. Renamed to Macro-Visible , and added events Visible-isInScreen ( is Object in working visible screen of Camera ).  <br />
 <span>     </span>. Fixed name input into object input ( objects with same name but differnt unique ID still work particularly)  <br />
 
-+ Macro-Character : 
++ Macro-Character : <br /> 
 <span>     </span>. Fixed to work on multi objects now ( Must add Macro-Character into using Object ).  <br />
