@@ -2,7 +2,7 @@
 - Get Object status is Invisible / Visible  <br/>
 - Make Object to Invisible <br/>
 - Make Object to Visible <br/>
-- Check Object if it is In Screen & Not In Screen <br/>
+- Check Object if it is In Screen & Not In Screen ( in main Camera view ) <br/>
 
 
 *** Require *** <br/>
