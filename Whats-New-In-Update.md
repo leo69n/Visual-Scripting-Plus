@@ -7,7 +7,7 @@
 ***Update Version 1.06 ( Launched on Mar 25,2022 ) : <br />
 + Macro-Bound (<b>*NEW</b>) : <br />
 <span>     </span>. Return closest position if the giving position is out of the collider of Object. ( Example : To make moving touch control on FPS game ).  <br />
-<span>     </span>. Please fix : Macro-System into Macro-Bound. Will update it tomorrow in Asset Store.
+<span>     </span>. Please fix : Macro-System(input) into Macro-Bound. Will update it tomorrow in Asset Store.
 + Macro-Visible : <br /> 
 <span>     </span>. Be renamed from Macro-Invisible , and added events Visible-isInScreen ( is Object in working visible screen of Camera ).  <br />
 <span>     </span>. Fixed name input into object input ( objects with same name but differnt unique ID still work particularly).  <br />
