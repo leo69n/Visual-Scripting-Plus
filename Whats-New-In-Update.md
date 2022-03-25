@@ -1,6 +1,6 @@
 # Bolt-Beginner-Pack
 
-***Update Version 1.06 ( Submited and pending in the Asset Store on Mar 25,2022 ) : <br />
+***Update Version 1.06 ( Launched on Mar 25,2022 ) : <br />
 + Macro-Bound (<b>*NEW</b>) : <br />
 <span>     </span>. Return closest position if the giving position is out of the collider of Object. ( Example : To make moving touch control on FPS game ).  <br />
 
