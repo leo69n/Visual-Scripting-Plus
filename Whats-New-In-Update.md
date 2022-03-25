@@ -1,7 +1,8 @@
 # Bolt-Beginner-Pack
 
 ***Update Version 1.061 : <br />
-+ Working now...
++ Macro-Bound :  <br />
+<span>     </span>. Added Bound in for 3D objects. [ Bound-BoundInBoxCollider3D ] [ Bound-BoundInBoxShrere3D ]...
 
 ***Update Version 1.06 ( Launched on Mar 25,2022 ) : <br />
 + Macro-Bound (<b>*NEW</b>) : <br />
