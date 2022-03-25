@@ -10,3 +10,5 @@
 <span>     </span>. Support to check Character (fbx) in screen ( Parent has Macro-Visible and dont have Mesh Render or Skinned Mesh Render,but its child has it. If its child in screen, parent will be in screen, same at not in screen ).  <br />
 + Macro-Character : <br /> 
 <span>     </span>. Fixed to work on multi objects now ( Must add Macro-Character into using Object ).  <br />
++ Macro-Pin : <br /> 
+<span>     </span>. Fixed to Pin to object but still keep the original distance. Camera follow Player : simply just add Macro-Pin to Main Camera and drag object Player to Pin-Target slot. There will be tutorial soon !   <br />
