@@ -1,8 +1,9 @@
-*** Macro-Visible *** <br/>
+*** Macro-Visible ***
 - [variable: Visible-isInvisible ] Get Object status is Invisible / Visible  <br/>
+- [variable: Visible-InScreen ] Check Object if it is In Screen & Not In Screen ( in main Camera view ) <br/>
 - [ Visible-ObjectToInvisible ] Make Object to Invisible <br/>
 - [ Visible-ObjectToVisible ] Make Object to Visible <br/>
-- [variable: Visible-InScreen ] Check Object if it is In Screen & Not In Screen ( in main Camera view ) <br/>
+
 
 
 *** Require *** <br/>
