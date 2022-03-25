@@ -4,7 +4,7 @@
 - [ Visible-ObjectToInvisible ] Make Object to Invisible <br/>
 - [ Visible-ObjectToVisible ] Make Object to Visible <br/>
 
-
+- Support to check Character (fbx) in screen ( Parent has Macro-Visible and dont have Mesh Render or Skinned Mesh Render,but its child has it. If its child in screen, parent will be in screen, same at not in screen ).
 
 *** Require *** <br/>
  - Add Macro-Visible into using Object <br/>
