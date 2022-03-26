@@ -1,8 +1,8 @@
 # Bolt-Beginner-Pack
 
 <h2>***Update Version 1.062 ( working) :</h2>
-+ Macro-Bound ( complete ) :  <br />
-<p>   . Macro-Pin : add [ Pin-StartSmoothPin ] : smooth follow to an object in a giving time ( to move Camera follow Character smoothly ) </p>
+<b>+ Macro-Pin : </b>
+<p>   . Add [ Pin-StartSmoothPin ] : smooth follow to an object in a giving time ( to move Camera follow Character smoothly ) </p>
 
 <p> </p>
 
