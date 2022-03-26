@@ -1,7 +1,7 @@
 # Bolt-Beginner-Pack
 
 <h2>***Update Version 1.061 (working) :</h2>
-+ Macro-Bound :  <br />
++ Macro-Bound ( complete ) :  <br />
 		. Added Bound in for 3D objects. ( to limit moving 3D Objects not to move out of a area ) [ Bound-BoundInBoxCollider3D ] [ Bound-BoundInBoxSphere3D ] [ Bound-BoundInBoxCapsule3D ]...  <br />
 		. Added Bound in for 2D objects. ( to limit moving 2D Objects not to move out of a area ) [ Bound-BoundInBoxCollider2D ] [ Bound-BoundInBoxCircle2D ]...     <br />
 + Macro-Visible : fix name the variable Visilbe-Invisible.  <br />
