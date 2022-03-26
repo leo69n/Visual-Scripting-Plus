@@ -2,7 +2,7 @@
 
 <h2>***Update Version 1.062 ( working) :</h2>
 <b>+ Macro-Pin : </b>
-<p>   . Add [ Pin-StartSmoothPin ] : smooth follow to an object in a giving time ( to move Camera follow Character smoothly ) </p>
+<p>   . Add [ Pin-StartSmoothPin ] : smoothly follow to an object in a giving time ( to move Camera follow Character smoothly ) </p>
 
 <p> </p>
 
