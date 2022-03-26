@@ -1,5 +1,11 @@
 # Bolt-Beginner-Pack
 
+<h2>***Update Version 1.062 ( working) :</h2>
++ Macro-Bound ( complete ) :  <br />
+<p>   . Macro-Pin : add [ Pin-StartSmoothPin ] : smooth follow to an object in a giving time ( to move Camera follow Character smoothly ) </p>
+
+<p> </p>
+
 <h2>***Update Version 1.061 ( Submited on Mar 26,2022) :</h2>
 + Macro-Bound ( complete ) :  <br />
 		. Added Bound in for 3D objects. ( to limit moving 3D Objects not to move out of a area ) [ Bound-BoundInBoxCollider3D ] [ Bound-BoundInBoxSphere3D ] [ Bound-BoundInBoxCapsule3D ]...  <br />
