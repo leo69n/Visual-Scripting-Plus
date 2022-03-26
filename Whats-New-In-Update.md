@@ -2,8 +2,8 @@
 
 ***Update Version 1.061 : <br />
 + Macro-Bound :  <br />
-<span>     </span>. Added Bound in for 3D objects. ( to limit 3D Objects not to move out of a area ) [ Bound-BoundInBoxCollider3D ] [ Bound-BoundInBoxShrere3D ]...  <br />
-<span>     </span>. Added Bound in for 2D objects. ( to limit 2D Objects not to move out of a area ) [ Bound-BoundInBoxCollider2D ] [ Bound-BoundInBoxShrere2D ]...     <br />
+<span>     </span>. Added Bound in for 3D objects. ( to limit moving 3D Objects not to move out of a area ) [ Bound-BoundInBoxCollider3D ] [ Bound-BoundInBoxShrere3D ]...  <br />
+<span>     </span>. Added Bound in for 2D objects. ( to limit moving 2D Objects not to move out of a area ) [ Bound-BoundInBoxCollider2D ] [ Bound-BoundInBoxShrere2D ]...     <br />
 <p> </p>
 ***Update Version 1.06 ( Launched on Mar 25,2022 ) : <br />
 + Macro-Bound (<b>*NEW</b>) : <br />
