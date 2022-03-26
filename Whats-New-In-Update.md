@@ -2,8 +2,8 @@
 
 <h2>***Update Version 1.061 (working) :</h2>
 + Macro-Bound :  <br />
-<span>       </span>. Added Bound in for 3D objects. ( to limit moving 3D Objects not to move out of a area ) [ Bound-BoundInBoxCollider3D ] [ Bound-BoundInBoxShrere3D ]...  <br />
-<span>       </span>. Added Bound in for 2D objects. ( to limit moving 2D Objects not to move out of a area ) [ Bound-BoundInBoxCollider2D ] [ Bound-BoundInBoxShrere2D ]...     <br />
+      . Added Bound in for 3D objects. ( to limit moving 3D Objects not to move out of a area ) [ Bound-BoundInBoxCollider3D ] [ Bound-BoundInBoxShrere3D ]...  <br />
+      . Added Bound in for 2D objects. ( to limit moving 2D Objects not to move out of a area ) [ Bound-BoundInBoxCollider2D ] [ Bound-BoundInBoxShrere2D ]...     <br />
 + Macro-Visible : fix name the variable Visilbe-Invisible.  <br />
 + Video Tutorial of Macro-Bound uploaded on Youtube. <br />
 <p> </p>
