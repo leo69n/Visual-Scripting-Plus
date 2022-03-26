@@ -1,11 +1,11 @@
 # Bolt-Beginner-Pack
 
-***Update Version 1.061 : <br />
+<h2>***Update Version 1.061 :</h2> <br />
 + Macro-Bound :  <br />
 <span>     </span>. Added Bound in for 3D objects. ( to limit moving 3D Objects not to move out of a area ) [ Bound-BoundInBoxCollider3D ] [ Bound-BoundInBoxShrere3D ]...  <br />
 <span>     </span>. Added Bound in for 2D objects. ( to limit moving 2D Objects not to move out of a area ) [ Bound-BoundInBoxCollider2D ] [ Bound-BoundInBoxShrere2D ]...     <br />
 <p> </p>
-***Update Version 1.06 ( Launched on Mar 25,2022 ) : <br />
+<h2>***Update Version 1.06 ( Launched on Mar 25,2022 ) : </h2> <br />
 + Macro-Bound (<b>*NEW</b>) : <br />
 <span>     </span>. Return closest position if the giving position is out of the collider of Object. ( Example : To make moving touch control on FPS game ).  <br />
 <span>     </span>. Please fix : Macro-System(input) into Macro-Bound. It will be fix it in next update.
