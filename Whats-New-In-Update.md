@@ -3,7 +3,7 @@
 <h2>***Update Version 1.062 ( working) :</h2>
 <b>+ Macro-Pin : </b>
 <p>   . Add [ Pin-StartSmoothPin ] : smoothly follow to an object in a giving time ( to move Camera follow Character smoothly ) </p>
-
+<p>   . Video tutorial of Macro-Pin : Camera follow Player smoothly uploaded on youtube </p>
 <p> </p>
 
 <h2>***Update Version 1.061 ( Submited on Mar 26,2022) :</h2>
@@ -11,7 +11,7 @@
 		. Added Bound in for 3D objects. ( to limit moving 3D Objects not to move out of a area ) [ Bound-BoundInBoxCollider3D ] [ Bound-BoundInBoxSphere3D ] [ Bound-BoundInBoxCapsule3D ]...  <br />
 		. Added Bound in for 2D objects. ( to limit moving 2D Objects not to move out of a area ) [ Bound-BoundInBoxCollider2D ] [ Bound-BoundInBoxCircle2D ]...     <br />
 + Macro-Visible : fix name the variable Visilbe-Invisible.  <br />
-+ Video Tutorial of Macro-Bound uploaded on Youtube. <br />
++ Video Tutorial of Macro-Bound (create Touch-Control ) uploaded on Youtube. <br />
 <p> </p>
 <h2>***Update Version 1.06 ( Launched on Mar 25,2022 ) : </h2>
 + Macro-Bound (<b>*NEW</b>) : <br />
