@@ -15,7 +15,7 @@
 <p>   . Fix variable == value to String ( now give correct result if input is an Int, Float...)
 <p> </p>
 
-<b>+ Macro-Character : Added more events </b>
+<b>+ Macro-Character : </b>Added more events 
 <p>   . Character-MoveToPosition : Move a character ( like patrol enemies ) to a giving position in a giving speed </p>
 <p>   . Character-OnEnd-MoveToPosition : Trigger when a character arrived the giving position of [Character-MoveToPosition] and stopped moving ( to repeat
 track a new route and move that character ( like patrol enemies ) again )</p>
