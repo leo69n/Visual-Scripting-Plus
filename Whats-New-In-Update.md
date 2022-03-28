@@ -3,11 +3,16 @@
 <b>+ Macro-Pin : </b>
 <p>   . Fix name : Size -> Scale
 <p> </p>
+
 <b>+ Macro-System : </b>
 <p>   . Get random a position inside Box Collider 3D ( Move enemy in random positions )	</p>
 <p>   . Get random a position inside Box Collider 2D	</p>
 <p>   . Get random a position inside Sphere Collider 3D	</p>
 <p>   . Get random a position inside Circle Collider 3D	</p>
+<p> </p>
+
+<b>+ Macro-Object : </b>
+<p>   . Fix variable == value to String ( now give correct result if input is an Int, Float...)
 <p> </p>
 
 <h2>***Update Version 1.062 ( Submited on Mar 27,2022) :</h2>
