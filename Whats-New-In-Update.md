@@ -15,6 +15,13 @@
 <p>   . Fix variable == value to String ( now give correct result if input is an Int, Float...)
 <p> </p>
 
+<b>+ Macro-Character : Added more events </b>
+<p>   . Character-MoveToPosition : Move a character ( like patrol enemies ) to a giving position in a giving speed </p>
+<p>   . Character-OnEnd-MoveToPosition : Trigger when a character arrived the giving position of [Character-MoveToPosition] and stopped moving ( to repeat
+track a new route and move that character ( like patrol enemies ) again )</p>
+
+<p> </p>
+
 <h2>***Update Version 1.062 ( Submited on Mar 27,2022) :</h2>
 <b>+ Macro-Pin : </b>
 <p>   . Add [ Pin-StartSmoothPin ] : smoothly follow to an object in a giving time ( to move Camera follow Character smoothly ) </p>
