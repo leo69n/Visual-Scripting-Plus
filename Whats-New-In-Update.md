@@ -4,7 +4,7 @@
 <p>   . Fix name : Size -> Scale
 <p> </p>
 
-<b>+ Macro-System : </b>
+<b>+ Macro-Bound : </b> Added more events
 <p>   . Get random a position inside Box Collider 3D ( Move enemy in random positions )	</p>
 <p>   . Get random a position inside Box Collider 2D	</p>
 <p>   . Get random a position inside Sphere Collider 3D	</p>
