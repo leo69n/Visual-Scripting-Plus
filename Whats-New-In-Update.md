@@ -4,7 +4,7 @@
 <b>+ Macro-Character : </b>Added more events 
 <p>   . Character-FaceAngleToRight : Turn Character Face To The Right </p>
 <p>   . Character-FaceToAngle : Turn Character Face to the giving angle ( 360 degree ) ( must set Face turn to the right before using this )</p>
-<p>   * Use System-Angle2D to ease to get Angle in 360 degree of 2 positions </p>
+<p>   <i>* Use System-Angle2D to easy to get Angle in 360 degree of 2 positions </i></p>
 <p> </p>
 
 <h2>***Update Version 1.063 ( Submited on Mar 28,2022 ) :</h2>
