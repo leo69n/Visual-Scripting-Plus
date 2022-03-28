@@ -12,7 +12,7 @@
 <p> </p>
 
 <b>+ Macro-Object : </b>
-<p>   . Fix variable == value to String ( now give correct result if input is an Int, Float...)
+<p>   . Fix variable == value to String ( now give correct result if input is an Int, Float... on comparasion of = )
 <p> </p>
 
 <b>+ Macro-Character : </b>Added more events 
