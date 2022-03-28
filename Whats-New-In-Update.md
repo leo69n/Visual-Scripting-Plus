@@ -19,7 +19,7 @@
 <p>   . Character-MoveToPosition : Move a character ( like patrol enemies ) to a giving position in a giving speed </p>
 <p>   . Character-OnEnd-MoveToPosition : Trigger when a character arrived the giving position of [Character-MoveToPosition] and stopped moving ( to repeat
 track a new route and move that character ( like patrol enemies ) again )</p>
-
+<p>   . Character-PlayAnimation : simply call motion name to run that animation. Don't need to add parameters and Exit-time </p>
 <p> </p>
 
 <h2>***Update Version 1.062 ( Submited on Mar 27,2022) :</h2>
