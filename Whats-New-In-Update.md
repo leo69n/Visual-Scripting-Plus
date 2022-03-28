@@ -1,6 +1,6 @@
 # Bolt-Beginner-Pack
 
-<h2>***Update Version 1.064 ( working ) :</h2>
+<h2>***Update Version 1.065 ( working ) :</h2>
 <b>+ Macro-Character : </b>Added more events 
 <p>   . Character-FaceAngleToRight : Turn Character Face To The Right </p>
 <p>   . Character-FaceToAngle : Turn Character Face to the giving angle ( 360 degree ) ( must set Face turn to the right before using this )</p>
