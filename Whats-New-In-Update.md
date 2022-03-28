@@ -1,7 +1,8 @@
 # Bolt-Beginner-Pack
 <h2>***Update Version 1.063 ( working ) :</h2>
 <b>+ Macro-Pin : </b>
-<p>   . Fix name : Size -> Scale
+<p>   . Fix name : Size -> Scale </p>
+<p>   . Shorten custom event of Pin-Start , Pin-StartSmoothPin </p>
 <p> </p>
 
 <b>+ Macro-Bound : </b> Added more events
