@@ -8,7 +8,7 @@
 <p>   . Get random a position inside Box Collider 3D ( Move enemy in random positions )	</p>
 <p>   . Get random a position inside Box Collider 2D	</p>
 <p>   . Get random a position inside Sphere Collider 3D	</p>
-<p>   . Get random a position inside Circle Collider 3D	</p>
+<p>   . Get random a position inside Circle Collider 2D	</p>
 <p> </p>
 
 <b>+ Macro-Object : </b>
