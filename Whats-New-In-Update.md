@@ -5,6 +5,7 @@
 <p>   . Character-FaceAngleToRight : Turn Character Face To The Right </p>
 <p>   . Character-FaceToAngle : Turn Character Face to the giving angle ( 360 degree ) ( must set Face turn to the right before using this or before start game )</p>
 <p>   <i>* Use System-Angle2D to easy to get Angle in 360 degree of 2 positions </i></p>
+<p>   . Character-MoveToDirection (use Velocity) : Player move to direction X , Y or Z ( work for Touch control or keyboard also ... </p>
 <p> </p>
 
 <h2>***Update Version 1.063 ( Submited on Mar 28,2022 ) :</h2>
@@ -25,7 +26,7 @@
 <p> </p>
 
 <b>+ Macro-Character : </b>Added more events 
-<p>   . Character-MoveToPosition : Move a character ( like patrol enemies ) to a giving position in a giving speed </p>
+<p>   . Character-MoveToPosition (use Velocity) : Move a character ( like patrol enemies ) to a giving position in a giving speed </p>
 <p>   . Character-OnEnd-MoveToPosition : Trigger when a character arrived the giving position of [Character-MoveToPosition] and stopped moving ( to track a new route and move that character ( like patrol enemies ) again )</p>
 <p>   . Character-PlayAnimation : simply call motion name to run that animation. Don't need to add parameters and Exit-time </p>
 <p> </p>
