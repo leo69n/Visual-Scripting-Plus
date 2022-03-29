@@ -5,7 +5,7 @@
 <p>   . Character-FaceAngleToRight : Turn Character Face To The Right </p>
 <p>   . Character-FaceToAngle : Turn Character Face to the giving angle ( 360 degree ) ( must set Face turn to the right before using this or before start game )</p>
 <p>   <i>* Use System-Angle2D to easy to get Angle in 360 degree of 2 positions </i></p>
-<p>   . Character-MoveToDirection (use Velocity) : Player move to direction X , Y or Z ( work for Touch control or keyboard also ... </p>
+<p>   . Character-MoveToDirection (use Velocity) : Player move to direction X , Y or Z ( work for Touch control or keyboard also ...) </p>
 <p> </p>
 
 <h2>***Update Version 1.063 ( Submited on Mar 28,2022 ) :</h2>
