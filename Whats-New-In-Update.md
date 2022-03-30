@@ -1,6 +1,10 @@
 # Bolt-Beginner-Pack
 
-<h2>***Update Version 1.065 ( working ) :</h2>
+<h2>***Update Version 1.066 ( working ) :</h2>
+<b>+ Macro-WWW : connect sql and return result from database of Website</b>
+<p> </p>
+
+<h2>***Update Version 1.065 ( Submited on Mar 29,2022 ) :</h2>
 <b>+ Macro-Character : </b>Added more events 
 <p>   . Character-FaceAngleToRight : Turn Character Face To The Right </p>
 <p>   . Character-FaceToAngle : Turn Character Face to the giving angle ( 360 degree ) ( must set Face turn to the right before using this or before start game )</p>
