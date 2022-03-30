@@ -1,7 +1,7 @@
 # Bolt-Beginner-Pack
 
 <h2>***Update Version 1.066 ( working ) :</h2>
-<b>+ Macro-WWW : connect sql and return result from database of Website</b>
+<b>+ Macro-WWW : </b> connect sql and return result from database of Website
 <p> </p>
 
 <h2>***Update Version 1.065 ( Submited on Mar 29,2022 ) :</h2>
