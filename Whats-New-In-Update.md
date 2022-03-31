@@ -4,6 +4,9 @@
 <b>+ Macro-Url : </b> Send Url request to Website and get return result from database of Website ( Use : Login Online, Shop trading Online ... )
 <p>   <b>*** Fixed All-Macro :</b> Sometimes Debug.Log print out same things 2-3 times at one  [ Fixed ] </p>
 <b>+ Macro-Tween , Macro-Sine : </b>Shorten Custom Event call, and better for same name objects to use 
+<p> </p>
+<b>+ Macro-System : </b>Added more events 
+<p>   . System-SetOpacity : Set opacity of an Object </p>
 
 <p> </p>
 
