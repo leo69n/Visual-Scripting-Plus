@@ -2,7 +2,7 @@
 
 <h2>***Update Version 1.066 ( working ) :</h2>
 <b>+ Macro-WWW : </b> connect sql ( using mysqli_ ) and return result from database of Website
-<p>   *** Fixed All-Macro : Sometimes Debug.Log print out same things 2-3 times at one </p>
+<p>   <b>*** Fixed All-Macro :</b> Sometimes Debug.Log print out same things 2-3 times at one </p>
 <p> </p>
 
 <h2>***Update Version 1.065 ( Submited on Mar 29,2022 ) :</h2>
