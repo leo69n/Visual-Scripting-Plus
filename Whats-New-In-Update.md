@@ -3,7 +3,7 @@
 <h2>***Update Version 1.066 ( working ) :</h2>
 <b>+ Macro-Url : </b> Send Url request to Website and get return result from database of Website ( Use : Login Online, Shop trading Online ... )
 <p>   <b>*** Fixed All-Macro :</b> Sometimes Debug.Log print out same things 2-3 times at one </p>
-<b>+ Macro-Tween , Macro-Sine : </b>Shorten Custom Event call, and better for many same name objects to use 
+<b>+ Macro-Tween , Macro-Sine : </b>Shorten Custom Event call, and better for same name objects to use 
 
 <p> </p>
 
