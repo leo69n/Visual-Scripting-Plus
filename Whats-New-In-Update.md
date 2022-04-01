@@ -2,7 +2,7 @@
 
 <h2>***Update Version 1.067 ( working ) :</h2>
 <b>+ Macro-Character : </b>Added more events 
-<p>   . Character-SetAnimatorSpeed : Set speed of current Motion </p>
+<p>   . Character-SetAnimatorSpeed : Set speed of current Animator ( playing Motion speed ) </p>
 
 <p> </p>
 
