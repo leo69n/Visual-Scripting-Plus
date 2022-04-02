@@ -5,7 +5,7 @@
 <p>   . Character-SetAnimatorSpeed : Set speed of Animator ( current Motion speed ) </p>
 <p>   . Character-SetIdleName : Set name of Idle motion. To use NO LOOP motion repeatedly, because Unity can't play 1 motion twice. Call this one time only then use  [Character-PlayNoLoopMotion] many times as you want to repeat that motion. If Idle motion name is "Idle", don't need to call this. </p>
 <p>   . Variable can get : [Character-playingMotion] to get current motion in play </p>
-<p>   . Character-OnEndAnimator : triggered when a non-looping motion ended </p>
+<p>   . Character-OnEndMotionr : triggered when a non-looping motion ended </p>
 
 <b>+ Macro-Visible : </b>Added more events 
 <p>   . Visible-InvisibleObjectAndAllChildren : set Invisible (turn render off) an object and all children inside it </p>
