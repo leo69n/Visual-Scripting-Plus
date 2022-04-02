@@ -5,9 +5,9 @@
 <p>   . Character-SetAnimatorSpeed : Set speed of Animator ( current Motion speed ) </p>
 
 <b>+ Macro-Visible : </b>Added more events 
-<p>   . Visible-InvisibleMeAndAllChildren : set Invisible (turn render off) an object and all children inside it </p>
-<p>   . Visible-VisibleMeAndAllChildren : set Visible (turn render on) an object and all children inside it </p>
-
+<p>   . Visible-InvisibleObjectAndAllChildren : set Invisible (turn render off) an object and all children inside it </p>
+<p>   . Visible-VisibleObjectAndAllChildren : set Visible (turn render on) an object and all children inside it </p>
+ <p> <b>*Fixed Note : Only add Macro-Visible into using Object If using Visible-InScreen | Visble-NotInScreen </b> </p>
 <p> </p>
 
 <h2>***Update Version 1.066 ( Launched on Mar 31,2022 ) :</h2>
