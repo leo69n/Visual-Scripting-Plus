@@ -15,6 +15,11 @@
  <p> <b>*Fixed Note : Only add Macro-Visible into using Object If using Visible-InScreen | Visble-NotInScreen </b> </p>
 <p> </p>
 
+<b>+ Macro-Object : </b>Added more events 
+<p>   . Object-DeleteAnObject : fixed bug </p>
+<p> </p>
+
+
 <h2>***Update Version 1.066 ( Launched on Mar 31,2022 ) :</h2>
 <b>+ Macro-Url : </b> Send Url request to Website and get return result from database of Website ( Use : Login Online, Shop trading Online ... )
 <p>   <b>*** Fixed All-Macro :</b> Sometimes Debug.Log print out same things 2-3 times at one  [ Fixed ] </p>
