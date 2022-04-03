@@ -15,7 +15,7 @@
  <p> <b>*Fixed Note : Only add Macro-Visible into using Object If using Visible-InScreen | Visble-NotInScreen </b> </p>
 <p> </p>
 
-<b>+ Macro-Object : </b>Added more events 
+<b>+ Macro-Object : </b>
 <p>   . Object-DeleteAnObject : fixed bug </p>
 <p> </p>
 
