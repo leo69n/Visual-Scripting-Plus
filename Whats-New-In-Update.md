@@ -17,6 +17,7 @@
 
 <b>+ Macro-Object : </b>
 <p>   . Object-DeleteAnObject : fixed bug </p>
+<p>   . Object-CreateObject & Object-CreateObjectAndParent : must add Macro-Object into using Object for faster return. </p>
 <p> </p>
 
 
