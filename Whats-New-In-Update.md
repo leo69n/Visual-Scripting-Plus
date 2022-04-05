@@ -1,6 +1,12 @@
 # Bolt-Beginner-Pack
 
 <h2>***Update Version 1.067 ( working ) :</h2>
+
+<b>+ Macro-Angle360 : </b>
+<p>   . Angle360-Y : Angle Y in 360 degree ( right = 0 , left = 180 ) </p>
+<p> </p>
+
+
 <b>+ Macro-Character : </b>Added more events 
 <p>   . Character-SetAnimatorSpeed : Set speed of Animator ( current Motion speed ) </p>
 <p>   . Character-SetIdleName : Set name of Idle motion. To use NO LOOP motion repeatedly, because Unity can't play 1 motion twice. Call this one time only then use  [Character-PlayNoLoopMotion] many times as you want to repeat that motion. If Idle motion name is "Idle", don't need to call this. </p>
