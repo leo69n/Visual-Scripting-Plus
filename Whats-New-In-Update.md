@@ -3,7 +3,7 @@
 <h2>***Update Version 1.067 ( working ) :</h2>
 
 <b>+ Macro-Angle360 : </b>
-<p>   . Angle360-Y : Angle Y in 360 degree ( right = 0 , left = 180 ) </p>
+<p>   . Angle360-Y : Angle Y in 360 degree ( right = 0 , left = 180 ) . ( work as 2D, it's not like Euler Angle or Quaternion rotation . Easier to use to rotate 3D Character ) </p>
 <p> </p>
 
 
