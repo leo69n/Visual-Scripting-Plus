@@ -32,6 +32,14 @@
 <p> </p>
 
 
+<b>+ Macro-Bound : </b> Added more events 
+<p>   . Bound-isInsideBox3D : check if a position inside a Box Collider. Return Bool </p>
+<p>   . Bound-isInsideSphere3D : check if a position inside a Sphere Collider. Return Bool </p>
+<p>   . Bound-isInsideCapsule3D : check if a position inside a Capsule Collider. Return Bool </p>
+<p> </p>
+
+
+
 <h2>***Update Version 1.066 ( Launched on Mar 31,2022 ) :</h2>
 <b>+ Macro-Url : </b> Send Url request to Website and get return result from database of Website ( Use : Login Online, Shop trading Online ... )
 <p>   <b>*** Fixed All-Macro :</b> Sometimes Debug.Log print out same things 2-3 times at one  [ Fixed ] </p>
