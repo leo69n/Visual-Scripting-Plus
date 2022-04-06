@@ -7,6 +7,7 @@
 
 <p>   . Angle360-SetAngleY : Rotate Character to AngleY </p>
 
+<p>   . Angle360-EulerAngleAt0Degree : Set Euler Angle At 0 Degree ( when Face toward Right = 0 degree) </p>
 <p> </p>
 
 
