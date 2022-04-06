@@ -4,6 +4,9 @@
 
 <b>+ Macro-Angle360 : </b>
 <p>   . Angle360-Y : Angle Y in 360 degree ( right = 0 , left = 180 ) . ( work as 2D, it's not like Euler Angle or Quaternion rotation . Easier to use to rotate 3D Character ). (***Rigidbody : must freeze rotation: x,y,z ; freeze position : x,z | or not use gravity to get the best result ) </p>
+
+<p>   . Angle360-SetAngleY : Rotate Character to AngleY </p>
+
 <p> </p>
 
 
