@@ -17,6 +17,7 @@
 <p>   . Variable can get : [Character-playingMotion] to get current motion in play </p>
 <p>   . Character-OnEndMotion : triggered when a non-looping motion ended </p>
 <p>   . Character-Cancel-MoveToPosition : Cancel processing of [Character-MoveToPosition] </p>
+<p>   . Character-GetMotionDuration : get duration of a motion </p>
 
 
 <b>+ Macro-Visible : </b>Added more events 
