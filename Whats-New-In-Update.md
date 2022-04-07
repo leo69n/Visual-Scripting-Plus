@@ -38,6 +38,10 @@
 <p>   . Bound-isInsideCapsule3D : check if a position inside a Capsule Collider. Return Bool </p>
 <p> </p>
 
+<b>+ Macro-Pin : </b> Added more events 
+<p>   . Pin-Type = Origin : Pin object1 to Object2 , Object1 will rotate around Object 2 , but keep origin distance and angle of Object 1 toward Object 2. (To set position to shoot skills, or use for collsitions infront of object )  </p>
+<p> </p>
+
 
 
 <h2>***Update Version 1.066 ( Launched on Mar 31,2022 ) :</h2>
