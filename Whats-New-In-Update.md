@@ -2,8 +2,12 @@
 
 <h2>***Update Version 1.067 ( working ) :</h2>
 
-<b>+ Macro-Pin : </b> Added more events 
-<p>   . Pin-Type = Origin : Pin object1 to Object2 , Object1 will rotate around Object 2 , but keep origin distance and angle of Object 1 toward Object 2. (To set position to shoot skills, or use for collsitions infront of object )  </p>
+<b>+ Macro-System : </b> Added more events 
+<p>   . System-SetOpacity : Set Opacity An Object  </p>
+<p>   . System-Angle360.Y : Convert Euler Angle Y into 360Angle Y  </p>
+<p>   . System-Set360Angle.Y : Set Character Angle Y in 360Angle  </p>
+<p>   . System-PositionTowardAngleInDistance : Get Position Toward Angle in Distance ( 2D )  </p>
+<p>   . System-3DPositionTowardAngleInDistance : Get Position Toward Angle in Distance ( 3D )  </p>
 <p> </p>
 
 <b>+ Macro-Pin : </b> Added more events 
