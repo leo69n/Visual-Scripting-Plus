@@ -2,14 +2,13 @@
 
 <h2>***Update Version 1.067 ( working ) :</h2>
 
-<b>+ Macro-Angle360 : </b>
-<p>   . Angle360-Y : Angle Y in 360 degree ( right = 0 , left = 180 ) . ( Angle based on Character.Rotation.Y . Easier to use to rotate 3D Character ). </p>
-
-<p>   . Angle360-SetAngleY : Rotate Character to AngleY </p>
-
-<p>   . Angle360-EulerAngleAt0Degree : Set Euler Angle At 0 Degree ( when Face toward Right = 0 degree) </p>
+<b>+ Macro-Pin : </b> Added more events 
+<p>   . Pin-Type = Origin : Pin object1 to Object2 , Object1 will rotate around Object 2 , but keep origin distance and angle of Object 1 toward Object 2. (To set position to shoot skills, or use for collsitions infront of object )  </p>
 <p> </p>
 
+<b>+ Macro-Pin : </b> Added more events 
+<p>   . Pin-Type = Origin : Pin object1 to Object2 , Object1 will rotate around Object 2 , but keep origin distance and angle of Object 1 toward Object 2. (To set position to shoot skills, or use for collsitions infront of object )  </p>
+<p> </p>
 
 <b>+ Macro-Character : </b>Added more events 
 <p>   . Character-SetAnimatorSpeed : Set speed of Animator ( current Motion speed ) </p>
@@ -36,10 +35,6 @@
 <p>   . Bound-isInsideBox3D : check if a position inside a Box Collider. Return Bool </p>
 <p>   . Bound-isInsideSphere3D : check if a position inside a Sphere Collider. Return Bool </p>
 <p>   . Bound-isInsideCapsule3D : check if a position inside a Capsule Collider. Return Bool </p>
-<p> </p>
-
-<b>+ Macro-Pin : </b> Added more events 
-<p>   . Pin-Type = Origin : Pin object1 to Object2 , Object1 will rotate around Object 2 , but keep origin distance and angle of Object 1 toward Object 2. (To set position to shoot skills, or use for collsitions infront of object )  </p>
 <p> </p>
 
 
