@@ -44,9 +44,14 @@
 
 
 <b>+ Macro-Bound : </b> Added more events 
-<p>   . Bound-isInsideBox3D : check if a position inside a Box Collider. Return Bool </p>
-<p>   . Bound-isInsideSphere3D : check if a position inside a Sphere Collider. Return Bool </p>
-<p>   . Bound-isInsideCapsule3D : check if a position inside a Capsule Collider. Return Bool </p>
+<p>   . Bound-isInsideBox3D : check if a position inside a Box Collider 3D. Return Bool </p>
+<p>   . Bound-isInsideSphere3D : check if a position inside a Sphere Collider 3D. Return Bool </p>
+<p>   . Bound-isInsideCapsule3D : check if a position inside a Capsule Collider 3D. Return Bool </p>
+<p>   . Bound-isInsideBox2D : check if a position inside a Box Collider 2D. Return Bool </p>
+<p>   . Bound-isInsideCircle2D : check if a position inside a Circle Collider 2D. Return Bool </p>
+<p>   . Bound-isInsideCapsule2D : check if a position inside a Capsule Collider 2D. Return Bool </p>
+<p>   . Bound-isInsidePolygon2D : check if a position inside a Polygon Collider 2D. Return Bool </p>
+
 <p> </p>
 
 
