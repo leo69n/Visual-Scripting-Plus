@@ -8,6 +8,10 @@
 <p>   . System-Set360Angle.Y : Set Character Angle Y in 360Angle  </p>
 <p>   . System-PositionTowardAngleInDistance : Get Position Toward Angle in Distance ( 2D )  </p>
 <p>   . System-3DPositionTowardAngleInDistance : Get Position Toward Angle in Distance ( 3D )  </p>
+<p>   . System-GetObjectByNameFromAnotherScene : Get Object By Name From Another Scene   </p>
+<p>   . System-GetObjectByNameFromAnotherScene : Get Object By Tag From Another Scene   </p>
+<p>   . System-GetObjectByNameFromAnotherScene : Get Objects ( List ) By Tag From Another Scene </p>
+
 <p> </p>
 
 <b>+ Macro-Pin : </b> Added more events 
