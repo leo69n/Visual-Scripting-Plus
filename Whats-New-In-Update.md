@@ -18,6 +18,10 @@
 <p>   . Pin-Type = Origin : Pin object1 to Object2 , Object1 will rotate around Object 2 , but keep origin distance and angle of Object 1 toward Object 2. (To set position to shoot skills, or use for collsitions infront of object )  </p>
 <p> </p>
 
+<b>+ Macro-Tween : </b>
+<p>   . Tween-OnTweenEnd : must call inside the using Object  </p>
+<p> </p>
+
 <b>+ Macro-Character : </b>Added more events 
 <p>   . Character-SetAnimatorSpeed : Set speed of Animator ( current Motion speed ) </p>
 <p>   . Character-SetIdleName : Set name of Idle motion. To use NO LOOP motion repeatedly, because Unity can't play 1 motion twice. Call this one time only then use  [Character-PlayNoLoopMotion] many times as you want to repeat that motion. If Idle motion name is "Idle", don't need to call this. </p>
