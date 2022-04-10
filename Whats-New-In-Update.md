@@ -2,7 +2,7 @@
 
 <h2>***Update Version 1.07 ( working ) :</h2>
 
-<b>+ Macro-Url : </b> Added more events 
+<b>+ Macro-Url : </b>
 <p>   . Fixed error can not build : Delete Bolt.UnityEvent.Widget.cs to fix it  </p>
 
 <p> </p>
