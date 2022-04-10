@@ -1,6 +1,15 @@
 # Bolt-Beginner-Pack
 
-<h2>***Update Version 1.068 ( Submited April 09, 2022 ) :</h2>
+<h2>***Update Version 1.07 ( working ) :</h2>
+
+<b>+ Macro-Url : </b> Added more events 
+<p>   . Fixed error can not build : Delete Bolt.UnityEvent.Widget.cs to fix it  </p>
+
+<p> </p>
+
+
+
+<h2>***Update Version 1.069 ( Submited April 09, 2022 ) :</h2>
 
 <b>+ Macro-System : </b> Added more events 
 <p>   . System-SetOpacity : Set Opacity An Object  </p>
