@@ -1,6 +1,9 @@
 # Bolt-Beginner-Pack
+<h2>Updating Visual Scripting : Visual-Beginner-Pack </h2>
+<p>   . Purchasing Bolt-Beginner-Pack or Visual-Biginner-Pack will get a folder contain Both of them. </p>
 
-<h2>***Update Version 1.07 ( working ) :</h2>
+
+<h2>***Update Version 1.07 ( working ) : </h2>
 
 <b>+ Series of Tutorial Making Game No Code with Bolt - Beginner - Pack  : </b>
 
