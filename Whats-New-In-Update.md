@@ -4,11 +4,11 @@
 
 <b>+ Series of Tutorial Making Game No Code with Bolt - Beginner - Pack  : </b>
 
-<p>   . Uploaded Tutorial Part 3  </p>
+<p>   . Uploaded Tutorial Part 3 : Set up Camera , Draw Background , create Tree with drawing its Texting </p>
 
-<p>   . Uploaded Tutorial Part 2  </p>
+<p>   . Uploaded Tutorial Part 2 : Create first 3D model with Blender + Create its animation with Unity simple with Bolt-Beginner-Pack </p>
 
-<p>   . Uploaded Tutorial Part 1  </p>
+<p>   . Uploaded Tutorial Part 1 : Install Unity & Bolt - How to use Bolt </p>
 
 <p> </p>
 
