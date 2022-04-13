@@ -13,6 +13,11 @@
 <p> </p>
 
 
+<b>+ Macro-Touch  : </b>
+
+<p>   . Added TouchX1 , TouchY1 </p>
+<p>   . Fixed TouchX1,Y1 get value of TouchX2,Y2 when Touch2 is in Touch </p>
+
 
 <h2>***Update Version 1.069 ( Lived on April 11, 2022 ) :</h2>
 
