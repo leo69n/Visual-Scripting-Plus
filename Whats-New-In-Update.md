@@ -2,14 +2,18 @@
 
 <h2>***Update Version 1.07 ( working ) :</h2>
 
-<b>+ Macro-Url : </b>
-<p>   . Fixed error can not build : Delete Bolt.UnityEvent.Widget.cs to fix it  </p>
+<b>+ Series of Tutorial Making Game No Code with Bolt - Beginner - Pack  : </b>
+<p>   . Uploaded Tutorial Part 1  </p>
+
+<p>   . Uploaded Tutorial Part 2  </p>
+
+<p>   . Uploaded Tutorial Part 3  </p>
 
 <p> </p>
 
 
 
-<h2>***Update Version 1.069 ( Submited April 09, 2022 ) :</h2>
+<h2>***Update Version 1.069 ( Lived on April 11, 2022 ) :</h2>
 
 <b>+ Macro-System : </b> Added more events 
 <p>   . System-SetOpacity : Set Opacity An Object  </p>
