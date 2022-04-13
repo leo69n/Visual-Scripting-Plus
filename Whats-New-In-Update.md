@@ -3,11 +3,12 @@
 <h2>***Update Version 1.07 ( working ) :</h2>
 
 <b>+ Series of Tutorial Making Game No Code with Bolt - Beginner - Pack  : </b>
-<p>   . Uploaded Tutorial Part 1  </p>
+
+<p>   . Uploaded Tutorial Part 3  </p>
 
 <p>   . Uploaded Tutorial Part 2  </p>
 
-<p>   . Uploaded Tutorial Part 3  </p>
+<p>   . Uploaded Tutorial Part 1  </p>
 
 <p> </p>
 
