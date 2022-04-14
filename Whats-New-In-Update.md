@@ -21,6 +21,9 @@
 <p>   . Added TouchX1 , TouchY1 </p>
 <p>   . Fixed TouchX1,Y1 get value of TouchX2,Y2 when Touch2 is in Touch </p>
 
+<b>+ Macro-Visible : </b> 
+<p>   . Fixed variable of Prefab : to Visible-isInvisible  </p>
+
 
 <h2>***Update Version 1.069 ( Lived on April 11, 2022 ) :</h2>
 
