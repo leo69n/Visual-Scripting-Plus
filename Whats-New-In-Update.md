@@ -23,7 +23,7 @@
 
 <b>+ Macro-Visible : </b> 
 <p>   . Fixed variable of Prefab : to Visible-isInvisible  </p>
-
+<p>   . Visible-InvisibleObjectAndAllChildren & Visible-VisibleObjectAndAllChildren : Now work on Parent + Child + grand-child </p>
 
 <h2>***Update Version 1.069 ( Lived on April 11, 2022 ) :</h2>
 
