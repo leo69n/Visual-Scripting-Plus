@@ -3,8 +3,8 @@
 <p>   . Purchasing Bolt-Beginner-Pack or Visual-Biginner-Pack will get a folder contain Both of them. </p>
 <p> <b>  . Macro-Visible : converted to Visual Scripting </b></p>
 <p> <b>  . Macro-ShowFPS : converted to Visual Scripting </b></p>
-<p> <b>  . Macro-Tween : converted to Visual Scripting </b>
-	+ Fix Math.Pi doesn't work and give incorrect result on phones.
+<p> <b>  . Macro-Tween : converted to Visual Scripting </b></p>
+<p>	+ Fix Math.Pi doesn't work and give incorrect result on phones.</p>
 </p>
 
 <h2>***Update Version 1.07 ( working ) : </h2>
