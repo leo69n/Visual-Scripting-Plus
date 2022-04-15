@@ -6,7 +6,7 @@
 <p> <b>  . Macro-Pin : converted to Visual Scripting </b></p>
 <p> <b>  . Macro-Tween : converted to Visual Scripting </b></p>
 <p>	+ Fix Math.Pi doesn't work and give incorrect result on phones.</p>
-<p>	+ Faster if you run it in less Axis X only or Y only or Z only.</p>
+<p>	+ Faster if you run it in less Axis : X only or Y only or Z only.</p>
 </p>
 
 <h2>***Update Version 1.07 ( working ) : </h2>
