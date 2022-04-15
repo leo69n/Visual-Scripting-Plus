@@ -1,7 +1,11 @@
 # Bolt-Beginner-Pack
-<h2>***Updating Visual Scripting : Visual-Beginner-Pack ***</h2>
+<h2>***Updating Bolt-Beginner-Pack into Visual Scripting Pro Pack ***</h2>
 <p>   . Purchasing Bolt-Beginner-Pack or Visual-Biginner-Pack will get a folder contain Both of them. </p>
-
+<p> <b>  . Macro-Visible : converted to Visual Scripting </b></p>
+<p> <b>  . Macro-ShowFPS : converted to Visual Scripting </b></p>
+<p> <b>  . Macro-Tween : converted to Visual Scripting </b>
+	+ Fix Math.Pi doesn't work and give incorrect result on phones.
+</p>
 
 <h2>***Update Version 1.07 ( working ) : </h2>
 
