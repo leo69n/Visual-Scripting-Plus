@@ -1,6 +1,7 @@
 # Bolt-Beginner-Pack
 <h2>***Updating Bolt-Beginner-Pack into Visual Scripting Pro Pack ***</h2>
 <p>   . Purchasing Bolt-Beginner-Pack or Visual-Biginner-Pack will get a folder contain Both of them. </p>
+<p> <b>  . Macro-Url : converted to Visual Scripting </b></p>
 <p> <b>  . Macro-Visible : converted to Visual Scripting </b></p>
 <p> <b>  . Macro-ShowFPS : converted to Visual Scripting </b></p>
 <p> <b>  . Macro-Pin : converted to Visual Scripting </b></p>
