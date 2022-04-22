@@ -3,6 +3,8 @@
 <p>   . Purchasing Bolt-Beginner-Pack or Visual-Biginner-Pack will get a folder contain Both of them. </p>
 <p> <b>  . Converting all Custom Event into Super Unit </b></p>
 
+<p> <b>  . Macro-Character : converted to Visual Scripting </b></p>
+
 <p> <b>  . Macro-System : converted to Visual Scripting </b></p>
 <p>	+ System-Get Object From Another Scene : by tag, by var , by name ... </p>
 
