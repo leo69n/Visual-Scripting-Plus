@@ -1,6 +1,10 @@
 # Bolt-Beginner-Pack
 <h2>***Updating Bolt-Beginner-Pack to Visual Scripting Plus *** ( working )</h2>
 <p>   . Purchasing Bolt-Beginner-Pack or Visual-Biginner-Pack will get a folder contain Both of them. </p>
+<p> <b>  . Converting all Custom Event into Super Unit </b></p>
+
+<p> <b>  . Macro-System : converted to Visual Scripting </b></p>
+<p>	+ System-Get Object From Another Scene : by tag, by var , by name ... </p>
 
 <p> <b>  . Macro-Array : converted to Visual Scripting </b></p>
 <p>	+ Fixed Array-PrintToDebug : easier to read </p>
