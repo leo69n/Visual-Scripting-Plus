@@ -17,6 +17,8 @@
 <p>	+ Fixed OnTouchBegin , OnTouch2Begin</p>
 
 <p> <b>  . Macro-Url : converted to Visual Scripting </b></p>
+<p>	+ Fxied : Before It received all returned result from all objects. Now Each object can only receive its Request called from it. 
+</p>
 <p> <b>  . Macro-Visible : converted to Visual Scripting </b></p>
 <p> <b>  . Macro-ShowFPS : converted to Visual Scripting </b></p>
 <p> <b>  . Macro-Pin : converted to Visual Scripting </b></p>
