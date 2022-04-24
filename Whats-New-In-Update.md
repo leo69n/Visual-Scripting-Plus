@@ -1,4 +1,4 @@
-# Bolt-Beginner-Pack
+# Bolt-Beginner-Pack & Visual Scripting Plus
 
 <h2>***Update Version : Bolt Beginner Pack - 1.073 ; Visual Scripting Plus - 1.012 (Working ) : </h2>
 
