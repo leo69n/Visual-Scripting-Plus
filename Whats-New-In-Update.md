@@ -1,6 +1,6 @@
 # Bolt-Beginner-Pack
 
-<h2>***Update Version : Bolt 1.073 ; Visual Scripting 1.012 (Working ) : </h2>
+<h2>***Update Version : Bolt Beginner Pack - 1.073 ; Visual Scripting Plus - 1.012 (Working ) : </h2>
 
 <b>+ Macro-Touch  : Added more events</b>
 
