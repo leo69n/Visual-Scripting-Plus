@@ -2,11 +2,16 @@
 
 <h2>***Update Version : Bolt Beginner Pack - 1.073 ; Visual Scripting Plus - 1.012 (Working ) : </h2>
 
-<b>+ Macro-Touch  : Added more events</b>
+<p> <b>+ Macro-Touch  : Added more events</b> </p> 
 
 <p>   . Touch - On Touch End - Tag : Triggered when end of touch on any object with a given Tag </p>
 <p>   . Touch - On Touch Begin - Tag : Triggered when begin of touch on any object with a given Tag </p>
 <p>   . Touch - On Tap - Tag : Triggered when begin of touch on any object with a given Tag </p>
+
+<p> <b>+ Macro-System  : Added more events</b> </p> 
+
+<p>   . System : Set target FPS ( Limit Frames / maximum FPS ) of the Game </p>
+
 
 <h2>***Updating Bolt-Beginner-Pack to Visual Scripting Plus *** ( Finished )</h2>
 <p>   . Purchasing Bolt-Beginner-Pack or Visual-Scripting-Plus will get a folder contain Both of them. </p>
