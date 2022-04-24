@@ -6,7 +6,7 @@
 
 <p>   . Touch - On Touch End - Tag : Triggered when end of touch on any object with a given Tag </p>
 <p>   . Touch - On Touch Begin - Tag : Triggered when begin of touch on any object with a given Tag </p>
-
+<p>   . Touch - On Tap - Tag : Triggered when begin of touch on any object with a given Tag </p>
 
 <h2>***Updating Bolt-Beginner-Pack to Visual Scripting Plus *** ( Finished )</h2>
 <p>   . Purchasing Bolt-Beginner-Pack or Visual-Scripting-Plus will get a folder contain Both of them. </p>
