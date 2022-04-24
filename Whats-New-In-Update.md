@@ -9,7 +9,7 @@
 
 
 <h2>***Updating Bolt-Beginner-Pack to Visual Scripting Plus *** ( Finished )</h2>
-<p>   . Purchasing Bolt-Beginner-Pack or Visual-Biginner-Pack will get a folder contain Both of them. </p>
+<p>   . Purchasing Bolt-Beginner-Pack or Visual-Scripting-Plus will get a folder contain Both of them. </p>
 <p> <b>  . Converting all Custom Event into Super Unit </b></p>
 
 <p> <b>  . Macro-Character : converted to Visual Scripting </b></p>
