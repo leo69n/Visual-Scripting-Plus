@@ -2,10 +2,10 @@
 
 <h2>***Update Version : Bolt 1.073 ; Visual Scripting 1.012 (Working ) : </h2>
 
-<b>+ Macro-Touch  : </b>
+<b>+ Macro-Touch  : Added more events</b>
 
-<p>   . Added : Find Object with Tag </p>
-
+<p>   . Touch - On Touch End - Tag : Triggered when end of touch on any object with a given Tag </p>
+<p>   . Touch - On Touch Begin - Tag : Triggered when begin of touch on any object with a given Tag </p>
 
 
 <h2>***Updating Bolt-Beginner-Pack to Visual Scripting Plus *** ( Finished )</h2>
