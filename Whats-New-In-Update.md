@@ -1,5 +1,6 @@
 # Bolt-Beginner-Pack & Visual Scripting Plus
 
+<h2>*** You can get Visual Scripting Plus.zip inside Bolt Beginner Pack on Unity Asset Store now. </h2>
 <h2>***Update Version : Bolt Beginner Pack - 1.073 ; Visual Scripting Plus - 1.012 (Working ) : </h2>
 
 <p> <b>+ Macro-Touch3D  : Added more events</b> </p> 
