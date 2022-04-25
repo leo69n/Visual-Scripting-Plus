@@ -3,6 +3,9 @@
 <h2>***Update Version : Bolt Beginner Pack - 1.073 ; Visual Scripting Plus - 1.012 (Working ) : </h2>
 
 <p> <b>+ Macro-Touch  : Added more events</b> </p> 
+<p>   . Touch3D - OnEndObject : Fixed double output. </p>
+
+<p> <b>+ Macro-Touch  : Added more events</b> </p> 
 
 <p>   . Touch - On Touch End - Tag : Triggered when end of touch on any object with a given Tag </p>
 <p>   . Touch - On Touch Begin - Tag : Triggered when begin of touch on any object with a given Tag </p>
