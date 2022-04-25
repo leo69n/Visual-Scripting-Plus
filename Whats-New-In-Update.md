@@ -18,7 +18,7 @@
 <p> <b>+ Macro-System  : Added more events</b> </p> 
 
 <p>   . System : Set target FPS ( Limit Frames / maximum FPS ) of the Game </p>
-
+<p>   . System-Restart Scene : Restart the current Scene  </p>
 
 <h2>***Updating Bolt-Beginner-Pack to Visual Scripting Plus *** ( Finished )</h2>
 <p>   . Purchasing Bolt-Beginner-Pack or Visual-Scripting-Plus will get a folder contain Both of them. </p>
