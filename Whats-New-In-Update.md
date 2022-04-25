@@ -2,8 +2,11 @@
 
 <h2>***Update Version : Bolt Beginner Pack - 1.073 ; Visual Scripting Plus - 1.012 (Working ) : </h2>
 
-<p> <b>+ Macro-Touch  : Added more events</b> </p> 
+<p> <b>+ Macro-Touch3D  : Added more events</b> </p> 
 <p>   . Touch3D - OnEndObject : Fixed double output. </p>
+<p>   . Touch3D - On Touch End - Tag : Triggered when Ray hit an object with a given Tag </p>
+<p>   . Touch3D - On Touch Begin - Tag : Triggered when Ray hit an object with a given Tag </p>
+<p>   . Touch3D - On Tap - Tag : Triggered when Ray hit an object with a given Tag </p>
 
 <p> <b>+ Macro-Touch  : Added more events</b> </p> 
 
