@@ -1,7 +1,10 @@
 # Bolt-Beginner-Pack & Visual Scripting Plus
 
 <h2>*** You can get Visual Scripting Plus.zip inside Bolt Beginner Pack on Unity Asset Store now. </h2>
-<h2>***Update Version : Bolt Beginner Pack - 1.073 ; Visual Scripting Plus - 1.012 (Working ) : </h2>
+<h2>***Update Version : Bolt Beginner Pack - 1.074 ; Visual Scripting Plus - 1.014 (Working ) : </h2>
+
+<p> <b>+ Macro-Tween  : </b> </p> 
+<p>   . Tween-OnEndTween-Tag : Trigger if an object with the giving Tag ended a Tween, return that Object. </p>
 
 <p> <b>+ Macro-Touch3D  : Added more events</b> </p> 
 <p>   . Touch3D - OnEndObject : Fixed double output. </p>
