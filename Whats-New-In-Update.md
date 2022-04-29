@@ -4,6 +4,7 @@
 <h2>***Update Version : Bolt Beginner Pack - 1.074 ; Visual Scripting Plus - 1.014 (Working ) : </h2>
 
 <p> <b>+ Macro-Tween  : </b> </p> 
+<p> . Tween-OnEndTween: Fixed that can call this everywhere </p>
 <p>   . Tween-OnEndTween-Tag : Trigger if an object with the giving Tag ended a Tween, return that Object. </p>
 
 <p> <b>+ Macro-Touch3D  : Added more events</b> </p> 
