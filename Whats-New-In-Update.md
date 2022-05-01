@@ -1,7 +1,17 @@
 # Bolt-Beginner-Pack & Visual Scripting Plus
 
-<h2>*** You can get Visual Scripting Plus.zip inside Bolt Beginner Pack on Unity Asset Store now. </h2>
-<h2>***Update Version : Bolt Beginner Pack - 1.074 ; Visual Scripting Plus - 1.014 (Working ) : </h2>
+<h2>***Update Version : Bolt Beginner Pack - 1.075 ; Visual Scripting Plus - 1.015 (Working ) : </h2>
+
+<p> <b>+ Macro-Character  : </b> </p> 
+<p> . Character-On End Animation - Any Object With Tag : Trigger when any objects with giving Tag end a giving motion  </p>
+<p> . Character-Move To Position (Enemy...) : Fixed wrong Position Y if Box Collider . Center != 0  </p>
+
+
+<p> <b>+ Macro-Object  : </b> </p> 
+<p> . Added DelayTime of Creating Object  </p>
+
+
+<h2>***Update Version : Bolt Beginner Pack - 1.074 ; Visual Scripting Plus - 1.014 (Submited ) : </h2>
 
 <p> <b>+ Macro-Tween  : </b> </p> 
 <p> . Tween-OnEndTween: Fixed that can call this everywhere </p>
