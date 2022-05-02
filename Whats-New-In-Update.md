@@ -10,6 +10,8 @@
 <p> <b>+ Macro-Object  : </b> </p> 
 <p> . Added DelayTime of Creating Object  </p>
 
+<p> <b>+ Macro-Visible  : </b> </p> 
+<p> . Fixed error on Component type not to do Invisible  </p>
 
 <h2>***Update Version : Bolt Beginner Pack - 1.074 ; Visual Scripting Plus - 1.014 (Submited ) : </h2>
 
