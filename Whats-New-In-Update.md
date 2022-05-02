@@ -4,8 +4,10 @@
 
 <p> <b>+ Macro-Character  : </b> </p> 
 <p> . Character-On End Animation - Any Object With Tag : Trigger when any objects with giving Tag end a giving motion  </p>
-<p> . Character-Move To Position (Enemy...) : Fixed wrong Position Y if Box Collider . Center != 0  </p>
+<p> . Character-Move To Position (Enemy...) : </p> <p> + Fixed wrong Position Y if Box Collider . Center != 0 </p>
+						   <p> + Added option Freeze Y </p>
 <p> . Character- Stop - Move To Direction : Stop Player moving  </p>
+
 
 <p> <b>+ Macro-Object  : </b> </p> 
 <p> . Added DelayTime of Creating Object  </p>
