@@ -2,6 +2,9 @@
 
 <h2>***Update Version : Bolt Beginner Pack - 1.075 ; Visual Scripting Plus - 1.015 (Working ) : </h2>
 
+<p> <b>+ Macro-Pin  : </b> </p> 
+<p> . Rebuild to work more accurately and more options  </p>
+
 <p> <b>+ Macro-Character  : </b> </p> 
 <p> . Character-On End Animation - Any Object With Tag : Trigger when any objects with giving Tag end a giving motion  </p>
 <p> . Character-Move To Position (Enemy...) : </p> <p> + Fixed wrong Position Y if Box Collider . Center != 0 </p>
