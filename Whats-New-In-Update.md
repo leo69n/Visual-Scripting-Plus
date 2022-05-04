@@ -2,6 +2,9 @@
 
 <h2>***Update Version : Bolt Beginner Pack - 1.075 ; Visual Scripting Plus - 1.015 (Working ) : </h2>
 
+<p> <b>+ Macro-Tween  : </b> </p> 
+<p> . Visual Scripting Plus : Fixed Tween on ValueOnly  </p>
+
 <p> <b>+ Macro-Pin  : </b> </p> 
 <p> . Rebuild to work more accurately and more options  </p>
 
