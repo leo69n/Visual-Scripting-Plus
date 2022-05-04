@@ -17,6 +17,8 @@
 
 <p> <b>+ Macro-Object  : </b> </p> 
 <p> . Added DelayTime of Creating Object  </p>
+<p> . Visual Scripting Plus : Fixed error on Null Object return  </p>
+
 
 <p> <b>+ Macro-Visible  : </b> </p> 
 <p> . Visual Scripting Plus : Fixed error on Component type not to do Invisible  </p>
