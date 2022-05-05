@@ -18,7 +18,8 @@
 <p> <b>+ Macro-Object  : </b> </p> 
 <p> . Added DelayTime of Creating Object  </p>
 <p> . Visual Scripting Plus : Fixed error on Null Object return  </p>
-
+<p> . Object - Get Child Has Name : Return a child has a giving name  </p>
+<p> . Object - Get 1 Child Has Tag : Return a child has a giving tag  </p>
 
 <p> <b>+ Macro-Visible  : </b> </p> 
 <p> . Visual Scripting Plus : Fixed error on Component type not to do Invisible  </p>
