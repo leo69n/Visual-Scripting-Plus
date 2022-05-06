@@ -1,6 +1,19 @@
 # Bolt-Beginner-Pack & Visual Scripting Plus
 
-<h2>***Update Version : Bolt Beginner Pack - 1.075 ; Visual Scripting Plus - 1.015 (Working ) : </h2>
+<h2>***Update Version : Bolt Beginner Pack - 1.076 ; Visual Scripting Plus - 1.016 (Working ) : </h2>
+
+<p> <b>+ Macro-Object  : </b> </p> 
+<p> . Visual Scripting Plus : Fixed error on Null Object return  </p>
+<p> . Object - Get Child Has Name : Return a child has a giving name  </p>
+<p> . Object - Get 1 Child Has Tag : Return a child has a giving tag  </p>
+
+<p> <b>+ Macro-Character  : </b> </p> 
+<p> . Character-FPSLook : Camera for FPS shooter  </p>
+<p> . Character-Movement : movement of Player in shooter game </p>
+
+. Bug fixed
+
+<h2>***Update Version : Bolt Beginner Pack - 1.075 ; Visual Scripting Plus - 1.015 (submiting ) : </h2>
 
 <p> <b>+ Macro-Tween  : </b> </p> 
 <p> . Visual Scripting Plus : Fixed Tween on ValueOnly  </p>
@@ -17,9 +30,6 @@
 
 <p> <b>+ Macro-Object  : </b> </p> 
 <p> . Added DelayTime of Creating Object  </p>
-<p> . Visual Scripting Plus : Fixed error on Null Object return  </p>
-<p> . Object - Get Child Has Name : Return a child has a giving name  </p>
-<p> . Object - Get 1 Child Has Tag : Return a child has a giving tag  </p>
 
 <p> <b>+ Macro-Visible  : </b> </p> 
 <p> . Visual Scripting Plus : Fixed error on Component type not to do Invisible  </p>
