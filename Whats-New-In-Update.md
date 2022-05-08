@@ -1,6 +1,18 @@
 # Bolt-Beginner-Pack & Visual Scripting Plus
 
-<h2>***Update Version : Bolt Beginner Pack - 1.076 ; Visual Scripting Plus - 1.016 (Working ) : </h2>
+<h2>***Update Version : Visual Scripting Plus - 1.017 (Working ) : </h2>
+
+
+<p> <b>+ Macro-ThirdPerson  : NEW </b> </p> 
+<p> . Converted and moved from Macro-Character with events of FPS-TPS game  </p>
+
+
+
+********************************************************************
+*** Stop supporting Bolt Beginner Pack if no-one request updates ***
+********************************************************************
+
+<h2>***Update Version : Bolt Beginner Pack - 1.076 ; Visual Scripting Plus - 1.016 : </h2>
 
 <p> <b>+ Macro-Object  : </b> </p> 
 <p> . Visual Scripting Plus : Fixed error on Null Object return  </p>
