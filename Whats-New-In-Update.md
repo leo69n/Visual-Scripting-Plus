@@ -19,9 +19,14 @@
 <p> . Object - Get Child Has Name : Return a child has a giving name  </p>
 <p> . Object - Get 1 Child Has Tag : Return a child has a giving tag  </p>
 
-<p> <b>+ Macro-Character  : </b> </p> 
-<p> . Character-FPSLook : Camera for FPS shooter  </p>
-<p> . Character-Movement : movement of Player in shooter game </p>
+<p> <b>+ Macro-Third Person  : </b> </p> 
+<p> . Movement 8 directions  </p>
+<p> . Animations </p>
+<p> . Jump </p>
+<p> . Sprint </p>
+<p> . isMoving </p>
+<p> . isJumping </p>
+<p> . isFalling </p>
 
 . Bug fixed
 
