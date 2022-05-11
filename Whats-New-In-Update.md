@@ -27,6 +27,16 @@
 <p> . isMoving </p>
 <p> . isJumping </p>
 <p> . isFalling </p>
+<p> . Set Speed of Movement </p>
+<p> . isFalling </p>
+<p> . Setup - Look Around - Camera </p>
+<p> . Setup - Movement </p>
+<p> . Setup - Mouse Cursor Invisible </p>
+<p> . Setup - Jump - Sprint </p>
+
+
+
+
 
 . Bug fixed
 
