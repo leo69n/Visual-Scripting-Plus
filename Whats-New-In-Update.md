@@ -1,12 +1,16 @@
 # Bolt-Beginner-Pack & Visual Scripting Plus
 
-<h2>***Update Version : Visual Scripting Plus - 1.017 (Working ) : </h2>
+<h2>***Update Version : Visual Scripting Plus - 1.022 ( Working ) : </h2>
+
+
+<p> <b>+ Macro-ThirdPerson  : </b> </p> 
+<p> . Fixed TPS-MouseInvisble  </p>
+
+
+<h2>***Update Version : Visual Scripting Plus - 1.021 ( Published on May 13,2022 ) : </h2>
 
 
 <p> <b>+ Macro-ThirdPerson  : NEW </b> </p> 
-<p> . Converted and moved from Macro-Character with events of FPS-TPS game  </p>
-
-
 
 ********************************************************************
 *** Stop supporting Bolt Beginner Pack if no-one request updates ***
