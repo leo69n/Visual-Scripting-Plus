@@ -5,6 +5,12 @@
 <p> <b>+ Macro-Bullet  : (NEW) </b> </p> 
 <p> . Create New & Fire to Position  </p>
 
+<p> <b>+ Macro-Touch  :</b> </p> 
+<p> . Added variables :  </p>
+<p>	+ Touch postion in Vector 2 , Vector 3  </p>
+<p>	+ Touch 1 postion in Vector 2 , Vector 3  </p>
+<p>	+ Touch 2 postion in Vector 2 , Vector 3  </p>
+
 <p> <b>+ Macro-System  : </b> </p> 
 <p> . Convert Vector3 to Vector2  </p>
 <p> . Convert Vector2 to Vector3  </p>
