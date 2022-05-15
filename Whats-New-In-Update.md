@@ -2,6 +2,9 @@
 
 <h2>***Update Version : Visual Scripting Plus - 1.022 ( Working ) : </h2>
 
+<p> <b>+ Macro-Bullet  : (NEW) </b> </p> 
+<p> . Create New & Fire to Position  </p>
+
 <p> <b>+ Macro-Touch3D  : </b> </p> 
 <p> . Set Ray-Distance = 1000 in Default  </p>
 
