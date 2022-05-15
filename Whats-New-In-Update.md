@@ -4,6 +4,10 @@
 
 <p> <b>+ Macro-Bullet  : (NEW) </b> </p> 
 <p> . Create New & Fire to Position  </p>
+<p> . Bullet - Get 360 Angle Of Two 2D Positions  </p>
+<p> . Bullet - 2D Set Angle Z in 360 Angle  </p>
+<p> . Bullet - 2D - Rotate 2D Object to Position  </p>
+<p> . Bullet - 3D - Rotate 3D Object to Position  </p>
 
 <p> <b>+ Macro-Touch  :</b> </p> 
 <p> . Added variables :  </p>
