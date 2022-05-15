@@ -7,6 +7,8 @@
 
 <p> <b>+ Macro-System  : </b> </p> 
 <p> . Convert Vector3 to Vector2  </p>
+<p> . Convert Vector2 to Vector3  </p>
+<p> . 2D - Set Angle Z in 360 Angle  </p>
 
 <p> <b>+ Macro-Touch3D  : </b> </p> 
 <p> . Set Ray-Distance = 1000 in Default  </p>
