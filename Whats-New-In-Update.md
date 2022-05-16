@@ -3,8 +3,10 @@
 <h2>***Update Version : Visual Scripting Plus - 1.022 ( Working ) : </h2>
 
 <p> <b>+ Macro-Bullet  : (NEW) </b> </p> 
-<p> . 3D - Create New Bullet & Fire to Position  </p>
-<p> . 2D - Create New Bullet & Fire to Position  </p>
+<p> . 3D - Create New Bullet & Fire to Position: With Destroy conditions + Flexible Angles  </p>
+<p> . 2D - Create New Bullet & Fire to Position: With Destroy conditions + Flexible Angles  </p>
+<p> . UI - Create New Bullet & Fire to Position : With Destroy conditions + Flexible Angles  </p>
+
 <p> . Bullet - Get 360 Angle Of Two 2D Positions  </p>
 <p> . Bullet - 2D Set Angle Z in 360 Angle  </p>
 <p> . Bullet - 2D - Rotate 2D Object to Position  </p>
