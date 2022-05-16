@@ -23,6 +23,8 @@
 
 <p> <b>+ Macro-Touch3D  : </b> </p> 
 <p> . Set Ray-Distance = 1000 in Default  </p>
+<p> . Added Touch3D-is In Touch 3D Object  </p>
+<p> . Added Touch3D-is In Touch 3D Object with Tag  </p>
 
 <p> <b>+ Macro-ThirdPerson  : </b> </p> 
 <p> . Fixed TPS-MouseInvisble  </p>
