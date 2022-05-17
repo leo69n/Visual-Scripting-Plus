@@ -1,6 +1,13 @@
 # Bolt-Beginner-Pack & Visual Scripting Plus
 
-<h2>***Update Version : Visual Scripting Plus - 1.022 ( Working ) : </h2>
+<h2>***Update Version : Visual Scripting Plus - 1.024 ( working ) : </h2>
+
+<p> <b>+ Macro-Bullet  : </b> </p> 
+<p> . Bullet - 2D - Rotate 2D Object to Position: Added  fixed Angle origin of Head  </p>
+
+
+
+<h2>***Update Version : Visual Scripting Plus - 1.023 ( Launched on May ,17 2022 ) : </h2>
 
 <p> <b>+ Macro-Bullet  : (NEW) </b> </p> 
 <p> . 3D - Create New Bullet & Fire to Position: With Destroy conditions + Flexible Angles  </p>
