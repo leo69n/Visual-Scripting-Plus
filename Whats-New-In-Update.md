@@ -4,7 +4,8 @@
 
 <p> <b>+ Macro-Bullet  : </b> </p> 
 <p> . Bullet - 2D - Rotate 2D Object to Position: Added  fixed Angle origin of Head  </p>
-
+<p> <b>+ Macro-Touch3D  :</b> </p> 
+<p> . Now worked on 2D Sprite with Box Collider 2D ....  </p>
 
 
 <h2>***Update Version : Visual Scripting Plus - 1.023 ( Launched on May ,17 2022 ) : </h2>
