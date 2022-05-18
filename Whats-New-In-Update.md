@@ -9,6 +9,7 @@
 
 <p> <b>+ Macro-Character :</b> </p> 
 <p> . Move To Direction : added options: Impulse or Velocity ....  </p>
+<p> . Move To Direction - Controller : Setup Left, Right , Up , Down, Jump for 3D , 2D Character in 1 call. Full control of movement in 1 place  </p>
 
 <p> <b>+ Macro-Touch  :</b> </p> 
 <p> . Fixed not triggered if using Box Collider 2D with Trigger checked ....  </p>
