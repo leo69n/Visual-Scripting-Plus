@@ -7,6 +7,8 @@
 <p> <b>+ Macro-Touch3D  :</b> </p> 
 <p> . Now worked on 2D Sprite with Box Collider 2D ....  </p>
 
+<p> <b>+ Macro-Touch  :</b> </p> 
+<p> . Fixed not triggered if using Box Collider 2D with Trigger checked ....  </p>
 
 <h2>***Update Version : Visual Scripting Plus - 1.023 ( Launched on May ,17 2022 ) : </h2>
 
