@@ -4,8 +4,10 @@
 
 <p> <b>+ Macro-Bullet  : </b> </p> 
 <p> . Bullet - 2D - Rotate 2D Object to Position: Added  fixed Angle origin of Head  </p>
+
 <p> <b>+ Macro-Touch3D  :</b> </p> 
 <p> . Now worked on 2D Sprite with Box Collider 2D ....  </p>
+<p> . Fixed untouchable if Object is out of the screen  </p>
 
 <p> <b>+ Macro-Character :</b> </p> 
 <p> . Move To Direction : added options: Impulse or Velocity ....  </p>
