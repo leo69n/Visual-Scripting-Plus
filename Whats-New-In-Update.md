@@ -1,6 +1,11 @@
 # Bolt-Beginner-Pack & Visual Scripting Plus
+<h2>***Update Version : Visual Scripting Plus - 1.027 ( working ) : </h2>
 
-<h2>***Update Version : Visual Scripting Plus - 1.024 ( working ) : </h2>
+<p> <b>+ Macro-Pin  : </b> </p> 
+<p> . Adding Fixing Angle : Pinning ANgle - Fixing Angle , Use case : Attached Gun to Player Hand.  </p>
+
+
+<h2>***Update Version : Visual Scripting Plus - 1.024 ( Submitting ) : </h2>
 
 <p> <b>+ Macro-Bullet  : </b> </p> 
 <p> . Bullet - 2D - Rotate 2D Object to Position: Added  fixed Angle origin of Head  </p>
