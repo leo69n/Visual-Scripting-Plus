@@ -5,8 +5,8 @@
 <p> . Adding Fixing Angle : Pinning ANgle - Fixing Angle , Use case : Attached Gun to Player Hand.  </p>
 <p> <b>+ Macro-System   Macro-Touch   Macro-Touch3D  : </b> </p> 
 <p> . Convert UI Point to World Point  </p>
-<p> + Macro-NoMacro ( New ) </p>
-<p> + Macro-AI ( New ) </p>
+<p> <b>+ Macro-NoMacro ( New ) </b></p>
+<p> <b>+ Macro-AI ( New ) </b></p>
 
 <h2>***Update Version : Visual Scripting Plus - 1.024 ( Submitting ) : </h2>
 
