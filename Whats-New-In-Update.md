@@ -7,6 +7,8 @@
 <p> . Convert UI Point to World Point  </p>
 <p> <b>+ Macro-NoMacro ( New ) </b></p>
 <p> <b>+ Macro-AI ( New ) </b></p>
+<p> <b>+ Macro-Character  : </b> </p> 
+<p> . Off Animation Controller & Play a motion  </p>
 
 <h2>***Update Version : Visual Scripting Plus - 1.024 ( Submitting ) : </h2>
 
