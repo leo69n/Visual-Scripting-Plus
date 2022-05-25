@@ -1,5 +1,12 @@
 # Bolt-Beginner-Pack & Visual Scripting Plus
-<h2>***Update Version : Visual Scripting Plus - 1.027 ( working ) : </h2>
+
+<h2>***Update Version : Visual Scripting Plus - 1.029 ( Working ) : </h2>
+
+<p> <b>+ Macro-AI : </b> </p> 
+<p> . Added Arrival check event  </p>
+
+
+<h2>***Update Version : Visual Scripting Plus - 1.028 ( Launched on May 24, 2022 ) : </h2>
 
 <p> <b>+ Macro-Pin  : </b> </p> 
 <p> . Adding Fixing Angle : Pinning ANgle - Fixing Angle , Use case : Attached Gun to Player Hand.  </p>
