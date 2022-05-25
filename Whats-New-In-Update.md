@@ -1,4 +1,4 @@
-# Bolt-Beginner-Pack & Visual Scripting Plus
+# Visual Scripting Plus
 
 <h2>***Update Version : Visual Scripting Plus - 1.029 ( Working ) : </h2>
 
