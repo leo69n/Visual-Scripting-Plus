@@ -4,7 +4,9 @@
 
 <p> <b>+ Macro-AI : </b> </p> 
 <p> . Added Arrival check event  </p>
-
+<p> . Added Stop - Turning to Position  </p>
+<p> . Added Stop - AI Seeking  </p>
+<p> . AI system for 3D games  </p>
 
 <h2>***Update Version : Visual Scripting Plus - 1.028 ( Launched on May 24, 2022 ) : </h2>
 
