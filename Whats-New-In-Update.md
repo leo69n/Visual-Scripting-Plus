@@ -8,6 +8,13 @@
 <p> . Added Stop - AI Seeking  </p>
 <p> . AI system for 3D games  </p>
 
+<p> <b>+ Macro-NoMacro : </b> </p> 
+<p> . 2D - Get Dir from 2 Objects   </p>
+<p> . 2D - Get Dir from 2 Points   </p>
+<p> . Degree to Radian   </p>
+<p> . Radian to Degree   </p>
+<p> . is a Clone ?   </p>
+
 <h2>***Update Version : Visual Scripting Plus - 1.028 ( Launched on May 24, 2022 ) : </h2>
 
 <p> <b>+ Macro-Pin  : </b> </p> 
