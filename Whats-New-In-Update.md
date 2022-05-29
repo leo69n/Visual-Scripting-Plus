@@ -1,6 +1,6 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.029 ( Working ) : </h2>
+<h2>***Update Version : 1.031 ( Working ) : </h2>
 
 <p> <b>+ Macro-AI : </b> </p> 
 <p> . Added Arrival check event  </p>
@@ -15,6 +15,12 @@
 <p> . Degree to Radian   </p>
 <p> . Radian to Degree   </p>
 <p> . is a Clone ?   </p>
+
+<p> <b>+ Macro-Bound : </b> </p> 
+<p> . is Inside Capsule3D : fixed   </p>
+<p> . is Inside Box3D : fixed   </p>
+<p> . is Inside Sphere3D : fixed   </p>
+
 
 <h2>***Update Version : Visual Scripting Plus - 1.028 ( Launched on May 24, 2022 ) : </h2>
 
