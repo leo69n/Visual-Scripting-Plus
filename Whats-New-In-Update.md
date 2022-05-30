@@ -11,7 +11,7 @@
 <p> . Added Stop - Turning to Position  </p>
 <p> . Added Stop - AI Seeking  </p>
 <p> . AI system for 3D games  </p>
-<p> . Added AI - Obstacle Avoidance event  </p>
+<p> . Added 2D - AI - Obstacle Avoidance event ( Special ) : 3D coming next update  </p>
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> . 2D - Get Dir from 2 Objects   </p>
