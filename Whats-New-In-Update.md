@@ -2,6 +2,10 @@
 
 <h2>***Update Version : 1.031 ( Working ) : </h2>
 
+<p> <b>+ Macro-Character : </b> </p> 
+<p> . Laset key pressed   </p>
+
+
 <p> <b>+ Macro-AI : </b> </p> 
 <p> . Added Arrival check event  </p>
 <p> . Added Stop - Turning to Position  </p>
