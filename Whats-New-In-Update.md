@@ -1,6 +1,6 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.031 ( Working ) : </h2>
+<h2>***Update Version : 1.034 ( Lauched on Mat 31 , 2022 ) : </h2>
 
 <p> <b>+ Macro-Character : </b> </p> 
 <p> . Laset key pressed   </p>
