@@ -5,6 +5,8 @@
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> . 3D - Get Dir from 2 Points   </p>
 
+<p> <b>+ Macro-AI : </b> </p> 
+<p> . 3D - AI - Obstacle Avoidance  </p>
 
 
 <h2>***Update Version : 1.035 ( Lauched on Mat 31 , 2022 ) : </h2>
