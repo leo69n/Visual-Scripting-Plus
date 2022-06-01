@@ -18,7 +18,7 @@
 <h2>***Update Version : 1.035 ( Lauched on Mat 31 , 2022 ) : </h2>
 
 <p> <b>+ Macro-Character : </b> </p> 
-<p> . Laset key pressed   </p>
+<p> . Recent key pressed   </p>
 
 
 <p> <b>+ Macro-AI : </b> </p> 
