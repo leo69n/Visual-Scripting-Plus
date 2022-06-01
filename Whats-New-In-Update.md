@@ -15,7 +15,7 @@
 <p> . 3D - AI - Obstacle Avoidance  </p>
 
 
-<h2>***Update Version : 1.035 ( Lauched on Mat 31 , 2022 ) : </h2>
+<h2>***Update Version : 1.035 ( Lauched on May 31 , 2022 ) : </h2>
 
 <p> <b>+ Macro-Character : </b> </p> 
 <p> . Recent key pressed   </p>
