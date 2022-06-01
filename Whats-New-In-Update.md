@@ -9,6 +9,7 @@
 <p> . 3D - Angle 2 Points  </p>
 <p> . 2D - Angle 2 Objects   </p>
 <p> . 3D - Angle 2 Objects  </p>
+<p> . 2D + 3D - Position Toward Angle In Distance  </p>
 
 <p> <b>+ Macro-AI : </b> </p> 
 <p> . 3D - AI - Obstacle Avoidance  </p>
