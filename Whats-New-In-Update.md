@@ -1,7 +1,8 @@
 # Visual Scripting Plus
 
 <h2>***Update Version : 1.036 ( Working ) : </h2>
-
+ -- Still improving AI math ---
+ 
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> . 3D - Get Dir from 2 Points   </p>
 <p> . 3D - Get Dir from 2 Objects   </p>
