@@ -2,7 +2,12 @@
 
 <h2>***Update Version : 1.036 ( Working ) : </h2>
 
+<p> <b>+ Macro-Touch3D : </b> </p> 
+<p> .  3D object : added Layer-Mask on Ray. Put object in Ignore-Raycast to ignore the Touch   </p>
+
+
 <p> <b>+ Macro-NoMacro : </b> </p> 
+<p> .  Actual Bound Size : get current size in 2D + 3D World   </p>
 <p> .  Actual Bound Size : get current size in 2D + 3D World   </p>
 <p> . 3D - Get Dir from 2 Points   </p>
 <p> . 3D - Get Dir from 2 Objects   </p>
