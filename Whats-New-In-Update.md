@@ -15,6 +15,7 @@
 <p> <b>+ Macro-AI : </b> </p> 
 <p> . 3D - AI - Obstacle Avoidance  </p>
 <p> . Clean up all Variables Object to Graph  </p>
+<p> . 2D - AI - Obstacle Avoidance : Improved to work better  </p>
 
 <h2>***Update Version : 1.035 ( Lauched on May 31 , 2022 ) : </h2>
 
