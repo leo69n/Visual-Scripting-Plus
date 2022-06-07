@@ -1,6 +1,20 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.036 ( Working ) : </h2>
+<h2>***Update Version : 1.040 ( working ) : </h2>
+
+<p> <b>+ Macro-NoMacro : </b> </p> 
+<p> .  Set frame rate : moved from Macro-System   </p>
+<p> .  Restart Scene : moved from Macro-System   </p>
+
+
+
+<h2>***Update Version : 1.039 ( On Unity Asset Store since June 07,2022 ) : </h2>
+
+<p> <b>+ Macro-Touch3D : </b> </p> 
+<p> .  3D object : added Layer-Mask on Ray. Put object in Ignore-Raycast to ignore the Touch   </p>
+
+
+<h2>***Update Version : 1.039 ( On Unity Asset Store since June 07,2022 ) : </h2>
 
 <p> <b>+ Macro-Touch3D : </b> </p> 
 <p> .  3D object : added Layer-Mask on Ray. Put object in Ignore-Raycast to ignore the Touch   </p>
