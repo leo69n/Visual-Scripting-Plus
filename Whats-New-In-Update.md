@@ -3,7 +3,7 @@
 <h2>***Update Version : 1.040 ( working ) : </h2>
 
 <p> <b>+ Macro-System : </b> </p> 
-<p> .  Cleaned up : Convert all Object variables to Graph variables. No more showing a lot of Variables in Editor while Playing   </p>
+<p> .  Cleaned up : Converted all Object variables to Graph variables. No more showing a lot of Variables in Editor while Playing   </p>
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> .  Set frame rate : moved from Macro-System   </p>
