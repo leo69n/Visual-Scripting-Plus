@@ -8,7 +8,7 @@
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> .  Set frame rate : moved from Macro-System   </p>
 <p> .  Restart Scene : moved from Macro-System   </p>
-
+<p> .  Get Object from Another Scene [ All these events ] : added : copy a clone of this Object.    </p>
 
 
 <h2>***Update Version : 1.039 ( On Unity Asset Store since June 07,2022 ) : </h2>
