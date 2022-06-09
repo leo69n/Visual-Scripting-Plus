@@ -2,6 +2,10 @@
 
 <h2>***Update Version : 1.040 ( working ) : </h2>
 
+<p> <b>+ Macro-Touch3D : </b> </p> 
+<p> .  Cleaned up : Converted all Object variables to Graph variables. No more showing a lot of Variables in Editor while Playing   </p>
+<p> .  Touch Begin - Tag , Touch End - Tag : added option "Get First Collider or Last Collider"   </p>
+
 <p> <b>+ Macro-Character : </b> </p> 
 <p> .  Cleaned up : Converted all Object variables to Graph variables. No more showing a lot of Variables in Editor while Playing   </p>
 
