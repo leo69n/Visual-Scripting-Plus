@@ -2,7 +2,7 @@
 
 <h2>***Update Version : 1.040 ( working ) : </h2>
 
-<p> <b>+ Macro-Touch3D : </b> </p> 
+<p> <b>+ Macro-Touch3D & Macro-Touch combined into Macro-Touch : </b> </p> 
 <p> .  Cleaned up : Converted all Object variables to Graph variables. No more showing a lot of Variables in Editor while Playing   </p>
 <p> .  Reworked to work better with Objects in many layers and distance "Get First Collider or Last Collider"   </p>
 
