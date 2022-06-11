@@ -2,6 +2,10 @@
 
 <h2>***Update Version : 1.041 ( Working ) : </h2>
 
+<p> <b>+ Macro-Array : </b> </p> 
+<p> .  Cleaned up : Converted all Object variables to Graph variables. No more showing a lot of Variables in Editor while Playing   </p>
+<p> .  Added Get Array Length ( Vector 3)   </p>
+
 <p> <b>+ Macro-Bound : </b> </p> 
 <p> .  Cleaned up : Converted all Object variables to Graph variables. No more showing a lot of Variables in Editor while Playing   </p>
 <p> .  Fixed Bugs   </p>
