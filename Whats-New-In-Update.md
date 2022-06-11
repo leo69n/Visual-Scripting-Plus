@@ -1,6 +1,12 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.040 ( working ) : </h2>
+<h2>***Update Version : 1.041 ( Working ) : </h2>
+
+<p> <b>+ Macro-Rotate : </b> </p> 
+<p> .  Cleaned up : Converted all Object variables to Graph variables. No more showing a lot of Variables in Editor while Playing   </p>
+
+
+<h2>***Update Version : 1.040 ( Submiting ) : </h2>
 
 <p> <b>+ Macro-Touch3D & Macro-Touch combined into Macro-Touch : </b> </p> 
 <p> .  Cleaned up : Converted all Object variables to Graph variables. No more showing a lot of Variables in Editor while Playing   </p>
