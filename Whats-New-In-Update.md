@@ -8,7 +8,7 @@
 
 <p> <b>+ Macro-Bound : </b> </p> 
 <p> .  Cleaned up : Converted all Object variables to Graph variables. No more showing a lot of Variables in Editor while Playing   </p>
-<p> .  Fixed Bugs   </p>
+<p> .  Fixed incorrect random positions of 2D Bounds   </p>
 
 
 <p> <b>+ Macro-Rotate : </b> </p> 
