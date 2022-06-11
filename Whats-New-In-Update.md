@@ -2,6 +2,11 @@
 
 <h2>***Update Version : 1.041 ( Working ) : </h2>
 
+<p> <b>+ Macro-Bound : </b> </p> 
+<p> .  Cleaned up : Converted all Object variables to Graph variables. No more showing a lot of Variables in Editor while Playing   </p>
+<p> .  Fixed Bugs   </p>
+
+
 <p> <b>+ Macro-Rotate : </b> </p> 
 <p> .  Cleaned up : Converted all Object variables to Graph variables. No more showing a lot of Variables in Editor while Playing   </p>
 
