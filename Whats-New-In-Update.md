@@ -5,6 +5,7 @@
 <p> <b>+ Macro-Rotate : </b> </p> 
 <p> .  Cleaned up : Converted all Object variables to Graph variables. No more showing a lot of Variables in Editor while Playing   </p>
 
+<p> <b>+ Macro-ShowFPS merged to Macro-NoMacro : </b> </p> 
 
 <h2>***Update Version : 1.040 ( Submiting ) : </h2>
 
