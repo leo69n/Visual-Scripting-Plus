@@ -2,6 +2,10 @@
 
 <h2>***Update Version : 1.041 ( Working ) : </h2>
 
+
+<p> <b>+ Macro-NoMacro : </b> </p> 
+<p> .  Actual Bound Size & Position ( Top of Bottom of Bound position )   </p>
+
 <p> <b>+ Macro-Pin : </b> </p> 
 <p> .  Cleaned up : Converted all Object variables to Graph variables. No more showing a lot of Variables in Editor while Playing   </p>
 <p> .  Added : Limit Position X,Y,Z   </p>
