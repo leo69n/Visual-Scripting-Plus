@@ -4,6 +4,7 @@
 
 <p> <b>+ Macro-Pin : </b> </p> 
 <p> .  Cleaned up : Converted all Object variables to Graph variables. No more showing a lot of Variables in Editor while Playing   </p>
+<p> .  Added : Limit Position X,Y,Z   </p>
 
 <p> <b>+ Macro-Array : </b> </p> 
 <p> .  Cleaned up : Converted all Object variables to Graph variables. No more showing a lot of Variables in Editor while Playing   </p>
@@ -16,6 +17,7 @@
 
 <p> <b>+ Macro-Rotate : </b> </p> 
 <p> .  Cleaned up : Converted all Object variables to Graph variables. No more showing a lot of Variables in Editor while Playing   </p>
+<p> .  Added option : Rotate using Local Euler Angle   </p>
 
 <p> <b>+ Macro-ShowFPS merged to Macro-NoMacro : </b> </p> 
 
