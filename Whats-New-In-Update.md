@@ -2,6 +2,8 @@
 
 <h2>***Update Version : 1.041 ( Working ) : </h2>
 
+<p> <b>+ Macro-Character : </b> </p> 
+<p> .  Improved Jump and Walk to work more accurately   </p>
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> .  Actual Bound Size & Position ( Top of Bottom of Bound position )   </p>
