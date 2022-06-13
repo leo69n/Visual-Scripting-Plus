@@ -4,6 +4,8 @@
 
 <p> <b>+ Macro-Character : </b> </p> 
 <p> .  Improved Jump and Walk to work more accurately   </p>
+<p> .  Added Move To Position ( Add Force )   </p>
+<p> .  Arrival of Move To Position   </p>
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> .  Actual Bound Size & Position ( Top of Bottom of Bound position )   </p>
