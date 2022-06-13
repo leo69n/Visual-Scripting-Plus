@@ -1,6 +1,12 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.041 ( Working ) : </h2>
+<h2>***Update Version : 1.042 ( Working ) : </h2>
+
+<p> <b>+ Macro-NoMacro : </b> </p> 
+<p> .  Fixed Actual Bound Size & Position work for all Bounds   </p>
+
+
+<h2>***Update Version : 1.041 ( On Unity Asset Store since Jun 13,2022 ) : </h2>
 
 <p> <b>+ Macro-Character : </b> </p> 
 <p> .  Improved Jump and Walk to work more accurately   </p>
