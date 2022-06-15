@@ -4,6 +4,9 @@
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> .  2D + 3D : Rotate in Angle and Rotate to Position : Moved from Macro-System to Macro-NoMacro </p>
+<p> <b>+ Macro-Character : </b> </p> 
+<p> .  Fixed MoveToPosition-Velocity with FreezeY   </p>
+
 
 <h2>***Update Version : 1.042 ( On Unity Asset Store since Jun 14,2022 ) : </h2>
 
