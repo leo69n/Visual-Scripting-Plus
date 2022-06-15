@@ -1,10 +1,15 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.042 ( Working ) : </h2>
+<h2>***Update Version : 1.043 ( Working ) : </h2>
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> .  Fixed Actual Bound Size & Position work for all Bounds   </p>
 
+<h2>***Update Version : 1.042 ( On Unity Asset Store since Jun 14,2022 ) : </h2>
+
+<p> <b>+ Macro-NoMacro : </b> </p> 
+<p> .  Fixed Actual Bound Size & Position work for all Bounds   </p>
+<p> .  Fixed Bugs.   </p>
 
 <h2>***Update Version : 1.041 ( On Unity Asset Store since Jun 13,2022 ) : </h2>
 
