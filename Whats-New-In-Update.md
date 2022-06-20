@@ -2,6 +2,9 @@
 
 <h2>***Update Version : 1.044 ( Working ) : </h2>
 
+<p> <b>+ Macro-Controller (NEW) : </b> </p> 
+<p> .  Player - Movement Controller & Animation Controller : Moved from Macro-Character to Macro-Controller </p>
+
 <p> <b>+ Macro-Object : </b> </p> 
 <p> .  Reworked to work better , and multi-Object can do this Macro to pick Objects at a time </p>
 
