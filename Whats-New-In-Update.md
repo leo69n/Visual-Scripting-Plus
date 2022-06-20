@@ -6,7 +6,7 @@
 <p> .  Player - Movement Controller & Animation Controller : Moved from Macro-Character to Macro-Controller </p>
 
 <p> <b>+ Macro-Object : </b> </p> 
-<p> .  Reworked to work better , and multi-Object can do this Macro to pick Objects at a time </p>
+<p> .  Reworked to work better , and multi-Objects can do this Macro to pick Objects at a time </p>
 
 <h2>***Update Version : 1.043 ( On Unity Asset Store since Jun 16,2022 ) : </h2>
 
