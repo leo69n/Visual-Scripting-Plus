@@ -1,6 +1,12 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.043 ( Working ) : </h2>
+<h2>***Update Version : 1.044 ( Working ) : </h2>
+
+<p> <b>+ Macro-Object : </b> </p> 
+<p> .  Reworked to work better , and multi-Object can do this Macro to pick Objects at a time </p>
+<p> .  Move [ Load Object from another Scene ] from Macro-System to Macro-Object </p>
+
+<h2>***Update Version : 1.043 ( On Unity Asset Store since Jun 16,2022 ) : </h2>
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> .  2D + 3D : Rotate in Angle and Rotate to Position : Moved from Macro-System to Macro-NoMacro </p>
