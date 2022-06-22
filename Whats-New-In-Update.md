@@ -2,6 +2,9 @@
 
 <h2>***Update Version : 1.044 ( Working ) : </h2>
 
+<p> <b>+ Macro-Touch : </b> </p> 
+<p> .  Is In Touch - Object : Added True & False ( Pressing ) </p>
+
 <p> <b>+ Macro-Controller (NEW) : </b> </p> 
 <p> .  Player - Movement Controller & Animation Controller : Moved from Macro-Character to Macro-Controller </p>
 <p> .  Fixed Animation don't play while Key Run is pressing </p>
