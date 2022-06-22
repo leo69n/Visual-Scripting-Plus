@@ -5,6 +5,7 @@
 <p> <b>+ Macro-Controller (NEW) : </b> </p> 
 <p> .  Player - Movement Controller & Animation Controller : Moved from Macro-Character to Macro-Controller </p>
 <p> .  Fixed Animation don't play while Key Run is pressing </p>
+<p> .  Controller - Off Animation & Play a Motion : Fixed to trigger all on multi-events in a graph </p>
 
 <p> <b>+ Macro-Object : </b> </p> 
 <p> .  Reworked to work better , and multi-Objects can do this Macro to pick Objects at a time </p>
