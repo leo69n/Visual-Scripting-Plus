@@ -8,6 +8,7 @@
 <p> .  Controller - Off Animation & Play a Motion : Fixed to trigger all on multi-events in a graph </p>
 <p> - After Running : to add Animation Run-To-Stop </p>
 <p> - After Falling : to add Animation Landing </p>
+<p> - is Moving : added for 2D + 3D </p>
 
 <p> <b>+ Macro-Object : </b> </p> 
 <p> .  Reworked to work better , and multi-Objects can do this Macro to pick Objects at a time </p>
