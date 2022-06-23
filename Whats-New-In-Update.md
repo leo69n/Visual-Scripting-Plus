@@ -13,6 +13,8 @@
 <p> - After Falling : to add Animation Landing </p>
 <p> - is Moving : added for 2D + 3D </p>
 
+<p> *** Controller can work with Touch Buttons or flexible Inputs </p>
+
 <p> <b>+ Macro-Object : </b> </p> 
 <p> .  Reworked to work better , and multi-Objects can do this Macro to pick Objects at a time </p>
 
