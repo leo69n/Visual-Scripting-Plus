@@ -5,6 +5,7 @@
 <p> <b>+ Macro-Touch : </b> </p> 
 <p> .  UI - Is In Touch - Object : Added True & False ( Pressing ) </p>
 <p> .  UI - Begin , End , Tap : Added True & Time to trigger After</p>
+<p> .  There are options : to Enable / Disable cast Ray on 3D - 2D - UI</p>
 
 <p> <b>+ Macro-Controller (NEW) : </b> </p> 
 <p> .  Player - Movement Controller & Animation Controller : Moved from Macro-Character to Macro-Controller </p>
