@@ -8,7 +8,7 @@
 <p> <b>+ Macro-Character : </b> </p> 
 <p> .  Fixed [ Play - Loop Motion ] </p>
 <p> .  Set Drag ( Decelelation ) </p>
-
+<p> .  Fixed  Y of [ Move to - Velocity ] </p>
 
 <h2>***Update Version : 1.044 ( On Unity Asset Store since Jun 23,2022 ) : </h2>
 
