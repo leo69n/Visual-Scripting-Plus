@@ -1,6 +1,13 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.044 ( Working ) : </h2>
+<h2>***Update Version : 1.045 ( working ) : </h2>
+
+<p> <b>+ Macro-NoMacro : </b> </p> 
+<p> .  Physic - Impulse in Dir : To shoot an Object one time , such as Canon ... </p>
+
+
+
+<h2>***Update Version : 1.044 ( On Unity Asset Store since Jun 23,2022 ) : </h2>
 
 <p> <b>+ Macro-Touch : </b> </p> 
 <p> .  UI - Is In Touch - Object : Added True & False ( Pressing ) </p>
