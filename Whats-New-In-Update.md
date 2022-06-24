@@ -6,7 +6,7 @@
 <p> .  Physic - Impulse in Dir : To shoot an Object one time , such as Canon ... </p>
 
 <p> <b>+ Macro-Character : </b> </p> 
-<p> .  Fixed [ Play - No Loop Motion ] </p>
+<p> .  Fixed [ Play - Loop Motion ] </p>
 
 <h2>***Update Version : 1.044 ( On Unity Asset Store since Jun 23,2022 ) : </h2>
 
