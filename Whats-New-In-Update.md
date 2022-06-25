@@ -2,6 +2,9 @@
 
 <h2>***Update Version : 1.045 ( working ) : </h2>
 
+<p> <b>+ Macro-Object : </b> </p> 
+<p> .  Get Child - Object + Tag : fixed returning result to many Custom Events in a same Object that caused it repeatedly  </p>
+
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> .  Physic - Impulse in Dir : To shoot an Object one time , such as Canon ... </p>
 
