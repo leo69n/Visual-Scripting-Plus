@@ -1,6 +1,12 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.045 ( working ) : </h2>
+<h2>***Update Version : 1.046 ( Working ) : </h2>
+
+<p> <b>+ Macro-System : </b> </p> 
+<p> .  2D + 3D Renderer Off if Exit the Collider , On if Enter  </p>
+
+
+<h2>***Update Version : 1.045 ( Submitting ) : </h2>
 
 <p> <b>+ Macro-Object : </b> </p> 
 <p> .  Get Child - Object + Tag : fixed returning result to many Custom Events in a same Object that caused it repeatedly  </p>
