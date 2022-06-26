@@ -3,7 +3,13 @@
 <h2>***Update Version : 1.046 ( Working ) : </h2>
 
 <p> <b>+ Macro-System : </b> </p> 
-<p> .  2D + 3D Renderer Off if Exit the Collider , On if Enter </p>
+<p> .  2D Renderer Off if Exit the Collider , On if Enter : </p>
+<p> +  Trigger If Enter Collider : use to disable Animator , Movement ... </p>
+<p> +  Trigger If Exit Collider : use to disable Animator , Movement ... </p>
+
+<p> .  3D Renderer Off if Exit the Collider , On if Enter </p>
+<p> +  Trigger If Enter Collider : use to disable Animator , Movement ... </p>
+<p> +  Trigger If Exit Collider : use to disable Animator , Movement ... </p>
 
 <p> .  Get Object from Another Scene : Added Delay Unload Time  </p>
 
