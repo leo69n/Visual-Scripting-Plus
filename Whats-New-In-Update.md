@@ -4,7 +4,7 @@
 
 <p> <b>+ Macro-System : </b> </p> 
 <p> .  2D + 3D Renderer Off if Exit the Collider , On if Enter  </p>
-
+<p> .  Get Object from Another Scene : Added Delay Unload Time  </p>
 
 <h2>***Update Version : 1.045 ( Submitting ) : </h2>
 
