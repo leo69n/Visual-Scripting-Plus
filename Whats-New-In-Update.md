@@ -3,7 +3,9 @@
 <h2>***Update Version : 1.051 ( Working ) : </h2>
 
 <p> <b>+ Macro-Flash : (***New***)</b> </p>
-<p> .   </p>
+<p> . Flash - Play Flash  </p>
+<p> . Flash - Stop Flash  </p>
+<p> . Flash - On End Flash  </p>
 
 <p> <b>+ Macro-Controller : </b> </p> 
 <p> .  Falling without Jump : add Variable [ Do Falling Motion If Velocity Y Less Than ] </p>
