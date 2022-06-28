@@ -1,6 +1,12 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.046 ( Working ) : </h2>
+<h2>***Update Version : 1.051 ( Working ) : </h2>
+
+<p> <b>+ Macro-Controller : </b> </p> 
+<p> .  Falling without Jump : add Variable [ Do Falling Motion If Velocity Y Less Than ] </p>
+
+
+<h2>***Update Version : 1.046 ( Submitting ) : </h2>
 
 <p> <b>+ Macro-System : </b> </p> 
 <p> .  2D Renderer Off if Exit the Collider , On if Enter : </p>
