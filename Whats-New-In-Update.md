@@ -9,6 +9,7 @@
 
 <p> <b>+ Macro-Controller : </b> </p> 
 <p> .  Falling without Jump : add Variable [ Do Falling Motion If Velocity Y Less Than ] </p>
+<p> .  Foxed : error KeyPressed variable not found when Macro is not loaded yet. </p>
 
 
 <h2>***Update Version : 1.046 ( Submitting ) : </h2>
