@@ -2,7 +2,7 @@
 
 <h2>***Update Version : 1.052 ( working ) : </h2>
 
-<p> <b>+ Macro-Character : (***New***)</b> </p>
+<p> <b>+ Macro-Character : </b> </p>
 <p> . On-End - Move To position - Velocity + Impulse : Fixed arrival trigger un-stoppable.  </p>
 
 <h2>***Update Version : 1.051 ( On Unity Asset Store June 30, 2022 ) : </h2>
