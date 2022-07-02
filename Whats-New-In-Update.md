@@ -5,6 +5,9 @@
 <p> <b>+ Macro-Character : </b> </p>
 <p> . On-End - Move To position - Velocity + Impulse : Fixed arrival trigger un-stoppable.  </p>
 
+<p> <b>+ Macro-Touch : </b> </p>
+<p> . Added option : Use - CancelPhase  </p>
+
 <h2>***Update Version : 1.051 ( On Unity Asset Store June 30, 2022 ) : </h2>
 
 <p> <b>+ Macro-Flash : (***New***)</b> </p>
