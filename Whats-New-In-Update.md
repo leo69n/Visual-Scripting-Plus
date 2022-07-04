@@ -1,12 +1,13 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.052 ( working ) : </h2>
+<h2>***Update Version : 1.053 ( working ) : </h2>
 
 <p> <b>+ Macro-Character : </b> </p>
 <p> . On-End - Move To position - Velocity + Impulse : Fixed arrival trigger un-stoppable.  </p>
 
 <p> <b>+ Macro-Touch : </b> </p>
 <p> . Added option : Use - CancelPhase  </p>
+<p> . Fixed conflict between Mouse and Touch that caused Touch2,3 stopped touch 1. Multi-Touch worked well now.  </p>
 
 <h2>***Update Version : 1.051 ( On Unity Asset Store June 30, 2022 ) : </h2>
 
