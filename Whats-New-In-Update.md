@@ -1,6 +1,11 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.053 ( working ) : </h2>
+<h2>***Update Version : 1.054 ( working ) : </h2>
+
+<p> <b>+ Macro-NoMacro : </b> </p>
+<p> . Physic-Impulse : Fixed output  </p>
+
+<h2>***Update Version : 1.053 ( On Unity Asset Store July 05, 2022 ) : </h2>
 
 <p> <b>+ Macro-Character : </b> </p>
 <p> . On-End - Move To position - Velocity + Impulse : Fixed arrival trigger un-stoppable.  </p>
