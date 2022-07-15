@@ -1,6 +1,10 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.055 ( working ) : </h2>
+<h2>***Update Version : 1.056 ( working ) : </h2>
+<p> <b>+ Macro-Character : </b> </p> 
+<p> .  Move To Position - Velocity or Add Force : Added option End movement at the Arrival  </p>
+
+<h2>***Update Version : 1.055 ( Submited ) : </h2>
 <p> <b>+ Macro-Controller : </b> </p> 
 <p> .  Fixed 3D Animation  </p>
 
