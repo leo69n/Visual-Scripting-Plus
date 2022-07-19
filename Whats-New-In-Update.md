@@ -2,8 +2,9 @@
 
 <h2>***Update Version : 1.057 ( Working ) : </h2>
 
-<p> <b>+ Added Meta to all Files : Don't need to add files into Prefab of Macro </b> </p> 
+<p> <b>+ Added Meta to all Files : Don't need to add files into Prefab of Macro any more </b> </p> 
 
+<p> <b>+ Macro-Url : </b> </p> 
 <p> .  Fixed : Warning error if  returned String is Null  </p>
 <p> .  Fixed : Many Call events in same Script, only one event will be triggered to receive the result ( all custom event received the same result before )  </p>
 
