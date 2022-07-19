@@ -5,6 +5,8 @@
 <p> .  Fixed : Warning error if  returned String is Null  </p>
 <p> .  Fixed : Many Call events in same Script, only one event will be triggered to receive the result ( all custom event received the same result before )  </p>
 
+<p> <b>+ Macro-Keyboard : (NEW) template of Keyboard </b> </p> 
+
 <h2>***Update Version : 1.056 ( On Unity Asset Store July 18, 2022 ) : </h2>
 <p> <b>+ Macro-Character : </b> </p> 
 <p> .  Move To Position - Velocity or Add Force : Added option End movement at the Arrival to trigger [ On End - Move to Position ]  </p>
