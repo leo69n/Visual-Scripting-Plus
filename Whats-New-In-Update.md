@@ -1,6 +1,14 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.056 ( working ) : </h2>
+<h2>***Update Version : 1.057 ( Working ) : </h2>
+<p> <b>+ Macro-Url : </b> </p> 
+<p> .  Fixed : Warning error if  returned String is Null  </p>
+
+
+<h2>***Update Version : 1.056 ( On Unity Asset Store July 18, 2022 ) : </h2>
+<p> <b>+ Macro-Character : </b> </p> 
+<p> .  Move To Position - Velocity or Add Force : Added option End movement at the Arrival to trigger [ On End - Move to Position ]  </p>
+<h2>***Update Version : 1.056 ( On Unity Asset Store July 18, 2022 ) : </h2>
 <p> <b>+ Macro-Character : </b> </p> 
 <p> .  Move To Position - Velocity or Add Force : Added option End movement at the Arrival to trigger [ On End - Move to Position ]  </p>
 <p> .  Cancel - Move To Position : No more trigger [ On End - Move to Position ]  </p>
@@ -8,8 +16,6 @@
 <p> <b>+ Macro-System : </b> </p> 
 <p> .  Turn On Off Renderer : affect on Children now , and have option to [ not affect on children ] </p>
 
-
-<h2>***Update Version : 1.055 ( Submited ) : </h2>
 <p> <b>+ Macro-Controller : </b> </p> 
 <p> .  Fixed 3D Animation  </p>
 
