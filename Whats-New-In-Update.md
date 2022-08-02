@@ -1,6 +1,11 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.059 ( Working ) : </h2>
+<h2>***Update Version : 1.06 ( Working ) : </h2>
+
+<p> <b>+ Macro-Shake : ( New ) </b> </p> 
+<p> .  Screen Shake  </p>
+
+<h2>***Update Version : 1.059 ( On Unity Asset Store July 27, 2022 ) : </h2>
 
 <p> <b>+ Macro-UnityAds : version Unity Advertising 4.21 </b> </p> 
 <p> .  Worked on Unity Testing , iOS , Android  </p>
