@@ -7,7 +7,7 @@
 
 <p> <b>+ Macro-Touch : </b> </p> 
 <p> .  Added : Touch1 - In Touch  </p>
-
+<p> .  Default of : In Touch - check every 0.02 seconds 
 
 
 <h2>***Update Version : 1.059 ( On Unity Asset Store July 27, 2022 ) : </h2>
