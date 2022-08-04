@@ -1,6 +1,6 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.06 ( Working ) : </h2>
+<h2>***Update Version : 1.061 ( Working ) : </h2>
 
 <p> <b>+ Macro-Shake : ( New ) </b> </p> 
 <p> .  Screen Shake  </p>
@@ -8,6 +8,9 @@
 <p> <b>+ Macro-Touch : </b> </p> 
 <p> .  Added : Touch1 - In Touch  </p>
 <p> .  Default of : In Touch - check every 0.02 seconds 
+
+<p> <b>+ Macro-Tween : </b> </p> 
+<p> .  Cleaned : all Object Variables are converted to Graph Variables  </p>
 
 
 <h2>***Update Version : 1.059 ( On Unity Asset Store July 27, 2022 ) : </h2>
