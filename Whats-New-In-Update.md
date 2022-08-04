@@ -5,6 +5,11 @@
 <p> <b>+ Macro-Shake : ( New ) </b> </p> 
 <p> .  Screen Shake  </p>
 
+<p> <b>+ Macro-Touch : </b> </p> 
+<p> .  Added : Touch1 - In Touch  </p>
+
+
+
 <h2>***Update Version : 1.059 ( On Unity Asset Store July 27, 2022 ) : </h2>
 
 <p> <b>+ Macro-UnityAds : version Unity Advertising 4.21 </b> </p> 
