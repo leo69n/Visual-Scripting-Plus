@@ -7,7 +7,7 @@
 
 <p> <b>+ Macro-Character , Macro-Controller : </b> </p> 
 <p> .  Animation - Play Loop : Added Layer variable </p>
-<p> .  Animation - Play No Loop : Added Layer variable. Improved performance </p>
+<p> .  Animation - Play No Loop : Added Layer variable. Improved performance. </p>
 
 
 <h2>***Update Version : 1.061 ( On Unity Asset Store August 10, 2022 ) : </h2>
