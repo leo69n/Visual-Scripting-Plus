@@ -5,12 +5,7 @@
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> .  Added Events  </p>
 
-<p> <b>+ Macro-Character : </b> </p> 
-<p> .  Animation - Play Loop : Added Layer variable </p>
-<p> .  Animation - Play No Loop : Added Layer variable.Improved performance </p>
-
-
-<p> <b>+ Macro-Controller : </b> </p> 
+<p> <b>+ Macro-Character , Macro-Controller : </b> </p> 
 <p> .  Animation - Play Loop : Added Layer variable </p>
 <p> .  Animation - Play No Loop : Added Layer variable.Improved performance </p>
 
