@@ -1,6 +1,20 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.061 ( Working ) : </h2>
+<h2>***Update Version : 1.062 ( Working ) : </h2>
+
+<p> <b>+ Macro-NoMacro : </b> </p> 
+<p> .  Added Events  </p>
+
+<p> <b>+ Macro-Character : </b> </p> 
+<p> .  Animation - Play Loop : Added Layer variable </p>
+<p> .  Animation - Play Loop : Added Layer variable </p>
+
+<p> <b>+ Macro-Controller : </b> </p> 
+<p> .  Animation - Play Loop : Added Layer variable </p>
+<p> .  Animation - Play Loop : Added Layer variable </p>
+
+
+<h2>***Update Version : 1.061 ( On Unity Asset Store August 10, 2022 ) : </h2>
 
 <p> <b>+ Macro-Shake : ( New ) </b> </p> 
 <p> .  Screen Shake  </p>
