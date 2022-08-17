@@ -3,9 +3,10 @@
 <h2>***Update Version : 1.063 ( Working ) : </h2>
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
-<p> .  Convert - UI to World position : fixed default Z = -10   </p>
-
-
+<p> .  Convert - UI to World position : fixed default Z = Camera.Z   </p>
+<p> .  is Mouse moving : return True if position of Mouse changed   </p>
+<p> .  is 2D Point moving : return True if position of 2D Point changed   </p>
+<p> .  is 3D Point moving : return True if position of 3D Point changed   </p>
 
 <h2>***Update Version : 1.062 ( Submiting ) : </h2>
 
