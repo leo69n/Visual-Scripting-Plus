@@ -1,9 +1,19 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.064 ( Working ) : </h2>
+<h2>***Update Version : 1.065 ( Working ) : </h2>
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> .  Once - Added Sequence   </p>
+
+<p> <b>+ Macro-Controller : </b> </p> 
+<p> .  Fixed Play-Animation bug from last version   </p>
+
+<p> <b>+ Macro-Tween : </b> </p> 
+<p> .  Tween-Start   </p>
+
+<h2>***Update Version : 1.064 ( On Unity Asset Store August 22, 2022 ) : </h2>
+
+<p> <b>+ Macro-NoMacro : </b> </p> 
 <p> .  Convert - UI to World position : fixed default Z = Camera.Z   </p>
 <p> .  is Mouse moving : return True if position of Mouse changed   </p>
 <p> .  is 2D Point moving : return True if position of 2D Point changed   </p>
