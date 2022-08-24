@@ -3,7 +3,7 @@
 <h2>***Update Version : 1.065 ( Working ) : </h2>
 
 <p> <b>+ Macro-ThirdPerson : </b> </p> 
-<p> .  Fixed Jump issue if Ground is Terrain   </p>
+<p> .  Fixed Jump issue if Ground has different Heights   </p>
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> .  Once - Added Sequence   </p>
