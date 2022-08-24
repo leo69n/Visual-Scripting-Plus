@@ -2,6 +2,9 @@
 
 <h2>***Update Version : 1.065 ( Working ) : </h2>
 
+<p> <b>+ Macro-ThirdPerson : </b> </p> 
+<p> .  Fixed Jump issue if Ground is Terrain   </p>
+
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> .  Once - Added Sequence   </p>
 
@@ -10,6 +13,8 @@
 
 <p> <b>+ Macro-Tween : </b> </p> 
 <p> .  Tween-Start   </p>
+
+
 
 <h2>***Update Version : 1.064 ( On Unity Asset Store August 22, 2022 ) : </h2>
 
