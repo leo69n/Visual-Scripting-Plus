@@ -7,6 +7,7 @@
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> .  Once - Added Sequence   </p>
+<p> .  Once + Reset Once : with the same Name   </p>
 
 <p> <b>+ Macro-Controller : </b> </p> 
 <p> .  Fixed Play-Animation bug from last version   </p>
