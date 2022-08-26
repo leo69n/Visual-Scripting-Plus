@@ -2,6 +2,9 @@
 
 <h2>***Update Version : 1.065 ( Working ) : </h2>
 
+<p> <b>+ Macro-Pin : </b> </p> 
+<p> .  Fixed Auto Play variables   </p>
+
 <p> <b>+ Macro-ThirdPerson : </b> </p> 
 <p> .  Fixed Jump issue if Ground has different Heights   </p>
 
@@ -13,7 +16,7 @@
 <p> .  Fixed Play-Animation bug from last version   </p>
 
 <p> <b>+ Macro-Tween : </b> </p> 
-<p> .  Tween-Start   </p>
+<p> .  Added Tween-Start   </p>
 
 
 
