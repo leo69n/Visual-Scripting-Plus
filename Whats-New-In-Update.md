@@ -18,7 +18,8 @@
 <p> <b>+ Macro-Tween : </b> </p> 
 <p> .  Added Tween-Start   </p>
 
-
+<p> <b>+ Macro-Touch : </b> </p> 
+<p> .  Cleaned up Object Variables : Move them to event "Other Settings"   </p>
 
 <h2>***Update Version : 1.064 ( On Unity Asset Store August 22, 2022 ) : </h2>
 
@@ -27,6 +28,8 @@
 <p> .  is Mouse moving : return True if position of Mouse changed   </p>
 <p> .  is 2D Point moving : return True if position of 2D Point changed   </p>
 <p> .  is 3D Point moving : return True if position of 3D Point changed   </p>
+
+<p> <b>+ Fix Bugs </b> </p> 
 
 <h2>***Update Version : 1.062 ( On Unity Asset Store August 16, 2022 ) : </h2>
 
