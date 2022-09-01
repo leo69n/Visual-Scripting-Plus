@@ -1,6 +1,11 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.065 ( Working ) : </h2>
+<h2>***Update Version : 1.066 ( Working ) : </h2>
+
+<p> <b>+ Macro-AI : </b> </p> 
+<p> .  Fix error : AI-Arrival returning to target   </p>
+
+<h2>***Update Version : 1.065 ( On Unity Asset Store August 30, 2022 ) : </h2>
 
 <p> <b>+ Macro-Pin : </b> </p> 
 <p> .  Fixed Auto Play variables   </p>
