@@ -2,7 +2,11 @@
 
 <h2>***Update Version : 1.066 ( Working ) : </h2>
 
-<p> <b>+ Macro-AI : </b> </p> 
+<p> <b>+ Macro-Quest : ( *NEW )</b> </p> 
+<p> .  Read a String with giving speed    </p>
+<p> .  Read multi Strings with giving speed    </p>
+
+<p> <b>+ Macro-Tween : </b> </p> 
 <p> .  Fixed Tween Opacity did not run on Text   </p>
 
 <p> <b>+ Macro-AI : </b> </p> 
