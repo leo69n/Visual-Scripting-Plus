@@ -3,6 +3,9 @@
 <h2>***Update Version : 1.066 ( Working ) : </h2>
 
 <p> <b>+ Macro-AI : </b> </p> 
+<p> .  Fixed Tween Opacity did not run on Text   </p>
+
+<p> <b>+ Macro-AI : </b> </p> 
 <p> .  Fix error : AI-Arrival returning to target   </p>
 
 <h2>***Update Version : 1.065 ( On Unity Asset Store August 30, 2022 ) : </h2>
