@@ -1,6 +1,8 @@
 # Visual Scripting Plus
+<h2>***Update Version : 1.067 ( Working ) : </h2>
 
-<h2>***Update Version : 1.066 ( Working ) : </h2>
+
+<h2>***Update Version : 1.066 ( Submiting ) : </h2>
 
 <p> <b>+ Macro-Quest : ( *NEW )</b> </p> 
 <p> .  Read a String with giving speed    </p>
