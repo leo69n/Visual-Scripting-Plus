@@ -10,7 +10,7 @@
 <p> . [ Added ] Camera to Mouse Only if Input on : Move camera only if input is pressed   </p>
 
 <p> <b>+ Macro-Visible : </b> </p> 
-<p> . Added : Text Mesh & Text Mesh Pro for 3D Text   </p>
+<p> . [ Added ] Text Mesh & Text Mesh Pro for 3D Text   </p>
 
 <p> <b>+ Macro-Tween : </b> </p> 
 <p> .  Fixed Tween Opacity did not run on Text   </p>
