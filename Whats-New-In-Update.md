@@ -6,6 +6,9 @@
 <p> .  Read a String with giving speed    </p>
 <p> .  Read multi Strings with giving speed    </p>
 
+<p> <b>+ Macro-Visible : </b> </p> 
+<p> . Added and Fix : Text Mesh & Text Mesh Pro for 3D Text   </p>
+
 <p> <b>+ Macro-Tween : </b> </p> 
 <p> .  Fixed Tween Opacity did not run on Text   </p>
 
