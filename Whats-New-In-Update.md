@@ -12,6 +12,11 @@
 <p> <b>+ Macro-Visible : </b> </p> 
 <p> . [ Added ] Text Mesh & Text Mesh Pro for 3D Text   </p>
 
+<p> <b>+ Macro-NoMacro : </b> </p> 
+<p> . [ Added ] : Get a String Between 2 Strings  </p>
+<p> . [ Added ] : Get a String After a String  </p>
+<p> . [ Added ] : Get a String Before a String  </p>
+
 <p> <b>+ Macro-Tween : </b> </p> 
 <p> .  Fixed Tween Opacity did not run on Text   </p>
 
