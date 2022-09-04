@@ -1,6 +1,7 @@
 # Visual Scripting Plus
 <h2>***Update Version : 1.067 ( Working ) : </h2>
-
+<p> <b>+ Macro-Controller : </b> </p> 
+<p> .  Fixed Jump with Box Cast : More Accurate for 3D   </p>
 
 <h2>***Update Version : 1.066 ( Submiting ) : </h2>
 
