@@ -1,5 +1,11 @@
 # Visual Scripting Plus
-<h2>***Update Version : 1.068 ( Working ) : </h2>
+
+<h2>***Update Version : 1.069 ( Working ) : </h2>
+<p> <b>+ Macro-Controller : </b> </p> 
+<p> .  Added option - Hold to keep jumping   </p>
+
+
+<h2>***Update Version : 1.068 ( On Unity Asset Store Sep 13, 2022 ) : </h2>
 <p> <b>+ Macro-Controller : </b> </p> 
 <p> .  Fixed Jump with Box Cast : More Accurate for 3D   </p>
 
