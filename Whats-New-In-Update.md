@@ -4,6 +4,8 @@
 <p> <b>+ Macro-Controller : </b> </p> 
 <p> .  Added option - Hold to keep jumping   </p>
 
+<p> <b>+ Macro-Character : </b> </p> 
+<p> .  Enemy - Move Path to Path   </p>
 
 <h2>***Update Version : 1.068 ( On Unity Asset Store Sep 13, 2022 ) : </h2>
 <p> <b>+ Macro-Controller : </b> </p> 
