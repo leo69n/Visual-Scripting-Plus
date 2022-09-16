@@ -7,6 +7,9 @@
 <p> <b>+ Macro-Character : </b> </p> 
 <p> .  Enemy - Move Path to Path   </p>
 
+<p> <b>+ Macro-NoMacro : </b> </p> 
+<p> .  Flip 2D Char Face to position   </p>
+
 <h2>***Update Version : 1.068 ( On Unity Asset Store Sep 13, 2022 ) : </h2>
 <p> <b>+ Macro-Controller : </b> </p> 
 <p> .  Fixed Jump with Box Cast : More Accurate for 3D   </p>
