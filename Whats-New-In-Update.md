@@ -2,8 +2,8 @@
 
 <h2>***Update Version : 1.071 ( working ) : </h2>
 <p> <b>+ Macro-Touch : </b> </p> 
-<p> .  Improved Touch-Begin with Mouse : improved performance if there are many Objects on Scene   </p>
-
+<p> .  Improved performance if there are many Objects on Scene   </p>
+<p> .  Added more Setting options to choose what event to use only and turn off others for better performance   </p>
 
 <h2>***Update Version : 1.069 ( On Unity Asset Store Sep 20, 2022 ) : </h2>
 <p> <b>+ Macro-Controller : </b> </p> 
