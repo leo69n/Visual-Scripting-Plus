@@ -1,6 +1,11 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.069 ( Working ) : </h2>
+<h2>***Update Version : 1.071 ( working ) : </h2>
+<p> <b>+ Macro-Touch : </b> </p> 
+<p> .  Improved Touch-Begin with Mouse : improved performance if there are many Objects on Scene   </p>
+
+
+<h2>***Update Version : 1.069 ( On Unity Asset Store Sep 20, 2022 ) : </h2>
 <p> <b>+ Macro-Controller : </b> </p> 
 <p> .  Added option - Hold to keep jumping   </p>
 
