@@ -1,6 +1,6 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.071 ( working ) : </h2>
+<h2>***Update Version : 1.071 ( submiting ) : </h2>
 <p> <b>+ Macro-Touch : </b> </p> 
 <p> .  Improved performance if there are many Objects on Scene   </p>
 <p> .  Added more Setting options to choose what event to use only and turn off others for better performance   </p>
