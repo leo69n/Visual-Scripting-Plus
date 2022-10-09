@@ -4,6 +4,11 @@
 <p> <b>+ Macro-Touch : </b> </p> 
 <p> .  Added : Layer Mask option for 3D 2D objects   </p>
 
+<p> <b>+ Macro-Inventory (***NEW***) : </b> </p> 
+<p> .  Create Inventory   </p>
+<p> .  Update Inventory   </p>
+<p> .  Add Item  </p>
+<p> .  Use Item  </p>
 
 <h2>***Update Version : 1.071 ( On Unity Asset Store Sep 27, 2022 ) : </h2>
 <p> <b>+ Macro-Touch : </b> </p> 
