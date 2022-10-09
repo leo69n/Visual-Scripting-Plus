@@ -1,6 +1,6 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.071 ( working ) : </h2>
+<h2>***Update Version : 1.072 ( working ) : </h2>
 <p> <b>+ Macro-Touch : </b> </p> 
 <p> .  Added : Layer Mask option for 3D 2D objects   </p>
 
