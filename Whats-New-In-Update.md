@@ -10,6 +10,9 @@
 <p> .  Add Item  </p>
 <p> .  Use Item  </p>
 
+<p> <b>+ Macro-NoMacro : </b> </p> 
+<p> .  My Child Index : return index of Child input from its parent   </p>
+
 <h2>***Update Version : 1.071 ( On Unity Asset Store Sep 27, 2022 ) : </h2>
 <p> <b>+ Macro-Touch : </b> </p> 
 <p> .  Improved performance if there are many Objects on Scene   </p>
