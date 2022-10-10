@@ -1,8 +1,7 @@
 # Visual Scripting Plus
 
 <h2>***Update Version : 1.072 ( working ) : </h2>
-<p> <b>+ Macro-Touch : </b> </p> 
-<p> .  Added : Layer Mask option for 3D 2D objects   </p>
+
 
 <p> <b>+ Macro-Inventory (***NEW***) : </b> </p> 
 <p> .  Create Inventory   </p>
@@ -12,6 +11,10 @@
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> .  My Child Index : return index of Child input from its parent   </p>
+
+<p> <b>+ Macro-Touch : </b> </p> 
+<p> .  Added : Layer Mask option for 3D 2D objects   </p>
+<p> .  Added check Tag for Tap & Double Tap : UI - 2D - 3D  </p>
 
 <h2>***Update Version : 1.071 ( On Unity Asset Store Sep 27, 2022 ) : </h2>
 <p> <b>+ Macro-Touch : </b> </p> 
