@@ -5,7 +5,7 @@
 
 <p> <b>+ Macro-Inventory (***NEW***) : </b> </p> 
 <p> .  Create Inventory   </p>
-<p> .  Update Inventory   </p>
+<p> .  Update Inventory & Show Inventory   </p>
 <p> .  Add Item  </p>
 <p> .  Use Item  </p>
 
