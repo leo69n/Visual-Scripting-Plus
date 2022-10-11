@@ -5,7 +5,8 @@
 
 <p> <b>+ Macro-Inventory (***NEW***) : </b> </p> 
 <p> .  Create Inventory   </p>
-<p> .  Update Inventory & Show Inventory   </p>
+<p> .  Get all Childs values of each Item 1 by 1 from Inventory to display them   </p>
+<p> .  Get all Childs values of an Item 1 by 1 to display all values of this Item    </p>
 <p> .  Add Item  </p>
 <p> .  Use Item  </p>
 <p> .  Swap Slots  </p>
