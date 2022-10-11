@@ -8,6 +8,12 @@
 <p> .  Update Inventory & Show Inventory   </p>
 <p> .  Add Item  </p>
 <p> .  Use Item  </p>
+<p> .  Swap Slots  </p>
+<p> .  Get All Items from Inventory  </p>
+<p> .  Get An Item Values from Inventory using Index  </p>
+<p> .  Get An Item Values from Inventory with Input object </p>
+<p> .  Get Inventory [ List ] to Save  </p>
+<p> . Load Inventory [ List ]  </p>
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> .  My Child Index : return index of Child input from its parent   </p>
