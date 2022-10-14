@@ -8,7 +8,8 @@
 <p> .  Get all Childs values of each Item 1 by 1 from Inventory to display them   </p>
 <p> .  Get all Childs values of an Item 1 by 1 to display all values of this Item    </p>
 <p> .  Add Item  </p>
-<p> .  Use Item  </p>
+<p> .  Use 1 Item  </p>
+<p> .  Remove Amount of Item  </p>
 <p> .  Swap Slots  </p>
 <p> .  Get All Items from Inventory  </p>
 <p> .  Get An Item Values from Inventory using Index  </p>
