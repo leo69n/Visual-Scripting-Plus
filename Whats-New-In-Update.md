@@ -19,6 +19,7 @@
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> .  My Child Index : return index of Child input from its parent   </p>
+<p> .  Get Each Children   </p>
 
 <p> <b>+ Macro-Touch : </b> </p> 
 <p> .  Added : Layer Mask option for 3D 2D objects   </p>
