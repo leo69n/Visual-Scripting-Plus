@@ -1,6 +1,14 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.072 ( working ) : </h2>
+<h2>***Update Version : 1.074 ( working ) : </h2>
+
+
+<p> <b>+ Macro-ThirdPerson : </b> </p> 
+<p> .  Move To Direction : manually Player Movement   </p>
+
+
+
+<h2>***Update Version : 1.073 ( On Unity Asset Store from Oct 20 , 2022 ) : </h2>
 
 
 <p> <b>+ Macro-Inventory (***NEW***) : </b> </p> 
