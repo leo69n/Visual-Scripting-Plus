@@ -12,6 +12,9 @@
 <p> .  3D Move To Vector3 : manually Player Movement   </p>
 <p> .  2D Move To Vector2  : manually Player Movement   </p>
 
+<p> <b>+ Macro-Touch : </b> </p> 
+<p> .  Fix [ In Touching Reset Time ]    </p>
+
 <h2>***Update Version : 1.073 ( On Unity Asset Store from Oct 20 , 2022 ) : </h2>
 
 
