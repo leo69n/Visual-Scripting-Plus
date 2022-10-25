@@ -4,9 +4,13 @@
 
 
 <p> <b>+ Macro-ThirdPerson : </b> </p> 
-<p> .  Move To Direction : manually Player Movement   </p>
+<p> .  Move To XZ Vector : manually Player Movement   </p>
+<p> .  Rotate in Angle 360 with Camera  </p>
 
-
+<p> <b>+ Macro-Character : </b> </p> 
+<p> .  3D Move To XZ Vector : manually Player Movement   </p>
+<p> .  3D Move To Vector3 : manually Player Movement   </p>
+<p> .  2D Move To Vector2  : manually Player Movement   </p>
 
 <h2>***Update Version : 1.073 ( On Unity Asset Store from Oct 20 , 2022 ) : </h2>
 
