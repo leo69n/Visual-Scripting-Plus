@@ -1,6 +1,14 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.074 ( working ) : </h2>
+<h2>***Update Version : 1.075 ( working ) : </h2>
+
+
+<p> <b>+ Macro-Touch : </b> </p> 
+<p> .  Multi-Touch 2nd,3rd,4th... Begin , End , Touching, Tap, Double Tap , Triple Tap : worked correctly now with an input Touch number   </p>
+<p> .  Fixed [ Any nth Touch Begin ] with Mouse click </p>
+<p> .  Fixed [ Any nth Touch End ] with Mouse click </p>
+
+<h2>***Update Version : 1.074 ( On Unity Asset Store from Oct 28 , 2022 ) : </h2>
 
 
 <p> <b>+ Macro-ThirdPerson : </b> </p> 
