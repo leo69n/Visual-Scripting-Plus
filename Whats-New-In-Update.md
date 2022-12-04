@@ -1,6 +1,14 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.075 ( On Unity Asset Store from Nov 10 , 2022 ) : </h2>
+<h2>***Update Version : 1.077 ( Wroking ) : </h2>
+
+
+<p> <b>+ Macro-NoMacro : </b> </p> 
+<p> .  3D-Set Position to Boundary of Object </p>
+<p> .  2D-Set Position to Boundary of Object </p>
+
+
+<h2>***Update Version : 1.076 ( On Unity Asset Store from Nov 10 , 2022 ) : </h2>
 
 
 <p> <b>+ Macro-Touch : </b> </p> 
