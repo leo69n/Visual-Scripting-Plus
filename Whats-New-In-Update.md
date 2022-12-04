@@ -1,6 +1,6 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.075 ( working ) : </h2>
+<h2>***Update Version : 1.075 ( On Unity Asset Store from Nov 10 , 2022 ) : </h2>
 
 
 <p> <b>+ Macro-Touch : </b> </p> 
