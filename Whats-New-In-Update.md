@@ -1,6 +1,6 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.077 ( Wroking ) : </h2>
+<h2>***Update Version : 1.077 ( Working ) : </h2>
 
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
