@@ -6,7 +6,9 @@
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> .  3D-Set Position to Boundary of Object </p>
 <p> .  2D-Set Position to Boundary of Object </p>
-
+<p> .  3D - Raycast Hit to first Object </p>
+<p> .  3D - Raycast All Hit to 1 Object </p>
+<p> .  3D - Raycast All Hit to Layer Mask </p>
 
 <h2>***Update Version : 1.076 ( On Unity Asset Store from Nov 10 , 2022 ) : </h2>
 
