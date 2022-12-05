@@ -4,11 +4,11 @@
 
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
-<p> .  3D-Set Position to Boundary of Object </p>
-<p> .  2D-Set Position to Boundary of Object </p>
-<p> .  3D - Raycast Hit to first Object </p>
-<p> .  3D - Raycast All Hit to 1 Object </p>
-<p> .  3D - Raycast All Hit to Layer Mask </p>
+<p> .  3D-Get & Set Position at Boundary of Object </p>
+<p> .  2D-Get & Set Position at Boundary of Object </p>
+<p> .  3D - is Object hit by Raycast ? </p>
+<p> .  3D - is Object hit by Raycast All ? </p>
+<p> .  3D - Layer Mask hit by Raycast All </p>
 
 <h2>***Update Version : 1.076 ( On Unity Asset Store from Nov 10 , 2022 ) : </h2>
 
