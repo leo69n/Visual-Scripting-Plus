@@ -4,6 +4,8 @@
 
 <p> <b>+ Macro-Character : </b> </p> 
 <p> .  Cancel - Move to Paths : fixed Timer after [ Cancel - Move to Paths ] to stop it move again </p>
+<p> .  Character - Play No-Loop Motion : [Motion After] = -1 : now will do nothings </p>
+
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> .  3D-Get & Set Position at Boundary of Object </p>
