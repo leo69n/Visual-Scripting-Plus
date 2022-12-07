@@ -2,6 +2,8 @@
 
 <h2>***Update Version : 1.078 ( Working ) : </h2>
 
+<p> <b>+ Macro-Character : </b> </p> 
+<p> .  Cancel - Move to Paths : fixed Timer after [ Cancel - Move to Paths ] to stop it move again </p>
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> .  3D-Get & Set Position at Boundary of Object </p>
