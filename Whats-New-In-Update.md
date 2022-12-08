@@ -1,6 +1,11 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.079 ( Working ) : </h2>
+<h2>***Update Version : 1.08 ( Working ) : </h2>
+
+<p> <b>+ Macro-Character : </b> </p> 
+<p> .  Arrival check : use Collider closest to bounding box and [ On fixed update ] instead </p>
+
+<h2>***Update Version : 1.079 ( On Unity Asset Store from Dec 08 , 2022  ) : </h2>
 
 <p> <b>+ Macro-Character : </b> </p> 
 <p> .  Cancel - Move to Paths : fixed Timer after [ Cancel - Move to Paths ] to stop it move again </p>
