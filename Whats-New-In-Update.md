@@ -1,6 +1,17 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.08 ( Working ) : </h2>
+<h2>***Update Version : 1.081 ( Working ) : </h2>
+
+<p> <b>+ Macro-Quest : </b> </p> 
+<p> .  Add Quest to Quests List </p>
+<p> .  is Quest received </p>
+<p> .  Collect item to Quest </p>
+<p> .  Save Quests List </p>
+<p> .  Load Quests List </p>
+<p> .  Remove a Quest </p>
+<p> .  Get all received Quests </p>
+<p> .  Add Timing Quest </p>
+<p> .  Update Time for Timing Quests </p>
 
 <p> <b>+ Macro-Character : </b> </p> 
 <p> .  Arrival check : use Collider closest to bounding box and [ On fixed update ] instead </p>
