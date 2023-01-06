@@ -5,6 +5,9 @@
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> . Compare 2 Distances </p>
 
+<p> <b>+ Macro-Character : </b> </p> 
+<p> . Move to Position : fixed arrival check </p>
+<p> . Move to Paths : fixed arrival check </p>
 
 <h2>***Update Version : 1.081 ( Working ) : </h2>
 
