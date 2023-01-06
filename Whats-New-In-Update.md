@@ -1,5 +1,11 @@
 # Visual Scripting Plus
 
+<h2>***Update Version : 1.082( Working ) : </h2>
+
+<p> <b>+ Macro-NoMacro : </b> </p> 
+<p> . Compare 2 Distances </p>
+
+
 <h2>***Update Version : 1.081 ( Working ) : </h2>
 
 <p> <b>+ Macro-Quest : </b> </p> 
