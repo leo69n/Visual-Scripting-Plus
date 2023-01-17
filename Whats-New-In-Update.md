@@ -6,6 +6,9 @@
 <p> . Read a line of Quest : added option Skip tag, Skip special chars </p>
 <p> . Read a list of lines of Quest : added option Skip tag, Skip special chars ... Skip to next line </p>
 
+<p> <b>+ Macro-Touch : </b> </p> 
+<p> . Added [On any Tap], [On any Double Tap], [On any Triple Tap] </p>
+
 <h2>***Update Version : 1.083( On Unity Asset Store from Jan 10 , 2023 ) : </h2>
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
