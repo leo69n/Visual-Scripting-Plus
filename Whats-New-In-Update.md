@@ -13,6 +13,9 @@
 . Player-2D-Move to Direction : fixed move on Air
 . Player-3D-Move to Direction : fixed move on Air
 
+<p> <b>+ Macro-NoMacro : </b> </p> 
+<p> . 2D-FlipToPosition : fixed Target Position </p>
+
 <h2>***Update Version : 1.083( On Unity Asset Store from Jan 10 , 2023 ) : </h2>
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
