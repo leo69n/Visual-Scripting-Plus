@@ -1,6 +1,6 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.084( Working ) : </h2>
+<h2>***Update Version : 1.085( Working ) : </h2>
 
 <p> <b>+ Macro-Quest : </b> </p> 
 <p> . Read a line of Quest : added option Skip tag, Skip special chars </p>
