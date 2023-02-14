@@ -10,7 +10,7 @@
 <p> <b>+ Macro-Touch : </b> </p> 
 <p> . Added [On any Tap], [On any Double Tap], [On any Triple Tap] </p>
 
-+ Macro-Character :
+<p> <b>+ Macro-Character : </b> </p> 
 . Player-2D-Move to Direction : fixed move on Air
 . Player-3D-Move to Direction : fixed move on Air
 
