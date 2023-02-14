@@ -11,8 +11,8 @@
 <p> . Added [On any Tap], [On any Double Tap], [On any Triple Tap] </p>
 
 <p> <b>+ Macro-Character : </b> </p> 
-. Player-2D-Move to Direction : fixed move on Air
-. Player-3D-Move to Direction : fixed move on Air
+<p>. Player-2D-Move to Direction : fixed move on Air </p>
+<p>. Player-3D-Move to Direction : fixed move on Air </p>
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> . 2D-FlipToPosition : fixed Target Position </p>
