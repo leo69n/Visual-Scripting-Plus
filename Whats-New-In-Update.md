@@ -1,11 +1,12 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.089( Working ) : </h2>
+<h2>***Update Version : 1.088( Working ) : </h2>
 
 <p> <b>+ Macro-Quest : </b> </p> 
 <p> . Read a line of Quest : added option Skip tag, Skip special chars </p>
 <p> . Read a list of lines of Quest : added option Skip tag, Skip special chars ... Skip to next line </p>
-<p> . Get All Quest List : Added return [Quest], Quest Index in Received Quest List </p>
+<p> . Get All Quest List : Added return [Quest], Quest Index in Received Quest List. [is Finished] </p>
+<p> . Get [Quest Index] from All Quests List</p>
 
 <p> <b>+ Macro-Touch : </b> </p> 
 <p> . Added [On any Tap], [On any Double Tap], [On any Triple Tap] </p>
