@@ -7,6 +7,7 @@
 <p> . Read a list of lines of Quest : added option Skip tag, Skip special chars ... Skip to next line </p>
 <p> . Get All Quest List : Added return [Quest], Quest Index in Received Quest List. [is Finished] </p>
 <p> . Get [Quest Index] from All Quests List</p>
+<p> . Add to Quest List : fixed reset Current Amount of Item to 0</p>
 
 <p> <b>+ Macro-Touch : </b> </p> 
 <p> . Added [On any Tap], [On any Double Tap], [On any Triple Tap] </p>
