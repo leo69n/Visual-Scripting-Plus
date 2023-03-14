@@ -6,7 +6,7 @@
 <p> . Resume-MovePathToPath :(New) Resume and keep moving to the previous Path which is canceled before </p>
 
 <p> <b>+ Macro-Touch : </b> </p> 
-<p> . Raycast with an input position, work for Virtual mouse or Gamepad, Joystick ... </p>
+<p> . Virtual Mouse/ Custom Click : work for Virtual mouse or Gamepad, Joystick with an input position of click/Touch ... </p>
 
 <h2>***Update Version : 1.09( On Unity Asset Store from Feb 10 , 2023 ) : </h2>
 
