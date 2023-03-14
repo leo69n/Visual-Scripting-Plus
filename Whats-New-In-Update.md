@@ -1,6 +1,14 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.089( Working ) : </h2>
+<h2>***Update Version : 1.091( Working ) : </h2>
+
+<p> <b>+ Macro-Character : </b> </p> 
+<p> . Resume-MovePathToPath :(New) Resume and keep moving to the previous Path which is canceled before </p>
+
+<p> <b>+ Macro-Touch : </b> </p> 
+<p> . Raycast with an input position, work for Virtual mouse or Gamepad, Joystick ... </p>
+
+<h2>***Update Version : 1.09( On Unity Asset Store from Feb 10 , 2023 ) : </h2>
 
 <p> <b>+ Macro-Quest : </b> </p> 
 <p> . Read a line of Quest : added option Skip tag, Skip special chars </p>
