@@ -7,6 +7,7 @@
 
 <p> <b>+ Macro-Touch : </b> </p> 
 <p> . Virtual Mouse/ Custom Click : work for Virtual mouse or Gamepad, Joystick with an input position of click/Touch ... </p>
+<p> . Fixed to work with input Layers ... </p>
 
 <h2>***Update Version : 1.09( On Unity Asset Store from Feb 10 , 2023 ) : </h2>
 
