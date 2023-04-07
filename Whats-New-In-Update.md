@@ -3,7 +3,7 @@
 <h2>***Update Version : 1.092( Working ) : </h2>
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
-<p> . Check Current Animation name </p>
+<p> . is Current Animation name </p>
 
 
 <h2>***Update Version : 1.091( On Unity Asset Store from Feb 15 , 2023 ) : </h2>
