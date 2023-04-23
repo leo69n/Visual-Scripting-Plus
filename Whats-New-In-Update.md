@@ -8,6 +8,8 @@
 <p> <b>+ Macro-Tween : </b> </p> 
 <p> . Tween-ValueOnly : Return Value in process </p>
 
+<p> <b>+ Macro-Touch : </b> </p> 
+<p> . Fixed Multi-Touch : Reset touching </p>
 
 <h2>***Update Version : 1.091( On Unity Asset Store from Feb 15 , 2023 ) : </h2>
 
