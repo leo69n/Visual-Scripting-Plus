@@ -1,6 +1,6 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.093( working ) : </h2>
+<h2>***Update Version : 1.094( working ) : </h2>
 
 <p> <b>+ Macro-UIButton : </b> </p> 
 <p> . Same as Macro-Touch , but for UI only </p>
@@ -8,7 +8,10 @@
 <p> <b>+ Netcode - Multiplayer : </b> </p> 
 <p> . Help to use Netcode faster in Visual Scripting </p>
 
-<h2>***Update Version : 1.092( On Unity Asset Store from April 15 , 2023 ) : </h2>
+<p> <b>+ Macro-Bound : </b> </p> 
+<p> . Get Random Point from Box , Circle ... : Fixed </p>
+
+<h2>***Update Version : 1.093( On Unity Asset Store from April 15 , 2023 ) : </h2>
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> . is Current Animation name </p>
