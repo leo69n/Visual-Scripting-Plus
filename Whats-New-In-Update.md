@@ -12,7 +12,7 @@
 <p> . Get Random Point from Box , Circle ... : Fixed </p>
 
 <p> <b>+ Macro-No Macro : </b> </p> 
-<p> . Find Chars in String : show many times and index of each time </p>
+<p> . Find Chars in String : count many times and index of each time </p>
 
 <h2>***Update Version : 1.093( On Unity Asset Store from April 15 , 2023 ) : </h2>
 
