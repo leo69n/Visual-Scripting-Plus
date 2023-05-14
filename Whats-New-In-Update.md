@@ -14,6 +14,9 @@
 <p> <b>+ Macro-No Macro : </b> </p> 
 <p> . Find Chars in String : count many times and index of each time </p>
 
+<p> <b>+ Macro-Sine : </b> </p> 
+<p> . Fixed Pi value to work on phones devices export ... </p>
+
 <h2>***Update Version : 1.093( On Unity Asset Store from April 15 , 2023 ) : </h2>
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
