@@ -1,6 +1,6 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.094( working ) : </h2>
+<h2>***Update Version : 1.095( working ) : </h2>
 
 <p> <b>+ Macro-Ads : </b> </p> 
 <p> . Banner : Show / Hide Banner </p>
