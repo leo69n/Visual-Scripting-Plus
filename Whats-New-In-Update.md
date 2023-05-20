@@ -2,6 +2,9 @@
 
 <h2>***Update Version : 1.094( working ) : </h2>
 
+<p> <b>+ Macro-Ads : </b> </p> 
+<p> . Banner : Show / Hide Banner </p>
+
 <p> <b>+ Macro-UIButton : </b> </p> 
 <p> . Same as Macro-Touch , but for UI only </p>
 
