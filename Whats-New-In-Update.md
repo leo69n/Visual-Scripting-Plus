@@ -2,6 +2,13 @@
 
 <h2>***Update Version : 1.095( working ) : </h2>
 
+<p> <b>+ Macro-Timer (NEW) : </b> </p> 
+<p> + Timer in your game : done in 5 seconds only </p>
+<p> . Set Duration </p>
+<p> . Pause / Resume </p>
+<p> . Adjust timer : Add / Subtract additional Time </p>
+<p> + Time Watch </p>
+
 <p> <b>+ Macro-Ads : </b> </p> 
 <p> . Banner : Show / Hide Banner </p>
 
