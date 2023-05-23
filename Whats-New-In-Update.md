@@ -9,6 +9,9 @@
 <p> . Adjust timer : Add / Subtract additional Time </p>
 <p> + Time Watch </p>
 
+<p> <b>+ Macro-Url : </b> </p> 
+<p> . Fixed : removed On Update() </p>
+
 <p> <b>+ Macro-Ads : </b> </p> 
 <p> . Banner : Show / Hide Banner </p>
 
