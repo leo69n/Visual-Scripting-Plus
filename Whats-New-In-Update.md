@@ -28,6 +28,7 @@
 <p> <b>+ Macro-No Macro : </b> </p> 
 <p> . Find Chars in String : count many times and index of each time </p>
 <p> + Conver time(seconds) to Min:Sec </p>
+<p> + String - Replace Chars in String : Replace many Chars in 1 node </p> </p>
 
 <p> <b>+ Macro-Sine : </b> </p> 
 <p> . Fixed Pi value to work on phones devices export ... </p>
