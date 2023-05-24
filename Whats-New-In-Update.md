@@ -29,6 +29,7 @@
 <p> . Find Chars in String : count many times and index of each time </p>
 <p> + Conver time(seconds) to Min:Sec </p>
 <p> + String - Replace Chars in String : Replace many Chars in 1 node </p> </p>
+<p> + Reorder List Items from Big to Small values [1 Layer] and [2 Layer] : support int, float , string value </p> </p>
 
 <p> <b>+ Macro-Sine : </b> </p> 
 <p> . Fixed Pi value to work on phones devices export ... </p>
