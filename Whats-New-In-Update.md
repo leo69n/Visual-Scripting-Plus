@@ -8,6 +8,7 @@
 <p> . Pause / Resume </p>
 <p> . Adjust timer : Add / Subtract additional Time </p>
 <p> + Time Watch </p>
+<p> + Conver time(seconds) to Min:Sec </p>
 
 <p> <b>+ Macro-Url : </b> </p> 
 <p> . Fixed : removed On Update() </p>
@@ -26,6 +27,7 @@
 
 <p> <b>+ Macro-No Macro : </b> </p> 
 <p> . Find Chars in String : count many times and index of each time </p>
+<p> + Conver time(seconds) to Min:Sec </p>
 
 <p> <b>+ Macro-Sine : </b> </p> 
 <p> . Fixed Pi value to work on phones devices export ... </p>
