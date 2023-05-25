@@ -12,6 +12,18 @@
 
 <p> <b>+ Macro-Url : </b> </p> 
 <p> . Fixed : removed On Update() </p>
+<p> . New : Add Get/Post/Delete/Patch request mode </p>
+<p> . New : SetRequestHeader  to add permissions </p>
+
+<p> <b>+ Macro-No Macro : </b> </p> 
+<p> . Find Chars in String : count many times and index of each time </p>
+<p> + Conver time(seconds) to Min:Sec </p>
+<p> + String - Replace Chars in String : Replace many Chars in 1 node </p>
+<p> + Reorder List Items from Big to Small values [1 Layer] and [2 Layer] : support int, float , string value </p> 
+<p> + Delete 1 Item has value in List [1 Layer] and [2 Layer] </p> 
+<p> + Duplicate List </p> 
+
+</p>
 
 <p> <b>+ Macro-Ads : </b> </p> 
 <p> . Banner : Show / Hide Banner </p>
@@ -24,12 +36,6 @@
 
 <p> <b>+ Macro-Bound : </b> </p> 
 <p> . Get Random Point from Box , Circle ... : Fixed </p>
-
-<p> <b>+ Macro-No Macro : </b> </p> 
-<p> . Find Chars in String : count many times and index of each time </p>
-<p> + Conver time(seconds) to Min:Sec </p>
-<p> + String - Replace Chars in String : Replace many Chars in 1 node </p> </p>
-<p> + Reorder List Items from Big to Small values [1 Layer] and [2 Layer] : support int, float , string value </p> </p>
 
 <p> <b>+ Macro-Sine : </b> </p> 
 <p> . Fixed Pi value to work on phones devices export ... </p>
