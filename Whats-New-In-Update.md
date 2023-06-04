@@ -1,6 +1,6 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.095( working ) : </h2>
+<h2>***Update Version : 1.096( working ) : </h2>
 
 <p> <b>+ Macro-Timer (NEW) : </b> </p> 
 <p> + Timer in your game : done in 5 seconds only </p>
@@ -35,7 +35,8 @@
 <p> . Help to use Netcode faster in Visual Scripting </p>
 
 <p> <b>+ Macro-Bound : </b> </p> 
-<p> . Get Random Point from Box , Circle ... : Fixed </p>
+<p> . Fixed incorrect position & size </p>
+<p> . Don't need to copy Macro to object anymore : just copy & paste anywhere to use as Macro-NoMacro </p>
 
 <p> <b>+ Macro-Sine : </b> </p> 
 <p> . Fixed Pi value to work on phones devices export ... </p>
