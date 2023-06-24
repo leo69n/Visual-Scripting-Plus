@@ -1,6 +1,13 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.096( working ) : </h2>
+<h2>***Update Version : 1.096( Working ) : </h2>
+
+<p> <b>+ Macro-NoMacro : </b> </p> 
+<p> . UI Button - Use Pointer of Button component : work faster on phones and better Multi-touches </p>
+<p> . Raycast - Pick 3D Object :  improved , better & easier to use </p>
+
+
+<h2>***Update Version : 1.096( On Unity Asset Store from June , 2023 ) : </h2>
 
 <p> <b>+ Macro-Timer (NEW) : </b> </p> 
 <p> + Timer in your game : done in 5 seconds only </p>
