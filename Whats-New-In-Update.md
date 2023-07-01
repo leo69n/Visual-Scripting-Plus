@@ -6,6 +6,8 @@
 <p> . UI Button - Use Pointer of Button component : work faster on phones and better Multi-touches </p>
 <p> . Raycast - Pick 3D Object :  improved , better & easier to use </p>
 
+<p> <b>+ Macro-Tween : </b> </p> 
+<p> . Fixed some graph warning when using Auto-Play </p>
 
 <h2>***Update Version : 1.096( On Unity Asset Store from June , 2023 ) : </h2>
 
