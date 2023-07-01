@@ -8,6 +8,7 @@
 
 <p> <b>+ Macro-Tween : </b> </p> 
 <p> . Fixed some graph warning when using Auto-Play </p>
+<p> . Added Output [End] on Tween-Position,Scale,Angle... </p>
 
 <h2>***Update Version : 1.096( On Unity Asset Store from June , 2023 ) : </h2>
 
