@@ -2,13 +2,16 @@
 
 <h2>***Update Version : 1.097( submiting ) : </h2>
 
+<p> <b>+ Macro-Pointer(NEW) : </b> </p> 
+<p> . UI Button / Touch Button on mobile games - Use Pointer events for UI Buttons : work faster on phones and better Multi-touches </p>
+
 <p> <b>+ Macro-NoMacro : </b> </p> 
-<p> . UI Button - Use Pointer of Button component : work faster on phones and better Multi-touches </p>
 <p> . Raycast - Pick 3D Object :  improved , better & easier to use </p>
 
 <p> <b>+ Macro-Tween : </b> </p> 
 <p> . Fixed some graph warning when using Auto-Play </p>
 <p> . Added Output [End] on Tween-Position,Scale,Angle... </p>
+
 
 <h2>***Update Version : 1.096( On Unity Asset Store from June , 2023 ) : </h2>
 
