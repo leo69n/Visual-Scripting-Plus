@@ -1,5 +1,13 @@
 # Visual Scripting Plus
 
+<h2>***Update Version : 1.099 (working) : </h2>
+
+<p> <b>+ Macro-Pointer : </b> </p> 
+<p> . Fixed the warning with null Objects and null tag </p>
+<p> . Added "On Pointer Stay [List Touches]" : that works for Buttons with multi-touching Buttons like actions game : pubg , fornite ... in mobile games </p>
+<p> <b>+ Macro-NoMacro : </b> </p> 
+<p> . 3D-Rotate Player in TPS [Smooth] : apply angle of Player with Lerp event to make it smoother rotation on slow devices. </p>
+
 <h2>***Update Version : 1.098( Unity Asset Store on July 2,2023) : </h2>
 
 <p> <b>+ Macro-Pointer(NEW) : </b> </p> 
