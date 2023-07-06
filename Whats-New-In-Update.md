@@ -1,6 +1,6 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.097( submiting ) : </h2>
+<h2>***Update Version : 1.098( Unity Asset Store on July 2,2023) : </h2>
 
 <p> <b>+ Macro-Pointer(NEW) : </b> </p> 
 <p> . UI Button / Touch Button on mobile games - Use Pointer events for UI Buttons : work faster on phones and better Multi-touches </p>
