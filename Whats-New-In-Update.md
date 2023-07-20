@@ -5,6 +5,8 @@
 <p> <b>+ Macro-ButtonUI : </b> </p> 
 <p> . Added Button with Tag </p>
 
+<p> <b>+ Macro-Tween : </b> </p> 
+<p> . Fixed Tween End (Position) not triggered </p>
 
 <h2>***Update Version : 1.100 (Unity Asset Store on July 4,2023) : </h2>
 
