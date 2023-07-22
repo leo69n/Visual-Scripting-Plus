@@ -2,6 +2,9 @@
 
 <h2>***Update Version : 1.101 (working) : </h2>
 
+<p> <b>+ Macro-NoMacro : </b> </p> 
+<p> . Take Screenshot : 1 click only </p>
+
 <p> <b>+ Macro-ButtonUI : </b> </p> 
 <p> . Added Button with Tag </p>
 
