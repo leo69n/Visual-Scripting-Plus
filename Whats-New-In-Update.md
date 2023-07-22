@@ -4,6 +4,7 @@
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> . Take Screenshot : 1 click only </p>
+<p> . Get String Between, After, Before : added Null (not found matched) options </p>
 
 <p> <b>+ Macro-ButtonUI : </b> </p> 
 <p> . Added Button with Tag </p>
