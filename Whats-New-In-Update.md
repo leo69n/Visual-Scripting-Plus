@@ -3,7 +3,7 @@
 <h2>***Update Version : 1.101 (working) : </h2>
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
-<p> . Take Screenshot : 1 click only </p>
+<p> . Take Screenshot : 1 click only. Take Screenshot , save & load (PC/iOS/Android/more...) </p>
 <p> . Get String Between, After, Before : added Null (not found matched) options </p>
 
 <p> <b>+ Macro-ButtonUI : </b> </p> 
