@@ -1,6 +1,12 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.101 (working) : </h2>
+<h2>***Update Version : 1.102 (Working) : </h2>
+
+<p> <b>+ Macro-Photo (***NEW***) : Just Copy & Use </b> </p> 
+<p> . Take Screenshot : 1 click only. Take Screenshot , save & load (PC/iOS/Android/more...) </p>
+<p> . Get Photo From Path : Convert Photo to a Texture 2D that you can show it in RawImage </p>
+
+<h2>***Update Version : 1.101 (Unity Asset Store on July 24,2023) : </h2>
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> . Take Screenshot : 1 click only. Take Screenshot , save & load (PC/iOS/Android/more...) </p>
