@@ -2,13 +2,19 @@
 
 <h2>***Update Version : 1.102 (Working) : </h2>
 
-<p> <b>+ Macro-Photo (***NEW***) : Just Copy & Use </b> </p> 
+<p> <b>+ Macro-PhotoSound (***NEW***) : Just Copy & Use </b> </p> 
 <p> . Take Screenshot : 1 click only. Take Screenshot , save & load (PC/iOS/Android/more...) </p>
 <p> . Get Photo From Path : Convert Photo to a Texture 2D that you can show it in RawImage </p>
 <p> . Save Photo to [PNG] : save photo into the input path name </p>
 <p> . Save Photo to [PNG] [Fixed Size] : fix size and save photo into the input path name </p>
 <p> . Check Folder existed </p>
 <p> . Create Folder : Create new Folder if Folder is not existed </p>
+
+<p> . Save sound.wav </p>
+<p> . Get Microphone Name </p>
+<p> . Microphone Start / Stop Record </p>
+<p> . Remove Silence Tail of Clip </p>
+
 
 <p> <b>+ Macro-Flash : </b> </p> 
 <p> . Fixed Stop issue when Flash is not playing and calling Stop event  </p>
