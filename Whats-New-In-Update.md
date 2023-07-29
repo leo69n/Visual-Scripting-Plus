@@ -10,6 +10,11 @@
 <p> . Check Folder existed </p>
 <p> . Create Folder : Create new Folder if Folder is not existed </p>
 
+<p> <b>+ Macro-Flash : </b> </p> 
+<p> . Fixed Stop issue when Flash is not playing and calling Stop event  </p>
+
+
+
 <h2>***Update Version : 1.101 (Unity Asset Store on July 24,2023) : </h2>
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
