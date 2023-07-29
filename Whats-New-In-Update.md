@@ -7,6 +7,8 @@
 <p> . Get Photo From Path : Convert Photo to a Texture 2D that you can show it in RawImage </p>
 <p> . Save Photo to [PNG] : save photo into the input path name </p>
 <p> . Save Photo to [PNG] [Fixed Size] : fix size and save photo into the input path name </p>
+<p> . Check Folder existed </p>
+<p> . Create Folder : Create new Folder if Folder is not existed </p>
 
 <h2>***Update Version : 1.101 (Unity Asset Store on July 24,2023) : </h2>
 
