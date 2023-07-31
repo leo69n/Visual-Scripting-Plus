@@ -17,7 +17,7 @@
 
 
 <p> <b>+ Macro-Flash : </b> </p> 
-<p> . Fixed Stop issue when Flash is not playing and calling Stop event  </p>
+<p> . Fixed Stop issue when Flash is playing and calling Stop event  </p>
 
 
 
