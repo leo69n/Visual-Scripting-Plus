@@ -1,6 +1,13 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.102 (Working) : </h2>
+<h2>***Update Version : 1.103 (Working) : </h2>
+
+<p> <b>+ Macro-Text (***NEW***) : Just Copy & Use </b> </p> 
+<p> . Input Field with Text Mesh Pro UGUI </p>
+
+
+
+<h2>***Update Version : 1.102 (Unity Asset Store on August 1,2023) : </h2>
 
 <p> <b>+ Macro-PhotoSound (***NEW***) : Just Copy & Use </b> </p> 
 <p> . Take Screenshot : 1 click only. Take Screenshot , save & load (PC/iOS/Android/more...) </p>
