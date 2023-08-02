@@ -7,7 +7,7 @@
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> . Added True/False result for [Get String Before/After/Between values] </p>
-<p> . (New) [Get String Before/After last Value] </p>
+<p> . Get String Before/After last Value : New </p>
 
 
 <h2>***Update Version : 1.102 (Unity Asset Store on August 1,2023) : </h2>
