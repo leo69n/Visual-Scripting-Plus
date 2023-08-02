@@ -5,6 +5,9 @@
 <p> <b>+ Macro-Text (***NEW***) : Just Copy & Use </b> </p> 
 <p> . Input Field with Text Mesh Pro UGUI </p>
 
+<p> <b>+ Macro-NoMacro : </b> </p> 
+<p> . Added True/False result for [Get String Before/After/Between values] </p>
+<p> . (New) [Get String Before/After last Value] </p>
 
 
 <h2>***Update Version : 1.102 (Unity Asset Store on August 1,2023) : </h2>
