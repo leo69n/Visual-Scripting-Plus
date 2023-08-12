@@ -2,6 +2,9 @@
 
 <h2>***Update Version : 1.104 (Working) : </h2>
 
+<p> <b>+ On Unity Event : </b> </p> 
+<p> . Visual Scripting version 1.9 or newer : node [On Unity Event] is included ! Do not need to import this folder any more. This folder was zipped, just import Visual Scripting Plus and use as you did </p>
+
 <p> <b>+ Macro-Text (***NEW***) : Just Copy & Use </b> </p> 
 <p> . Input Field with Text Mesh Pro UGUI </p>
 
