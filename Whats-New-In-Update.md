@@ -1,6 +1,6 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.103 (Working) : </h2>
+<h2>***Update Version : 1.104 (Working) : </h2>
 
 <p> <b>+ Macro-Text (***NEW***) : Just Copy & Use </b> </p> 
 <p> . Input Field with Text Mesh Pro UGUI </p>
@@ -9,6 +9,9 @@
 <p> . Added True/False result for [Get String Before/After/Between values] </p>
 <p> . Get String Before/After last Value : New </p>
 
+<p> <b>+ Macro-PhotoSound : </b> </p> 
+<p> . Load Audio From Path : Fixed , now work on Android/iOS </p>
+<p> . Create Uri from Path </p>
 
 <h2>***Update Version : 1.102 (Unity Asset Store on August 1,2023) : </h2>
 
