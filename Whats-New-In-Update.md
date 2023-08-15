@@ -2,9 +2,6 @@
 
 <h2>***Update Version : 1.104 (Working) : </h2>
 
-<p> <b>+ Recommend to istall Visual Scripting 1.7.8 :
-<p> . There is newer Visual Scripting version 1.9.0 : but there is some [On Unity Event] issues in this version. </p>
-	
 <p> <b>+ Macro-Text (***NEW***) : Just Copy & Use </b> </p> 
 <p> . Input Field with Text Mesh Pro UGUI </p>
 
