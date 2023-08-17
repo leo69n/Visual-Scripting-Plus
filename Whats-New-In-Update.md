@@ -3,7 +3,7 @@
 <h2>***Update Version : 1.105 (working) : </h2>
 
 <p> <b>+ On Unity Event : </p> 
-<p> . Fixed Override StopListening : that can work on Visual Scripting 1.09 or newer </p>
+<p> . Fixed Override StopListening : that can work on Visual Scripting 1.9.0 or newer </p>
 
 
 <h2>***Update Version : 1.104 (Unity Asset Store on August 17,2023) : </h2>
