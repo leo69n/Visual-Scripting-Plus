@@ -8,6 +8,8 @@
 <p> <b>+ Macro-Character : </p> 
 <p> . Fixed Arrival </p>
 <p> . Move To Position , Move Path To Path : fixed [On Start] , can work with [On Start] now </p>
+<p> . Character-Move To Position : added [Arrived] trigger. </p>
+<p> . Character-Move To Position-Arrived : Removed. </p>
 
 <h2>***Update Version : 1.104 (Unity Asset Store on August 17,2023) : </h2>
 
