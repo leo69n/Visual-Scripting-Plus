@@ -11,6 +11,9 @@
 <p> . Character-Move To Position : added [Arrived] trigger. </p>
 <p> . Character-Move To Position-Arrived : Removed. </p>
 
+<p> <b>+ Macro-Tween : </p> 
+<p> . Fixed [On Start] issue </p>
+
 <h2>***Update Version : 1.104 (Unity Asset Store on August 17,2023) : </h2>
 
 <p> <b>+ Macro-Text (***NEW***) : Just Copy & Use </b> </p> 
