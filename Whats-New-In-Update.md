@@ -5,6 +5,9 @@
 <p> <b>+ On Unity Event : </p> 
 <p> . Fixed Override StopListening : that can work on Visual Scripting 1.9.0 or newer </p>
 
+<p> <b>+ Macro-PhotoSound : </p> 
+<p> . Photo-ScaleSize : Scale size from a Texture 2D </p>
+
 <p> <b>+ Macro-Character : </p> 
 <p> . Fixed Arrival </p>
 <p> . Move To Position , Move Path To Path : fixed [On Start] , can work with [On Start] now </p>
