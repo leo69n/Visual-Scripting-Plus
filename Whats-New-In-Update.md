@@ -21,6 +21,8 @@
 <p> . List-Copy List : Create new List and copy all items</p>
 <p> . List-List Random : Re-order List with random of Items </p>
 
+<p> <b>+ Macro-Array : Removed </p> 
+
 <h2>***Update Version : 1.104 (Unity Asset Store on August 17,2023) : </h2>
 
 <p> <b>+ Macro-Text (***NEW***) : Just Copy & Use </b> </p> 
