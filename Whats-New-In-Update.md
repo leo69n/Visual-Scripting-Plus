@@ -1,6 +1,6 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.105 (working) : </h2>
+<h2>***Update Version : 1.106 (working) : </h2>
 
 <p> <b>+ On Unity Event : </p> 
 <p> . Fixed Override StopListening : that can work on Visual Scripting 1.9.0 or newer </p>
@@ -15,7 +15,7 @@
 <p> . Character-Move To Position-Arrived : Removed. </p>
 
 <p> <b>+ Macro-Tween : </p> 
-<p> . Fixed [On Start] issue </p>
+<p> . Fixed : [On Start] issue on version 1.1.05 </p>
 
 <p> <b>+ Macro-NoMacro : </p> 
 <p> . List-Copy List : Create new List and copy all items</p>
