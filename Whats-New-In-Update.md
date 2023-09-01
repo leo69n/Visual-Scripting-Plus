@@ -1,6 +1,6 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.106 (working) : </h2>
+<h2>***Update Version : 1.107 (working) : </h2>
 
 <p> <b>+ On Unity Event : </p> 
 <p> . Fixed Override StopListening : that can work on Visual Scripting 1.9.0 or newer </p>
@@ -9,6 +9,7 @@
 <p> . Photo-Rescale Texture 2D : Scale size from a Texture 2D </p>
 
 <p> <b>+ Macro-Character : </p> 
+<p> . 2D - 3D - Player Move To : Added to NoMacro , no more add Macro-Character into using Object </p>
 <p> . Fixed Arrival </p>
 <p> . Move To Position , Move Path To Path : fixed [On Start] , can work with [On Start] now </p>
 <p> . Character-Move To Position : added [Arrived] trigger. </p>
