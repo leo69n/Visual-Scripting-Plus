@@ -1,6 +1,17 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.107 (working) : </h2>
+<h2>***Update Version : 1.108 (working)  : </h2>
+
+<p> <b>+ Macro-Flash : </p> 
+<p> . Now work with all type of 2D , 3D components </p>
+<p> . Added [End] trigger </p>
+
+<p> <b>+ Macro-NoMacro : </p> 
+<p> . List-Copy List [1 Layer] </p>
+<p> . List-Copy List [Multi-Layers] </p>
+
+
+<h2>***Update Version : 1.107 (Unity Asset Store on Sep 1,2023)  : </h2>
 
 <p> <b>+ On Unity Event : </p> 
 <p> . Fixed Override StopListening : that can work on Visual Scripting 1.9.0 or newer </p>
