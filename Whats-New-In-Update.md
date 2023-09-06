@@ -10,6 +10,10 @@
 <p> . List-Copy List [1 Layer] </p>
 <p> . List-Copy List [Multi-Layers] </p>
 
+<p> <b>+ Macro-Character : </p> 
+<p> . Moved "Rotation" events to Macro-Character </p>
+
+
 
 <h2>***Update Version : 1.107 (Unity Asset Store on Sep 1,2023)  : </h2>
 
