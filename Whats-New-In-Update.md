@@ -11,7 +11,7 @@
 <p> . List-Copy List [Multi-Layers] </p>
 
 <p> <b>+ Macro-Character : </p> 
-<p> . Moved "Rotation" events to Macro-Character </p>
+<p> . Added "Rotation" events to Macro-Character </p>
 
 
 
