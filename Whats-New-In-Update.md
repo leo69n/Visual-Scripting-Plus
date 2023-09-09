@@ -2,6 +2,13 @@
 
 <h2>***Update Version : 1.108 (working)  : </h2>
 
+<p> <b>+ Macro-Quest : </p> 
+<p> . Quest Text - Read a List [Audio Clip] : Read a List of Dialog Text that is sync-ed with list of Audio Clip </p>
+<p> . Quest Text - Read a Line [Audio Clip] : Read a Dialog Text that is sync-ed with an input Audio Clip </p>
+<p> . Quest Text - Read a Line [Time Length] </p>
+<p> . Quest Text - Read a List : added output [One Ended] A String is just finished from reading. </p>
+
+ 
 <p> <b>+ Macro-NoMacro : </p> 
 <p> . List-Copy List [1 Layer] </p>
 <p> . List-Copy List [Multi-Layers] </p>
