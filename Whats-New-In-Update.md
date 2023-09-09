@@ -2,16 +2,20 @@
 
 <h2>***Update Version : 1.108 (working)  : </h2>
 
+<p> <b>+ Macro-NoMacro : </p> 
+<p> . List-Copy List [1 Layer] </p>
+<p> . List-Copy List [Multi-Layers] </p>
+<p> . Count Substring in String </p>
+
+
 <p> <b>+ Macro-Flash : </p> 
 <p> . Now work with all type of 2D , 3D components </p>
 <p> . Added [End] trigger </p>
 
-<p> <b>+ Macro-NoMacro : </p> 
-<p> . List-Copy List [1 Layer] </p>
-<p> . List-Copy List [Multi-Layers] </p>
 
 <p> <b>+ Macro-Character : </p> 
 <p> . Added "Rotation" events to Macro-Character </p>
+
 
 
 
