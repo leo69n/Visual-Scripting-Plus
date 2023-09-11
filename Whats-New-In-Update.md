@@ -2,7 +2,7 @@
 
 <h2>***Update Version : 1.109 (working)  : </h2>
 
-<p> <b>+ Macro-Text : </p> 
+<p> <b>+ Macro-Text : </b></p> 
 <p> . Read All Lines [Text File] - Read a Text file </p>
 
 
@@ -10,20 +10,20 @@
  
 <h2>***Update Version : 1.108 (submiting)  : </h2>
 
-<p> <b>+ Macro-Quest : </p> 
+<p> <b>+ Macro-Quest : </b</p> 
 <p> . Quest Text - Read a List [Audio Clip] : Read a List of Dialog Text that is sync-ed with list of Audio Clip </p>
 <p> . Quest Text - Read a Line [Audio Clip] : Read a Dialog Text that is sync-ed with an input Audio Clip </p>
 <p> . Quest Text - Read a Line [Time Length] </p>
 <p> . Quest Text - Read a List : added output [One Ended] A String is just finished from reading. </p>
 
  
-<p> <b>+ Macro-NoMacro : </p> 
+<p> <b>+ Macro-NoMacro : </b</p> 
 <p> . List-Copy List [1 Layer] </p>
 <p> . List-Copy List [Multi-Layers] </p>
 <p> . Count Substring in String </p>
 
 
-<p> <b>+ Macro-Flash : </p> 
+<p> <b>+ Macro-Flash :</b </p> 
 <p> . Now work with all type of 2D , 3D components </p>
 <p> . Added [End] trigger </p>
 
