@@ -1,6 +1,14 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.108 (working)  : </h2>
+<h2>***Update Version : 1.109 (working)  : </h2>
+
+<p> <b>+ Macro-Text : </p> 
+<p> . Read All Lines [Text File] - Read a Text file </p>
+
+
+
+ 
+<h2>***Update Version : 1.108 (submiting)  : </h2>
 
 <p> <b>+ Macro-Quest : </p> 
 <p> . Quest Text - Read a List [Audio Clip] : Read a List of Dialog Text that is sync-ed with list of Audio Clip </p>
