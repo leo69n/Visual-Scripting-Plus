@@ -3,8 +3,8 @@
 <h2>***Update Version : 1.109 (working)  : </h2>
 
 <p> <b>+ Macro-Text : </b> </p> 
-<p> . Read All Lines [Text File] - Read a Text file </p>
-
+<p> . Read All Lines [Text File] - Read a Text file to Lines (PC and External folder only) </p>
+<p> . Read All Lines [Text File from Resources Folder] - Read a Text Asset file to Lines : work on PC / iOS / Android </p>
 
 
  
