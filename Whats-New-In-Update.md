@@ -6,9 +6,11 @@
 <p> . Read All Lines [Text File] - Read a Text file to Lines (PC and External folder only) </p>
 <p> . Read All Lines [Text File from Resources Folder] - Read a Text Asset file to Lines : work on PC / iOS / Android </p>
 
+<p> <b>+ Macro-Flash : </b> </p> 
+<p> . Flash-Play : fixed to work on iOS / Android </p>
 
  
-<h2>***Update Version : 1.108 (submiting)  : </h2>
+<h2>***Update Version : 1.108 (Unity Asset Store on Sep 12,2023)  : </h2>
 
 <p> <b>+ Macro-Quest : </b> </p> 
 <p> . Quest Text - Read a List [Audio Clip] : Read a List of Dialog Text that is sync-ed with list of Audio Clip </p>
