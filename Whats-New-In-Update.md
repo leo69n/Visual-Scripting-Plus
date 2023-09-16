@@ -2,6 +2,9 @@
 
 <h2>***Update Version : 1.109 (working)  : </h2>
 
+<p> <b>+ Macro-Ad : </b> </p> 
+<p> .  Set Game ID / Ads Name : Can input both Android/iOS PlacementIDs at once now </p>
+
 <p> <b>+ Macro-Text : </b> </p> 
 <p> . Read All Lines [Text File] - Read a Text file to Lines (PC and External folder only) </p>
 <p> . Read All Lines [Text File from Resources Folder] - Read a Text Asset file to Lines : work on PC / iOS / Android </p>
@@ -9,6 +12,8 @@
 <p> <b>+ Macro-Flash : </b> </p> 
 <p> . Flash-Play : fixed to work on iOS / Android </p>
 
+<p> <b>+ Macro-Tween : </b> </p> 
+<p> . End trigger : fixed to work on super slow devices </p>
  
 <h2>***Update Version : 1.108 (Unity Asset Store on Sep 12,2023)  : </h2>
 
