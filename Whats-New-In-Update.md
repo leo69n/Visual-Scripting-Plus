@@ -1,6 +1,12 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.109 (working)  : </h2>
+<h2>***Update Version : 1.110 (working)  : </h2>
+
+<p> <b>+ ... : </b> </p> 
+<p> .  </p>
+
+
+<h2>***Update Version : 1.109 (submiting)  : </h2>
 
 <p> <b>+ Macro-Ad : </b> </p> 
 <p> .  Set Game ID / Ads Name : Can input both Android/iOS PlacementIDs at once now </p>
