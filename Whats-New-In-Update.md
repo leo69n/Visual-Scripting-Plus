@@ -2,8 +2,8 @@
 
 <h2>***Update Version : 1.110 (working)  : </h2>
 
-<p> <b>+ ... : </b> </p> 
-<p> .  </p>
+<p> <b>+ Macro-NoMacro : </b> </p> 
+<p> . Load Scene Async : Load next scene only if Loading Process is 100% loaded </p>
 
 
 <h2>***Update Version : 1.109 (submiting)  : </h2>
