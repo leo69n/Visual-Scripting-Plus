@@ -6,7 +6,7 @@
 <p> . Load Scene Async : Load next scene only if Loading Process is 100% loaded </p>
 
 
-<h2>***Update Version : 1.109 (submiting)  : </h2>
+<h2>***Update Version : 1.109 (Unity Asset Store on Sep 20,2023)  : </h2>
 
 <p> <b>+ Macro-Ad : </b> </p> 
 <p> .  Set Game ID / Ads Name : Can input both Android/iOS PlacementIDs at once now </p>
