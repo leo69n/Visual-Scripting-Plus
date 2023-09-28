@@ -4,7 +4,9 @@
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> . Load Scene Async : Load next scene only if Loading Process is 100% loaded </p>
-
+<p> . List - Remove Duplicate : fixed </p>
+<p> . List - List re-order [Number] : Increasing and Decreasing </p>
+<p> . List - List re-order [String] : Increasing and Decreasing + Ignore Case option </p>
 
 <h2>***Update Version : 1.109 (Unity Asset Store on Sep 20,2023)  : </h2>
 
