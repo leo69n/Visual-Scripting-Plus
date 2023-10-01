@@ -2,6 +2,12 @@
 
 <h2>***Update Version : 1.110 (working)  : </h2>
 
+<p> <b>+ Macro-UnityAds : more Nodes in Visual Scripting </b> </p> 
+<p> . is Initialized  </p>
+<p> . is Banner Loaded  </p>
+<p> . Load Banner  </p>
+<p> . Set Banner Position  </p>
+
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> . Load Scene Async : Load next scene only if Loading Process is 100% loaded </p>
 <p> . List - Remove Duplicate : fixed </p>
