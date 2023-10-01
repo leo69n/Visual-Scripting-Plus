@@ -2,6 +2,19 @@
 
 <h2>***Update Version : 1.110 (working)  : </h2>
 
+<p> <b>+ Macro-Admob :***NEW </b> </p> 
+<p> . Admob Initialize  </p>
+<p> . is Initialized  </p>
+<p> . On Initialized  </p>
+
+<p> . Load & Show Banner  </p>
+<p> . is Banner Loaded  </p>
+<p> . On Banner Loaded  </p>
+<p> . Destroy Banner  </p>
+<p> . Set Banner Position  </p>
+<p> . Set Banner Size  </p>
+
+
 <p> <b>+ Macro-UnityAds : more Nodes in Visual Scripting </b> </p> 
 <p> . is Initialized  </p>
 <p> . is Banner Loaded  </p>
