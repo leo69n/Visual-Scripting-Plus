@@ -26,6 +26,7 @@
 <p> . Set Banner Position  </p>
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
+<p> . DontDestroyOnLoad : Enter & Exit </p>
 <p> . Load Scene Async : Load next scene only if Loading Process is 100% loaded </p>
 <p> . List - Remove Duplicate : fixed </p>
 <p> . List - List re-order [Number] : Increasing and Decreasing </p>
