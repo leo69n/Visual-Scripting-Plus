@@ -17,16 +17,8 @@
 <p> . Set Banner Position  </p>
 <p> . Set Banner Size  </p>
 
-
-<p> <b>+ Macro-UnityAdsLegacy : using Unity Ads version 4.4.2 </b> </p> 
-. Macro-UnityAds : is removed and replaced by Macro-UnityAdsLegacy
-. Unity Ads version 4.4.2 has better Ads Mediation using Unity Level Play
-
 <p> <b>+ Macro-UnityAds : more Nodes in Visual Scripting </b> </p> 
-<p> . is Initialized  </p>
-<p> . is Banner Loaded  </p>
-<p> . Load Banner  </p>
-<p> . Set Banner Position  </p>
+<p> . Updated to Unity Ads version 4.4.2  </p>
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> . DontDestroyOnLoad : Enter & Exit </p>
