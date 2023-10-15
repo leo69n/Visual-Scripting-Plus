@@ -6,16 +6,10 @@
 <p> .To turn on Firebase Analytics or Google Analytics on Android/iOS... to use Google Ads to get more Installs for your new Published Games  </p>
 
 <p> <b>+ Macro-Admob :***NEW </b> </p> 
-<p> . Admob Initialize  </p>
-<p> . is Initialized  </p>
-<p> . On Initialized  </p>
-
-<p> . Load & Show Banner  </p>
-<p> . is Banner Loaded  </p>
-<p> . On Banner Loaded  </p>
-<p> . Destroy Banner  </p>
-<p> . Set Banner Position  </p>
-<p> . Set Banner Size  </p>
+<p> . Admob Initialize : All functions </p>
+<p> . Banner Ads : All functions </p>
+<p> . Interstital Ads : All functions </p>
+<p> . Rewarded Ads : All functions </p>
 
 <p> <b>+ Macro-UnityAds : more Nodes in Visual Scripting </b> </p> 
 <p> . Updated to Unity Ads version 4.4.2  </p>
