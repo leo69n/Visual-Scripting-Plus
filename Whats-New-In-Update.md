@@ -2,6 +2,9 @@
 
 <h2>***Update Version : 1.110 (working)  : </h2>
 
+<p> <b>+ Macro-Firebase :***NEW </b> </p> 
+<p> .To turn on Firebase Analytics or Google Analytics on Android/iOS... to use Google Ads to get more Installs for your new Published Games  </p>
+
 <p> <b>+ Macro-Admob :***NEW </b> </p> 
 <p> . Admob Initialize  </p>
 <p> . is Initialized  </p>
