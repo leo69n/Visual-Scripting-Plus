@@ -11,8 +11,8 @@
 <p> . Interstital Ads : All functions </p>
 <p> . Rewarded Ads : All functions </p>
 
-<p> <b>+ Macro-UnityAds : more Nodes in Visual Scripting </b> </p> 
-<p> . Updated to Unity Ads version 4.4.2  </p>
+<p> <b>+ Macro-UnityAds : Updated to Unity Ads version 4.4.2 </b> </p> 
+<p> . There are all functions and features of Unity Ads now : Ad Initilize, Banner , Interstitial , Rewarded Ad  </p>
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> . DontDestroyOnLoad : Enter & Exit </p>
