@@ -1,6 +1,6 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.111 (Submiting)  : </h2>
+<h2>***Update Version : 1.111 (On Unity Asset Store Oct 20 , 2023)  : </h2>
 
 <p> <b>+ Macro-Firebase :***NEW </b> </p> 
 <p> .To turn on Firebase Analytics or Google Analytics on Android/iOS... to use Google Ads to get more Installs for your new Published Games  </p>
