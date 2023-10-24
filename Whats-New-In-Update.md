@@ -1,5 +1,10 @@
 # Visual Scripting Plus
 
+<h2>***Update Version : 1.112 (Working)  : </h2>
+
+<p> <b>+ Macro-Pointer :***NEW </b> </p> 
+<p> . Added sample prefab of "Touch Area"  </p>
+
 <h2>***Update Version : 1.111 (On Unity Asset Store Oct 20 , 2023)  : </h2>
 
 <p> <b>+ Macro-Firebase :***NEW </b> </p> 
