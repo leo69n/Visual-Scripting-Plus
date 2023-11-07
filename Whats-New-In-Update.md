@@ -5,6 +5,9 @@
 <p> <b>+ Macro-Pointer : </b> </p> 
 <p> . Added sample prefab of "Touch Area"  </p>
 
+<p> <b>+ Macro-NoMacro : </b> </p> 
+<p> . Preload Scene : pre-load next scene, after it is pre-loaded, you can call Load Scene anytime to load it immediately </p>
+
 <h2>***Update Version : 1.111 (On Unity Asset Store Oct 20 , 2023)  : </h2>
 
 <p> <b>+ Macro-Firebase :***NEW </b> </p> 
