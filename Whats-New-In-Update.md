@@ -1,10 +1,14 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.113 (Working)  : </h2>
+<h2>***Update Version : 1.114 (Working)  : </h2>
 
 <p> <b>+ Macro-InAppPurchase : ***NEW*** </b> </p> 
 <p> . All features of plugin Unity-InAppPurchase : not use Codeless, scripted & converted to Visual Scripting </p>
 <p> . Super easy as step 1,2,3... that you can do it in 1 minute only </p>
+<p> . Purchase products : Consumable , Non-Consumable , Subscription </p>
+<p> . Restore : only Non-Consumable , Subscription </p>
+<p> . Get Subscription Receipt and info </p>
+<p> . Upgrade and Downgrade Subscription </p>
 
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> . Preload Scene : pre-load next scene, after it is pre-loaded, you can call Load Scene anytime to load it immediately </p>
