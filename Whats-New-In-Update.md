@@ -19,6 +19,8 @@
 <p> <b>+ Macro-Pointer : </b> </p> 
 <p> . Added sample prefab of "Touch Area"  </p>
 
+<p> <b>+ Macro-Tween : </b> </p> 
+<p> . Can select Options with Enum now  </p>
 
 <h2>***Update Version : 1.111 (On Unity Asset Store Oct 20 , 2023)  : </h2>
 
