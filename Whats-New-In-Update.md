@@ -1,12 +1,18 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.117 (Working)  : </h2>
+<h2>***Update Version : 1.117 (Submiting)  : </h2>
 
 <p> <b>+ Macro-Netcode : ***NEW*** </b> </p> 
 <p> . Make Multiplayer game super easy in Netcode </p>
 <p> . Work on Server </p>
 <p> . Work on Peer2Peer with Relay service of Unity : connect with code, auto connect, room match ... </p>
 <p> . P2P Relay service : there is a little bit delay between Host and Clients, not recommend for action games like realtime Shooting or Fighting </p>
+
+<p> <b>+ Macro-Relay : ***NEW*** </b> </p> 
+<p> . Coneect P2P for cross-platforms PC / Android / iOS / VR ... </p>
+
+<p> <b>+ Macro-Lobby : ***NEW*** </b> </p> 
+<p> . Matchmaking and support reconnection </p>
 
 <h2>***Update Version : 1.116 (On Unity Asset Store , Dec 15 2023)  : </h2>
 
