@@ -9,7 +9,7 @@
 <p> . Join Room : added Output Success & Failed </p>
 
 
-<h2>***Update Version : 1.119 (Submiting)  : </h2>
+<h2>***Update Version : 1.119 (On Unity Asset Store at Jan 7th, 2024)  : </h2>
 
 <p> <b>+ Macro-Netcode : ***NEW*** </b> </p> 
 <p> . Make Multiplayer game super easy in Netcode </p>
