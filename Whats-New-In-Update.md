@@ -5,6 +5,8 @@
 <p> <b>+ Macro-Character : </b> </p> 
 <p> . Cleaned non-used events </p>
 
+<p> <b>+ Macro-Lobby : </b> </p> 
+<p> . Join Room : added Output Success & Failed </p>
 
 
 <h2>***Update Version : 1.119 (Submiting)  : </h2>
