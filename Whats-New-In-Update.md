@@ -5,8 +5,15 @@
 <p> <b>+ Macro-Character : </b> </p> 
 <p> . Cleaned non-used events </p>
 
+<p> <b>+ Macro-Netcode : </b> </p> 
+<p> . Ping event </p>
+
+<p> <b>+ Macro-Relay : </b> </p> 
+<p> . Added Option Set Region / Location of Player right after Sign in </p>
+
 <p> <b>+ Macro-Lobby : </b> </p> 
 <p> . Join Room : added Output Success & Failed </p>
+<p> . Added Option Set Region / Location of Player right after Sign in </p>
 
 
 <h2>***Update Version : 1.119 (On Unity Asset Store at Jan 7th, 2024)  : </h2>
