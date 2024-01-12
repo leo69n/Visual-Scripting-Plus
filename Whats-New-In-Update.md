@@ -7,6 +7,8 @@
 
 <p> <b>+ Macro-Netcode : </b> </p> 
 <p> . Ping event </p>
+<p> . Server Send [A Message] to A Client or Multi-Clients </p>
+<p> . Server Send [A Message & A Value] A Client or Multi-Clients </p>
 
 <p> <b>+ Macro-Relay : </b> </p> 
 <p> . Added Option Set Region / Location of Player right after Sign in </p>
