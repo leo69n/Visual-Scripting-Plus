@@ -1,11 +1,9 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.200 (working)  : </h2>
-
-<p> <b>+ Macro-Character : </b> </p> 
-<p> . Cleaned non-used events </p>
+<h2>***Update Version : 1.200 (Submiting)  : </h2>
 
 <p> <b>+ Macro-Netcode : </b> </p> 
+<p> . Full Tutorial video uploaded </p>
 <p> . Ping event </p>
 <p> . Server Send [A Message] to A Client or Multi-Clients : to command Client do something  </p>
 <p> . Server Send [A Message & A Value] A Client or Multi-Clients :  to command Clients do something or update Player Movement thru this Value to avoid Lag / Delay ...  </p>
@@ -17,6 +15,8 @@
 <p> . Join Room : added Output Success & Failed </p>
 <p> . Added Option Set Region / Location of Player right after Sign in </p>
 
+<p> <b>+ Macro-Character : </b> </p> 
+<p> . Cleaned non-used events </p>
 
 <h2>***Update Version : 1.119 (On Unity Asset Store at Jan 7th, 2024)  : </h2>
 
