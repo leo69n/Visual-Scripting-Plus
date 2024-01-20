@@ -1,6 +1,6 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.200 (Submiting)  : </h2>
+<h2>***Update Version : 1.200 (On Unity Asset Store at Jan 19th, 2024)  : </h2>
 
 <p> <b>+ Macro-Netcode : </b> </p> 
 <p> . Full Tutorial video uploaded </p>
