@@ -5,6 +5,7 @@
 <p> <b>+ Macro-Relay : </b> </p> 
 <p> . Full Tutorial video uploaded </p>
 
+<p> <b>+ Macro-Object : *Removed* </b> </p> 
 
 <h2>***Update Version : 1.200 (On Unity Asset Store at Jan 19th, 2024)  : </h2>
 
