@@ -4,6 +4,8 @@
 
 <p> <b>+ Macro-Relay : </b> </p> 
 <p> . Full Tutorial video uploaded </p>
+<p> . Set Max Player: fixed no input </p>
+<p> . Join In: Added Output "Success" if Join in successfully </p>
 
 <p> <b>+ Macro-Object : *Removed* </b> </p> 
 
