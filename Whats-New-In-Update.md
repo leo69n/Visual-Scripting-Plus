@@ -7,6 +7,9 @@
 <p> . Set Max Player: fixed no input </p>
 <p> . Join In: Added Output "Success" if Join in successfully </p>
 
+<p> <b>+ Macro-Shake : </b> </p> 
+<p> . Added Stop Shaking </p>
+
 <p> <b>+ Macro-Object : *Removed* </b> </p> 
 
 <h2>***Update Version : 1.200 (On Unity Asset Store at Jan 19th, 2024)  : </h2>
