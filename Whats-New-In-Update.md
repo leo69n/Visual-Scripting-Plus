@@ -5,6 +5,8 @@
 <p> <b>+ Macro-Lobby : </b> </p> 
 <p> . Full Tutorial video uploaded </p>
 
+<p> <b>+ Macro-Admob : </b> </p> 
+<p> . No more use On UnityEvents </p>
 
 <h2>***Update Version : 1.201 (Submiting)  : </h2>
 
