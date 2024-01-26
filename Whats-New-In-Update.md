@@ -8,6 +8,9 @@
 <p> <b>+ Macro-Admob : </b> </p> 
 <p> . No more use On UnityEvents </p>
 
+<p> <b>+ Macro-UnityAdsLegacy : </b> </p> 
+<p> . No more use On UnityEvents </p>
+
 <h2>***Update Version : 1.201 (Submiting)  : </h2>
 
 <p> <b>+ Macro-Relay : </b> </p> 
