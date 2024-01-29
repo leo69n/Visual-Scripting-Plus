@@ -4,7 +4,7 @@
 
 <p> <b>+ Macro-Lobby : </b> </p> 
 <p> . Full Tutorial video uploaded </p>
-<p> . Improve reconnecting </p>
+<p> . Improved reconnecting : work easier and better </p>
 
 <p> <b>+ Macro-Admob : </b> </p> 
 <p> . No more use On UnityEvents </p>
