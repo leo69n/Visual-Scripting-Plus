@@ -4,6 +4,7 @@
 
 <p> <b>+ Macro-Lobby : </b> </p> 
 <p> . Full Tutorial video uploaded </p>
+<p> . Improve reconnecting </p>
 
 <p> <b>+ Macro-Admob : </b> </p> 
 <p> . No more use On UnityEvents </p>
@@ -11,7 +12,7 @@
 <p> <b>+ Macro-UnityAdsLegacy : </b> </p> 
 <p> . No more use On UnityEvents </p>
 
-<h2>***Update Version : 1.201 (Submiting)  : </h2>
+<h2>***Update Version : 1.201 (On Unity Asset Store at Jan 25th, 2024)  : </h2>
 
 <p> <b>+ Macro-Relay : </b> </p> 
 <p> . Full Tutorial video uploaded </p>
