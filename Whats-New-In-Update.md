@@ -2,8 +2,8 @@
 
 <h2>***Update Version : 1.203 (Working)  : </h2>
 
-<p> <b>+ ... : </b> </p> 
-<p> ... </p>
+<p> <b>+ Macro-Url : </b> </p> 
+<p> . No more use On UnityEvents </p>
 
 
 <h2>***Update Version : 1.202 (Submiting)  : </h2>
