@@ -5,6 +5,8 @@
 <p> <b>+ Macro-Url : </b> </p> 
 <p> . No more use On UnityEvents </p>
 
+<p> <b>+ Macro-NoMacro : </b> </p> 
+<p> . List : Get 1 Random Item from List </p>
 
 <h2>***Update Version : 1.202 (Submiting)  : </h2>
 
