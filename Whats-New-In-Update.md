@@ -8,6 +8,9 @@
 <p> <b>+ Macro-NoMacro : </b> </p> 
 <p> . List : Get 1 Random Item from List </p>
 
+<p> <b>+ Macro-Character : </b> </p> 
+<p> . Move [1 Time] : apply Set Velocity 1 time only. Object will keep moving after </p>
+
 <h2>***Update Version : 1.202 (Submiting)  : </h2>
 
 <p> <b>+ Macro-Lobby : </b> </p> 
