@@ -3,7 +3,8 @@
 <h2>***Update Version : 1.203 (Working)  : </h2>
 
 <p> <b>+ Macro-Netcode : </b> </p> 
-<p> . On Server Started : added </p>
+<p> . On Server Started : new </p>
+<p> . On Client Started : new </p>
 <p> . Server send message to Client : removed Network Object input </p>
 <p> . Client send message to Server : removed Network Object input </p>
 
