@@ -5,7 +5,8 @@
 <p> <b>+ Macro-Netcode : </b> </p> 
 <p> . is Owner? : input with Player Object only now</p>
 <p> . On Server Started : added </p>
-
+<p> . Server send message to Client : removed Network Object input </p>
+<p> . Client send message to Server : removed Network Object input </p>
 
 <p> <b>+ Macro-Url : </b> </p> 
 <p> . No more use On UnityEvents </p>
