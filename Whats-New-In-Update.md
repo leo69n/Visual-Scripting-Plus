@@ -2,6 +2,9 @@
 
 <h2>***Update Version : 1.203 (Working)  : </h2>
 
+<p> <b>+ Macro-Netcode : </b> </p> 
+<p> . is Owner? : input with Player Object only now</p>
+
 <p> <b>+ Macro-Url : </b> </p> 
 <p> . No more use On UnityEvents </p>
 
