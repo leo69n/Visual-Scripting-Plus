@@ -22,7 +22,7 @@
 <p> <b>+ Macro-Character : </b> </p> 
 <p> . Move [1 Time] : apply Set Velocity 1 time only. Object will keep moving after </p>
 
-<h2>***Update Version : 1.202 (Submiting)  : </h2>
+<h2>***Update Version : 1.202 (On Unity Asset Store at Feb 10th, 2024)  : </h2>
 
 <p> <b>+ Macro-Lobby : </b> </p> 
 <p> . Full Tutorial video uploaded </p>
