@@ -7,6 +7,9 @@
 <p> . Support : Create Lobby, Connect P2P players on Steam, Auto Join or Game Matching (Level / Rank / Game mode) super easy, Reconnect after disconnected in 1 node only. </p>
 <p> . Using Netcode </p>
 
+<p> <b>+ Macro-Lobby : (***REMAKE) </b> </p> 
+<p> . Use different Matching (not same Unity Service, but better) </p>
+
 <p> <b>+ Macro-Netcode : </b> </p> 
 <p> . On Server Started : new </p>
 <p> . On Client Started : new </p>
