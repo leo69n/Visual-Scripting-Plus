@@ -9,6 +9,7 @@
 
 <p> <b>+ Macro-Lobby : (***REMAKE) </b> </p> 
 <p> . Use different Matching (not same Unity Service, but better) </p>
+<p> . Easier to use </p>
 
 <p> <b>+ Macro-Netcode : </b> </p> 
 <p> . On Server Started : new </p>
