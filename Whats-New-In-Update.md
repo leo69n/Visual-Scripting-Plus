@@ -1,5 +1,15 @@
 # Visual Scripting Plus
 
+<h2>***Update Version : 1.206 (working)  : </h2>
+
+<p> <b>+ Macro-Netcode:  </b> </p> 
+<p> . Server Sample Network Object : Fixed missing script when not imported Macro-NoMacro </p>
+
+<p> <b>+ Macro-NoMacro :  </b> </p> 
+<p> . Added : Dont Destroy On Load [Non Unique] </p>
+
+
+
 <h2>***Update Version : 1.205 (On Unity Asset Store at March 13th, 2024)  : </h2>
 
 <p> <b>+ Macro-SteamNetwork : (***NEW) Free Relay + Unlimited Bandwidth </b> </p> 
