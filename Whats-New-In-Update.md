@@ -2,6 +2,9 @@
 
 <h2>***Update Version : 1.206 (working)  : </h2>
 
+<p> <b>+ Macro-ChatVivox: (***NEW) </b> </p> 
+<p> . Voice and text chat in game : using Unity Vivox </p>
+
 <p> <b>+ Macro-Netcode:  </b> </p> 
 <p> . Server Sample Network Object : Fixed missing script when not imported Macro-NoMacro </p>
 
