@@ -7,8 +7,6 @@
 <p> . 3D - Touch </p>
 <p> . Touch Down / Up </p>
 
-<p> <b>+ Macro-Touch: ***Removed </b> </p> 
-<p> . Replaced with : Macro-Pointer, Macro-ButtonUI & "3D-Touch" in Macro-NoMacro </p>
 
 <h2>***Update Version : 1.206 (On Unity Asset Store at March 21th, 2024)  : </h2>
 
