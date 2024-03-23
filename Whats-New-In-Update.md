@@ -1,6 +1,13 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.206 (working)  : </h2>
+<h2>***Update Version : 1.207 (working)  : </h2>
+
+<p> <b>+ Macro-NoMacro: </b> </p> 
+<p> . 3D : Position at Feet of collider </p>
+
+
+
+<h2>***Update Version : 1.206 (On Unity Asset Store at March 21th, 2024)  : </h2>
 
 <p> <b>+ Macro-ChatVivox: (***NEW) </b> </p> 
 <p> . Voice and text chat in game : using Unity Vivox </p>
