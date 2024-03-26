@@ -2,10 +2,16 @@
 
 <h2>***Update Version : 1.207 (working)  : </h2>
 
+<p> <b>+ Macro-Character: </b> </p> 
+<p> . Added : 3D / 2D Get Direction Between 2 Objects or 2 Positions </p>
+
 <p> <b>+ Macro-NoMacro: </b> </p> 
 <p> . 3D : Position at Feet of collider </p>
 <p> . 3D - Touch </p>
 <p> . Touch Down / Up </p>
+
+<p> <b>+ Macro-Pointer: </b> </p> 
+<p> . Touching Tag : fixed unknown Touching Object </p>
 
 
 <h2>***Update Version : 1.206 (On Unity Asset Store at March 21th, 2024)  : </h2>
