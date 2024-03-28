@@ -1,6 +1,9 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.207 (working)  : </h2>
+<h2>***Update Version : 1.208 (working)  : </h2>
+
+
+<h2>***Update Version : 1.207 (submiting)  : </h2>
 
 <p> <b>+ Macro-ChatVivox: </b> </p> 
 <p> . Join Multi Text Channel : now you can join in 1 Voice Channel and multi Text Channels at the same time as Discord </p>
