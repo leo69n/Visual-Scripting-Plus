@@ -1,9 +1,10 @@
 # Visual Scripting Plus
 
 <h2>***Update Version : 1.209 (working)  : </h2>
+<p> <b>+ Macro-ChatVivox: </b> </p> 
+<p> . Removed warning unknown method on last version </p>
 
-
-<h2>***Update Version : 1.208 (submiting)  : </h2>
+<h2>***Update Version : 1.208 (On Unity Asset Store at April 1, 2024)   : </h2>
 
 <p> <b>+ Macro-ChatVivox: </b> </p> 
 <p> . Join Multi Text Channel : now you can join in 1 Voice Channel and multi Text Channels at the same time as Discord </p>
