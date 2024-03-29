@@ -3,6 +3,7 @@
 <h2>***Update Version : 1.209 (working)  : </h2>
 <p> <b>+ Macro-ChatVivox: </b> </p> 
 <p> . Removed warning unknown method on last version </p>
+<p> . Get Message History : fixed. Can get all message history from all text channels </p>
 
 <h2>***Update Version : 1.208 (On Unity Asset Store at April 1, 2024)   : </h2>
 
