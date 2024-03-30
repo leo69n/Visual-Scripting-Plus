@@ -1,11 +1,12 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.209 (working)  : </h2>
+<h2>***Update Version : 1.210 (working)  : </h2>
 <p> <b>+ Macro-ChatVivox: </b> </p> 
 <p> . Removed warning unknown method from last version </p>
 <p> . Get Message History : fixed bug from last version </p>
 <p> . Send Message in Channel : fixed bug from last version </p>
 <p> . Leave A Channel : added </p>
+<p> . Option to automatically Ask microphone permission at start </p>
 
 <h2>***Update Version : 1.208 (On Unity Asset Store at April 1, 2024)   : </h2>
 
