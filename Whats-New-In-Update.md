@@ -5,7 +5,7 @@
 <p> . Removed warning unknown method from last version </p>
 <p> . Get Message History : fixed bug from last version </p>
 <p> . Send Message in Channel : fixed bug from last version </p>
-
+<p> . Leave A Channel : added </p>
 
 <h2>***Update Version : 1.208 (On Unity Asset Store at April 1, 2024)   : </h2>
 
