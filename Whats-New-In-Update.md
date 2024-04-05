@@ -1,5 +1,7 @@
 # Visual Scripting Plus
 <h2>***Update Version : 1.211 (working...)  : </h2>
+<p> <b>+ Macro-NoMacro: </b> </p> 
+<p> . Self Script Enable : Turn on off Visual Scripting script ... to disable [On Update] [On Fixed Update] </p>
 
 
 
