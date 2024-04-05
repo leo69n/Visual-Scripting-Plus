@@ -1,19 +1,18 @@
 # Visual Scripting Plus
+<h2>***Update Version : 1.211 (working...)  : </h2>
 
-<h2>***Update Version : 1.210 (working)  : </h2>
+
+
+<h2>***Update Version : 1.210 (On Unity Asset Store at April 1, 2024)  : </h2>
 <p> <b>+ Macro-ChatVivox: </b> </p> 
+<p> . Join Multi Text Channel : now you can join in 1 Voice Channel and multi Text Channels at the same time as Discord </p>
+<p> . Join in Group Channel : renamed to [Join in Voice Channel] , can join in 1 voice channel at the same time only. Must leave the Current Voice Channel before you want to join in another Voice Channel </p>
+<p> . Get All Text Channels : get list of all joined Text Channels </p>
 <p> . Removed warning unknown method from last version </p>
 <p> . Get Message History : fixed bug from last version </p>
 <p> . Send Message in Channel : fixed bug from last version </p>
 <p> . Leave A Channel : added </p>
 <p> . Option to automatically Ask microphone permission at start </p>
-
-<h2>***Update Version : 1.208 (On Unity Asset Store at April 1, 2024)   : </h2>
-
-<p> <b>+ Macro-ChatVivox: </b> </p> 
-<p> . Join Multi Text Channel : now you can join in 1 Voice Channel and multi Text Channels at the same time as Discord </p>
-<p> . Join in Group Channel : renamed to [Join in Voice Channel] , can join in 1 voice channel at the same time only. Must leave the Current Voice Channel before you want to join in another Voice Channel </p>
-<p> . Get All Text Channels : get list of all joined Text Channels </p>
 
 <p> <b>+ Macro-Character: </b> </p> 
 <p> . Added : 3D / 2D Get Direction Between 2 Objects or 2 Positions </p>
