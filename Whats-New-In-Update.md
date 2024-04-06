@@ -2,8 +2,8 @@
 <h2>***Update Version : 1.211 (working...)  : </h2>
 <p> <b>+ Macro-NoMacro: </b> </p> 
 <p> . Self Script Enable : Turn on off Visual Scripting script ... to disable [On Update] [On Fixed Update] </p>
-
-
+<p> . List - Sort Number [2 Layers] : increasing or decreasing </p>
+<p> . List - Sort String [2 Layers] : increasing or decreasing </p>
 
 <h2>***Update Version : 1.210 (On Unity Asset Store at April 1, 2024)  : </h2>
 <p> <b>+ Macro-ChatVivox: </b> </p> 
