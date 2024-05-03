@@ -5,7 +5,7 @@
 <p> . Fixed : missing script Macro-UnityAdsLegacy in its prefab </p>
 
 <p> <b>+ Macro-ChatVivox: </b> </p> 
-<p> . Updated instruction : using version 16.3.0 </p>
+<p> . Updated instruction : using Vivox version 16.3.0 </p>
 
 <p> <b>+ Macro-NoMacro: </b> </p> 
 <p> . Self Script Disable : Turn on off Visual Scripting script ... to disable [On Update] [On Fixed Update] </p>
