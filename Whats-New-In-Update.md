@@ -1,5 +1,8 @@
 # Visual Scripting Plus
 <h2>***Update Version : 1.212 (working...)  : </h2>
+<p> <b>+ Macro-UnityAdsLegacy: </b> </p> 
+<p> . Fixed : missing script Macro-UnityAdsLegacy in its prefab </p>
+
 <p> <b>+ Macro-NoMacro: </b> </p> 
 <p> . Self Script Disable : Turn on off Visual Scripting script ... to disable [On Update] [On Fixed Update] </p>
 <p> . Has Internet : to check if your device has internet currently </p>
