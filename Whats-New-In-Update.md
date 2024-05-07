@@ -1,12 +1,15 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.212 (working...)  : </h2>
-<p> <b>+ Macro-UnityAdsLegacy: </b> </p> 
-<p> . Fixed : missing script Macro-UnityAdsLegacy in its prefab </p>
+<h2>***Update Version : 1.213 (working...)  : </h2>
 
 <p> <b>+ Macro-ChatVivox: </b> </p> 
 <p> . Updated instruction : using Vivox version 16.3.0 </p>
 <p> . Showing Channel Name after joining a Channel : easier to debug </p>
+<p> . Added waiting async : All Leave,SendMessage,DeleteMessage ... must be waited until other Async completed before it can continued </p>
+<p> This will avoid to interupt those await events from Vivox and throw errors </p>
+
+<p> <b>+ Macro-UnityAdsLegacy: </b> </p> 
+<p> . Fixed : missing script Macro-UnityAdsLegacy in its prefab </p>
 
 <p> <b>+ Macro-NoMacro: </b> </p> 
 <p> . Self Script Disable : Turn on off Visual Scripting script ... to disable [On Update] [On Fixed Update] </p>
