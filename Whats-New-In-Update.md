@@ -6,6 +6,7 @@
 
 <p> <b>+ Macro-ChatVivox: </b> </p> 
 <p> . Updated instruction : using Vivox version 16.3.0 </p>
+<p> . Showing Channel Name after joining a Channel : easier to debug </p>
 
 <p> <b>+ Macro-NoMacro: </b> </p> 
 <p> . Self Script Disable : Turn on off Visual Scripting script ... to disable [On Update] [On Fixed Update] </p>
