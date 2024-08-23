@@ -1,6 +1,12 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.213 (working...)  : </h2>
+<h2>***Update Version : 1.215 (working...)  : </h2>
+
+<p> <b>+ Macro-NoMacro: </b> </p> 
+<p> . List: Remove Items from Index </p>
+
+
+<h2>***Update Version : 1.214 (On Unity Asset June 01 , 2024)  : </h2>
 
 <p> <b>+ Macro-ChatVivox: </b> </p> 
 <p> . Updated instruction : using Vivox version 16.3.0 </p>
