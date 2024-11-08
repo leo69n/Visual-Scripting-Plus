@@ -4,7 +4,9 @@
 
 <p> <b>+ Macro-NoMacro: </b> </p> 
 <p> . List: Remove Items from Index </p>
-
+<p> <b>+ Macro-Admob: </b> </p> 
+<p> . Added : Singleton and Dont Destroy on Load </p>
+<p> . More notice how to build </p>
 
 <h2>***Update Version : 1.214 (On Unity Asset June 01 , 2024)  : </h2>
 
