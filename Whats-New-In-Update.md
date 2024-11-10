@@ -2,8 +2,12 @@
 
 <h2>***Update Version : 1.215 (working...)  : </h2>
 
+<p> <b>+ Macro-Timer: </b> </p> 
+<p> . New : Convert Seconds to Min and Sec ( in string type and Number type ) </p>
+
 <p> <b>+ Macro-NoMacro: </b> </p> 
 <p> . List: Remove Items from Index </p>
+
 <p> <b>+ Macro-Admob: </b> </p> 
 <p> . Added : Singleton and Dont Destroy on Load </p>
 <p> . More notice how to build </p>
