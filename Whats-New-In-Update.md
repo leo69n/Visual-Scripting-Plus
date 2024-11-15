@@ -2,6 +2,9 @@
 
 <h2>***Update Version : 1.215 (working...)  : </h2>
 
+<p> <b>+ Macro-Text: </b> </p> 
+<p> . New : Convert Number to Alphabet only ... to make long ID shorter </p>
+
 <p> <b>+ Macro-Timer: </b> </p> 
 <p> . New : Convert Seconds to Min and Sec ( in string type and Number type ) </p>
 
