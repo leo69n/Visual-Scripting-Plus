@@ -3,7 +3,7 @@
 <h2>***Update Version : 1.215 (working...)  : </h2>
 
 <p> <b>+ Macro-TimeTween:***New </b> </p> 
-<p> . Using Timer : not mathing. So it will boost performance than any other Tween tool </p>
+<p> . Using Timer : not mathing. So it will boost performance than any other Tween tools </p>
 <p> . Smoothly get value from 0 to 1 : used to do Sine, Tween, Screen Transition, Move Object smoothly </p>
 
 <p> <b>+ Macro-Text: </b> </p> 
