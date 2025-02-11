@@ -6,6 +6,9 @@
 <p> . Using Timer : not mathing. So it will boost performance than any other Tween tools </p>
 <p> . Smoothly get value from 0 to 1 : used to do Sine, Tween, Screen Transition, Move Object smoothly </p>
 
+<p> <b>+ Macro-Netcode: </b> </p> 
+<p> . Fixed On Network Object Spawn : always take 1st object is "Server Network Object VSP" it is removed from this event. </p>
+
 <p> <b>+ Macro-Text: </b> </p> 
 <p> . New : Convert Number to Alphabet only ... to make long ID shorter </p>
 
