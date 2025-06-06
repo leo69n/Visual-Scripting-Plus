@@ -2,13 +2,13 @@
 
 <h2>***Update Version : 1.216 (Working...)  : </h2>
 
-<p> <b>+ Macro-NoMacro:***New </b> </p> 
+<p> <b>+ Macro-NoMacro: </b> </p> 
 <p> . NoMacro : Mouse 3D Touch Hit from Screen </p>
 <p> . NoMacro : Position 3D Touch Hit from Screen </p>
 <p> . String - Remove New Line : remove new line Character and enter Character in a String  </p>
 <p> . List - Select a Random Item in List : pick a random item from a List </p>
 
-<p> <b>+ Macro-Text:***New </b> </p> 
+<p> <b>+ Macro-Text: </b> </p> 
 <p> . Text - Read All Lines : fixed to remove new line Character from the result </p>
 
 <h2>***Update Version : 1.215 (On Unity Asset Feb 12 , 2024)  : </h2>
