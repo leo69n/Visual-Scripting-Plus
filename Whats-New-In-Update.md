@@ -5,7 +5,7 @@
 <p> <b>+ Macro-SaveVariables:***New </b> </p> 
 <p> . Replace Saved Variables  </p>
 <p> . Saved Variables : can not be saved after Your app is updated in new version on Game store  </p>
-<p> . Macro-Saved Variables : can save your Variables after Your app is updated in new version on Game store  </p>
+<p> . Macro-SaveVariables : can save your Variables after Your app is updated in new version on Game store  </p>
 
 <p> <b>+ Macro-ValueTween:***New </b> </p> 
 <p> . Replace Macro-TimeTween  </p>
