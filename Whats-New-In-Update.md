@@ -2,6 +2,10 @@
 
 <h2>***Update Version : 1.217 (Working...)  : </h2>
 
+<p> <b>+ Macro-Steamworks: </b> </p> 
+<p> . Get Avatar of Friends and Info  </p>
+<p> . Get your own info and friends info : even not in a lobby  </p>
+
 <p> <b>+ Macro-SaveVariables:***New </b> </p> 
 <p> . Replace Saved Variables  </p>
 <p> . Saved Variables : can not be saved after Your app is updated in new version on Game store  </p>
@@ -19,6 +23,10 @@
 
 <p> <b>+ Macro-Text: </b> </p> 
 <p> . Text - Read All Lines : fixed to remove new line Character from the result </p>
+
+<p> <b>+ Macro-Timer: </b> </p> 
+<p> . Date Time : Events to handle Date Time  </p>
+<p> . Time Span : Events to handle Date Time  </p>
 
 <h2>***Update Version : 1.215 (On Unity Asset Feb 12 , 2024)  : </h2>
 
