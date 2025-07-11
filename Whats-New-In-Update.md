@@ -3,7 +3,7 @@
 <h2>***Update Version : 1.218 (Working...)  : </h2>
 
 
-<h2>***Update Version : 1.217 Uploading July 11th 2025...)  : </h2>
+<h2>***Update Version : 1.217 (Uploading July 11th 2025...)  : </h2>
 
 <p> <b>+ Macro-Steamworks: </b> </p> 
 <p> . Get Avatar of Friends and Info  </p>
@@ -23,6 +23,7 @@
 <p> . NoMacro : Position 3D Touch Hit from Screen </p>
 <p> . String - Remove New Line : remove new line Character and enter Character in a String  </p>
 <p> . List - Select a Random Item in List : pick a random item from a List </p>
+<p> . For loop reverse : run Loop from End to Start in case to deleting Children Objects inside an Object or deleting List easily </p>
 
 <p> <b>+ Macro-Text: </b> </p> 
 <p> . Text - Read All Lines : fixed to remove new line Character from the result </p>
