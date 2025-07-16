@@ -4,6 +4,8 @@
 
 
 <h2>***Update Version : 1.217 (Uploading July 11th 2025...)  : </h2>
+<p> <b>+ Macro-Timer: </b> </p> 
+<p> . Fixed : can call many seperate Timer events in 1 graph   </p>
 
 <p> <b>+ Macro-Steamworks: </b> </p> 
 <p> . Get Avatar of Friends and Info  </p>
