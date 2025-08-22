@@ -7,6 +7,10 @@
 <p> <b>+ Macro-Text: </b> </p> 
 <p> . Split Text : remove new line Character now   </p>
 
+<p> <b>+ Macro-NoMacro: </b> </p> 
+<p> . Added Paging Calculate : how to get Start Index , End Index of Current Page   </p>
+<p> . Added Paging Max Page : calculate max page of Paging   </p>
+
 <h2>***Update Version : 1.217 (Uploading July 11th 2025...)  : </h2>
 
 <p> <b>+ Macro-Steamworks: </b> </p> 
