@@ -3,8 +3,13 @@
 <h2>***Update Version : 1.218 (Working...)  : </h2>
 
 <p> <b>+ FIXED : fix some depricated code </b> </p> 
+
+<p> <b>+ Macro-SteamNetwork: </b> </p> 
+<p> . Fixed all node AFriend,ALobby bugs that sometime vanished at the 1st time installing </p>
+
 <p> <b>+ Macro-Netcode Package: </b> </p> 
 <p> . Macro-Replay and Macro-Lobby: now was plugin Multiplayer   </p>
+<p> . Fixed all node ALobby bugs that sometime vanished at the 1st time installing </p>
 
 <p> <b>+ Macro-Timer: </b> </p> 
 <p> . Fixed : can call many seperate Timer events in 1 graph   </p>
