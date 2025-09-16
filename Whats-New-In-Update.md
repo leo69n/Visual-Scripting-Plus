@@ -1,6 +1,6 @@
 # Visual Scripting Plus
 
-<h2>***Update Version : 1.218 (Working...)  : </h2>
+<h2>***Update Version : 1.218 (Uploading Sep 16th 2025...)  : </h2>
 
 <p> <b>+ FIXED : fix some depricated code to work with UNITY 6 or newer </b> </p> 
 
