@@ -1,4 +1,9 @@
 # Visual Scripting Plus
+<h2>***Update Version : 1.219 (Working...)  : </h2>
+
+<p> <b>+ Macro-URL: </b> </p> 
+<p> . New*: Request Post Mothod with Encode safe url </p>
+<p> . New*: Convert string to Base64 encode. Convert all special characters into safe characters that can be used in url </p>
 
 <h2>***Update Version : 1.218 (Uploading Sep 16th 2025...)  : </h2>
 
