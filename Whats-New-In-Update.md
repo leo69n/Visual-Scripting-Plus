@@ -1,6 +1,9 @@
 # Visual Scripting Plus
 <h2>***Update Version : 1.219 (Working...)  : </h2>
 
+<p> <b>+ Tool Custom Event Finder: ***New </b> </p> 
+- Open and marked where Custom Event is with the giving name.
+
 <p> <b>+ Macro-UISpriteAnimation: ***New </b> </p> 
 - Play UI Sprite frame to frame from a List of Sprites input.
 
